@@ -1,0 +1,51 @@
+# .github/workflows/proxy-tester.yml
+
+name: Run Go Proxy Tester
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Runs the workflow every day at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  test-proxies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21' # Specify your Go version
+
+      - name: Download GeoLite2 Country Database
+        run: |
+          # This URL is a mirror. For official downloads, you may need a MaxMind license key.
+          curl -L -o GeoLite2-Country.mmdb "https://git.io/GeoLite2-Country.mmdb"
+        
+      - name: Install Go dependencies
+        run: |
+          go mod init proxy-tester || true # Initialize go.mod if it doesn't exist
+          go get github.com/naser-989/xray-knife/v3/pkg
+          go get github.com/naser-989/xray-knife/v3/pkg/singbox
+          go get github.com/naser-989/xray-knife/v3/pkg/xray
+          go get github.com/oschwald/geoip2-golang
+          go mod tidy
+
+      - name: Run the proxy tester script
+        run: |
+          # IMPORTANT: Replace the URL with your actual subscription link(s).
+          # You can use GitHub Secrets to store your URLs securely.
+          # For example: -urls "${{ secrets.SUB_URLS }}"
+          go run . -urls "YOUR_SUBSCRIPTION_URL_HERE" -output "v2rayng_profiles.json" -concurrency 50
+
+      - name: Upload results as an artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: proxy-profiles
+          path: v2rayng_profiles.json # The name of the output file from your script
