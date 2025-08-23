@@ -8,7 +8,7 @@ on:
 
   # Runs the workflow every day at midnight UTC
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0/30 * * * *'
 
 jobs:
   test-proxies:
@@ -42,10 +42,23 @@ jobs:
           # IMPORTANT: Replace the URL with your actual subscription link(s).
           # You can use GitHub Secrets to store your URLs securely.
           # For example: -urls "${{ secrets.SUB_URLS }}"
-          go run . -urls "https://github.com/itsyebekhe/PSG/raw/refs/heads/main/subscriptions/xray/normal/ss,https://github.com/itsyebekhe/PSG/raw/refs/heads/main/subscriptions/xray/normal/vless" -output "v2rayng_profiles.json" -concurrency 50
+          go run . -urls "https://github.com/itsyebekhe/PSG/raw/refs/heads/main/subscriptions/xray/normal/ss,https://github.com/itsyebekhe/PSG/raw/refs/heads/main/subscriptions/xray/normal/vless" -output "configs.txt" -concurrency 50
 
       - name: Upload results as an artifact
         uses: actions/upload-artifact@v4
         with:
           name: proxy-profiles
-          path: v2rayng_profiles.json # The name of the output file from your script
+          path: configs.txt # The name of the output file from your script
+
+      - name: Commit and push updated configs
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "github-actions@github.com"
+          git add configs.txt
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated update of config files - $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            git push origin HEAD:main
+          fi
