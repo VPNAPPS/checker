@@ -2,11 +2,15 @@ package main
 
 import (
 	"context"
+	"encoding/base64"
+	"flag"
 	"fmt"
 	"io"
 	"log"
 	"net"
 	"net/http"
+	"os"
+	"sort"
 	"strings"
 	"sync"
 	"time"
@@ -38,33 +42,156 @@ const (
 // geoDB holds the GeoIP database reader.
 var geoDB *geoip2.Reader
 
+// main is the entry point of the application.
+func main() {
+	// Define command-line flags
+	urls := flag.String("urls", "", "Comma-separated list of subscription URLs")
+	timeout := flag.Duration("timeout", 10*time.Second, "Timeout for each network request")
+	concurrency := flag.Int("concurrency", 50, "Number of concurrent workers to test configs")
+	geoDBPath := flag.String("geoip-db", "GeoLite2-Country.mmdb", "Path to the GeoIP MMDB file")
+	outputFile := flag.String("output", "results.txt", "Name of the output file for results")
+
+	flag.Parse()
+
+	if *urls == "" {
+		log.Println("Error: -urls flag is required.")
+		flag.Usage()
+		os.Exit(1)
+	}
+
+	log.SetOutput(os.Stderr)
+	log.Println("Starting proxy tester...")
+
+	// Load the GeoIP database
+	var err error
+	geoDB, err = geoip2.Open(*geoDBPath)
+	if err != nil {
+		log.Fatalf("FATAL: Could not load GeoIP database from '%s'. Error: %v", *geoDBPath, err)
+	}
+	defer geoDB.Close()
+
+	// Fetch configurations from subscription URLs
+	log.Println("Fetching configurations from subscriptions...")
+	subscriptionURLs := strings.Split(*urls, ",")
+	allConfigs := fetchConfigsFromSubscriptions(subscriptionURLs, &http.Client{Timeout: 30 * time.Second})
+	if len(allConfigs) == 0 {
+		log.Fatalf("FATAL: No proxy configurations found from the provided URLs.")
+	}
+	log.Printf("Found %d total configs. Starting tests with %d workers...", len(allConfigs), *concurrency)
+
+	// Test all configurations
+	results := testConfigs(*concurrency, allConfigs, *timeout)
+
+	if len(results) == 0 {
+		log.Println("No working proxies found.")
+		return
+	}
+
+	// Sort results by speed in descending order
+	sort.SliceStable(results, func(i, j int) bool {
+		return results[i].SpeedMbps > results[j].SpeedMbps
+	})
+
+	log.Printf("\n--- Test Complete ---")
+	log.Printf("Found %d working proxies.", len(results))
+
+	// Write results to the output file
+	file, err := os.Create(*outputFile)
+	if err != nil {
+		log.Fatalf("Failed to create output file: %v", err)
+	}
+	defer file.Close()
+
+	for _, result := range results {
+		line := fmt.Sprintf("Country: %s, Speed: %.2f Mbps, Config: %s\n", result.Country, result.SpeedMbps, result.Config)
+		file.WriteString(line)
+	}
+
+	log.Printf("Top %d fastest proxies written to %s", len(results), *outputFile)
+}
+
+// fetchConfigsFromSubscriptions downloads and decodes proxy configurations from a list of subscription URLs.
+func fetchConfigsFromSubscriptions(urls []string, client *http.Client) []string {
+	var wg sync.WaitGroup
+	var mu sync.Mutex
+	var allConfigs []string
+
+	for _, url := range urls {
+		wg.Add(1)
+		go func(u string) {
+			defer wg.Done()
+			log.Printf("Fetching from %s...", u)
+			req, err := http.NewRequest("GET", u, nil)
+			if err != nil {
+				log.Printf("Failed to create request for %s: %v", u, err)
+				return
+			}
+			// Some providers require a specific user agent
+			req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
+
+			resp, err := client.Do(req)
+			if err != nil {
+				log.Printf("Failed to fetch subscription from %s: %v", u, err)
+				return
+			}
+			defer resp.Body.Close()
+
+			if resp.StatusCode != http.StatusOK {
+				log.Printf("Received non-200 status code from %s: %s", u, resp.Status)
+				return
+			}
+
+			body, err := io.ReadAll(resp.Body)
+			if err != nil {
+				log.Printf("Failed to read response body from %s: %v", u, err)
+				return
+			}
+
+			// Attempt to decode from Base64, otherwise use as plain text
+			decodedBody, err := base64.StdEncoding.DecodeString(string(body))
+			var content string
+			if err != nil {
+				content = string(body) // Assume plain text if base64 decoding fails
+			} else {
+				content = string(decodedBody)
+			}
+
+			configs := strings.Split(content, "\n")
+			mu.Lock()
+			for _, config := range configs {
+				trimmed := strings.TrimSpace(config)
+				if trimmed != "" {
+					allConfigs = append(allConfigs, trimmed)
+				}
+			}
+			mu.Unlock()
+		}(url)
+	}
+	wg.Wait()
+	return allConfigs
+}
+
 // testConfigs orchestrates the testing of multiple proxy configurations concurrently.
-// It distributes the work among a specified number of worker goroutines.
 func testConfigs(numWorkers int, configs []string, timeout time.Duration) []Result {
-	// Create channels for jobs and results.
 	jobs := make(chan string, len(configs))
 	resultsChan := make(chan Result, len(configs))
 	var wg sync.WaitGroup
 
-	// Start the worker goroutines.
 	for i := 0; i < numWorkers; i++ {
 		wg.Add(1)
 		go worker(i+1, &wg, jobs, resultsChan, timeout)
 	}
 
-	// Send all configs to the jobs channel.
 	for _, config := range configs {
 		jobs <- config
 	}
 	close(jobs)
 
-	// Wait for all workers to finish, then close the results channel.
 	go func() {
 		wg.Wait()
 		close(resultsChan)
 	}()
 
-	// Collect all results from the results channel.
 	var finalResults []Result
 	for result := range resultsChan {
 		finalResults = append(finalResults, result)
@@ -73,45 +200,36 @@ func testConfigs(numWorkers int, configs []string, timeout time.Duration) []Resu
 }
 
 // worker is a goroutine that processes proxy testing jobs.
-// It receives configurations from the jobs channel and sends results to the results channel.
 func worker(id int, wg *sync.WaitGroup, jobs <-chan string, results chan<- Result, timeout time.Duration) {
 	defer wg.Done()
 	for config := range jobs {
 		var core pkg.Core
-		// Determine the core service (singbox or xray) based on the config prefix.
 		if strings.HasPrefix(config, "hy") {
 			core = singbox.NewSingboxService(false, true)
 		} else {
 			core = xray.NewXrayService(false, false)
 		}
 
-		// Parse the configuration string.
 		proto, err := core.CreateProtocol(config)
 		if err != nil || proto.Parse() != nil {
-			continue // Skip invalid configs.
+			continue
 		}
 
-		// Create an HTTP client that routes traffic through the proxy.
 		httpClient, instance, err := core.MakeHttpClient(proto, timeout)
 		if err != nil {
 			continue
 		}
 		defer instance.Close()
 
-		// 1. Perform a sanity check to see if the proxy is reachable.
 		if !checkReachability(httpClient, timeout) {
 			continue
 		}
-		log.Printf("[Worker %d] Sanity check PASSED for %s", id, proto.ConvertToGeneralConfig().Address)
 
-		// 2. Test the download speed.
-		speed, err := testDownloadSpeed(httpClient, timeout*3) // Use a longer timeout for speed test.
+		speed, err := testDownloadSpeed(httpClient, timeout*3)
 		if err != nil {
 			continue
 		}
-		log.Printf("[Worker %d] Speed test PASSED for %s | Speed: %.2f Mbps", id, proto.ConvertToGeneralConfig().Address, speed)
 
-		// 3. Get the country of the proxy server.
 		ipCheckClient, ipCheckInstance, err := core.MakeHttpClient(proto, timeout)
 		if err != nil {
 			continue
@@ -120,12 +238,10 @@ func worker(id int, wg *sync.WaitGroup, jobs <-chan string, results chan<- Resul
 		ipCheckInstance.Close()
 
 		if country == "" {
-			log.Printf("[Worker %d] Geo-location FAILED for %s", id, proto.ConvertToGeneralConfig().Address)
 			continue
 		}
-		log.Printf("[Worker %d] SUCCESS: %s | Country: %s", id, proto.ConvertToGeneralConfig().Address, country)
 
-		// Send the successful result to the results channel.
+		log.Printf("[Worker %d] SUCCESS: %s | Country: %s | Speed: %.2f Mbps", id, proto.ConvertToGeneralConfig().Address, country, speed)
 		results <- Result{
 			Config:    config,
 			SpeedMbps: speed,
@@ -161,10 +277,9 @@ func getIPAndCountry(client *http.Client, timeout time.Duration) (string, string
 		return "", ""
 	}
 
-	// Look up the country using the GeoIP database.
 	record, err := geoDB.Country(ip)
 	if err != nil {
-		return ipStr, "XX" // Return "XX" for unknown country.
+		return ipStr, "XX"
 	}
 	return ipStr, record.Country.IsoCode
 }
@@ -185,7 +300,6 @@ func checkReachability(client *http.Client, timeout time.Duration) bool {
 	}
 	defer resp.Body.Close()
 
-	// A status code in the 2xx or 3xx range indicates success.
 	return resp.StatusCode >= 200 && resp.StatusCode < 400
 }
 
@@ -210,7 +324,6 @@ func testDownloadSpeed(client *http.Client, timeout time.Duration) (float64, err
 		return 0, fmt.Errorf("received non-200 status: %s", resp.Status)
 	}
 
-	// Discard the downloaded content, as we only need the time it took.
 	_, err = io.Copy(io.Discard, resp.Body)
 	if err != nil {
 		return 0, err
@@ -220,7 +333,6 @@ func testDownloadSpeed(client *http.Client, timeout time.Duration) (float64, err
 		return 0, fmt.Errorf("download took zero time")
 	}
 
-	// Calculate speed in Megabits per second (Mbps).
 	speedMbps := (float64(speedTestFileSize) * 8) / duration / 1_000_000
 	return speedMbps, nil
 }
