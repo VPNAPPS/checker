@@ -42,7 +42,7 @@ jobs:
           # IMPORTANT: Replace the URL with your actual subscription link(s).
           # You can use GitHub Secrets to store your URLs securely.
           # For example: -urls "${{ secrets.SUB_URLS }}"
-          go run . -urls "YOUR_SUBSCRIPTION_URL_HERE" -output "v2rayng_profiles.json" -concurrency 50
+          go run . -urls "https://github.com/itsyebekhe/PSG/raw/refs/heads/main/subscriptions/xray/normal/ss" -output "v2rayng_profiles.json" -concurrency 50
 
       - name: Upload results as an artifact
         uses: actions/upload-artifact@v4
