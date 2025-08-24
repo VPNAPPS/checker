@@ -3,6 +3,10 @@
 name: Run Go Proxy Tester
 
 on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -46,7 +50,7 @@ jobs:
           # IMPORTANT: Replace the URL with your actual subscription link(s).
           # You can use GitHub Secrets to store your URLs securely.
           # For example: -urls "${{ secrets.SUB_URLS }}"
-          go run . -urls "https://github.com/itsyebekhe/PSG/raw/refs/heads/main/subscriptions/xray/normal/vless,https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt" -output "configs.txt" -concurrency 50
+          go run . -urls "https://github.com/itsyebekhe/PSG/raw/refs/heads/main/subscriptions/xray/normal/vless,https://github.com/MatinGhanbari/v2ray-configs/raw/refs/heads/main/subscriptions/filtered/subs/vless.txt" -output "configs.txt" -concurrency 50
 
       - name: Upload results as an artifact
         uses: actions/upload-artifact@v4
