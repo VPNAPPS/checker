@@ -30,7 +30,7 @@ type Result struct {
 
 const (
 	// URL for a quick reachability check.
-	sanityCheckURL = "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html"
+	sanityCheckURL = "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator="
 	// URL of the file to download for speed testing.
 	speedTestURL = "http://cachefly.cachefly.net/10mb.test"
 	// Size of the speed test file in bytes.
