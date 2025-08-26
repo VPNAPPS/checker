@@ -50,7 +50,7 @@ jobs:
           # IMPORTANT: Replace the URL with your actual subscription link(s).
           # You can use GitHub Secrets to store your URLs securely.
           # For example: -urls "${{ secrets.SUB_URLS }}"
-          go run . -urls "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/mix,https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/all.txt,https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt" -output "configs.txt" -concurrency 50
+          go run . -urls "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/mix" -output "configs.txt" -concurrency 50
 
       - name: Upload results as an artifact
         uses: actions/upload-artifact@v4
