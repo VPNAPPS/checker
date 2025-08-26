@@ -1,1 +1,1 @@
-Country: NL, Speed: 22.03 Mbps, Config: vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&type=ws&sni=light-presence.oneeat.co&path=%2F&encryption=none&headerType=none#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40jiedianssr%20%5B8%5D
+Country: NL, Speed: 21.64 Mbps, Config: vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&type=ws&sni=light-presence.oneeat.co&path=%2F&encryption=none&headerType=none#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40jiedianssr%20%5B8%5D
