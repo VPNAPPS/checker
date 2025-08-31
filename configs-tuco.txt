@@ -1,2 +1,3 @@
-Country: JP, Speed: 56.74 Mbps, Config: ss://YWVzLTEyOC1nY206OTQwMDMxYTYtZmQzMi00ZDZiLTkwMWQtNzdiN2Y5NDM2OThl@bl.sytes.net:50414#⚡ b2n.ir/v2ray-configs | 347
-Country: JP, Speed: 42.57 Mbps, Config: vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjguMjA5LjIxMS4yMzYiLCJwb3J0IjoiMzQ5MzMiLCJ0eXBlIjoiZHRscyIsImlkIjoiOGE5MTUwYmMtYjljOC00MGFjLWJlODMtYWFlYzQ1MTc2YTgxIiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+Country: JP, Speed: 158.94 Mbps, Config: vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjguMjA5LjIxMS4yMzYiLCJwb3J0IjoiMzQ5MzMiLCJ0eXBlIjoiZHRscyIsImlkIjoiOGE5MTUwYmMtYjljOC00MGFjLWJlODMtYWFlYzQ1MTc2YTgxIiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+Country: JP, Speed: 81.36 Mbps, Config: ss://YWVzLTEyOC1nY206OTQwMDMxYTYtZmQzMi00ZDZiLTkwMWQtNzdiN2Y5NDM2OThl@bl.sytes.net:50414#⚡ b2n.ir/v2ray-configs | 728
+Country: JP, Speed: 25.18 Mbps, Config: ss://YWVzLTEyOC1nY206OTQwMDMxYTYtZmQzMi00ZDZiLTkwMWQtNzdiN2Y5NDM2OThl@bl.sytes.net:50414#⚡ b2n.ir/v2ray-configs | 697
