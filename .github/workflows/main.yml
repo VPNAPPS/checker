@@ -1,7 +1,5 @@
 # .github/workflows/proxy-tester.yml
-
 name: Run Go Proxy Tester
-
 on:
   push:
     branches: [ main ]
@@ -9,11 +7,9 @@ on:
     branches: [ main ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
   # Runs the workflow every day at midnight UTC
   schedule:
     - cron: '0/30 * * * *'
-
 permissions:
   contents: write
   actions: read
@@ -21,16 +17,13 @@ permissions:
 jobs:
   test-proxies:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
           go-version: '1.21' # Specify your Go version
-
       - name: Download GeoLite2 Country Database
         run: |
           # This URL is a mirror. For official downloads, you may need a MaxMind license key.
@@ -44,20 +37,19 @@ jobs:
           go get github.com/naser-989/xray-knife/v3/pkg/xray
           go get github.com/oschwald/geoip2-golang
           go mod tidy
-
       - name: Run the proxy tester script
+        env:
+          SUB_URLS: ${{ secrets.SUB_URLS }}
         run: |
-          # IMPORTANT: Replace the URL with your actual subscription link(s).
-          # You can use GitHub Secrets to store your URLs securely.
-          # For example: -urls "${{ secrets.SUB_URLS }}"
-          go run . -urls "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/mix,https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt" -output "configs.txt" -concurrency 50
-
+          # Convert newline-separated URLs to comma-separated format
+          URLS_COMMA_SEPARATED=$(echo "$SUB_URLS" | tr '\n' ',' | sed 's/,$//')
+          echo "Using URLs: $URLS_COMMA_SEPARATED"
+          go run . -urls "$URLS_COMMA_SEPARATED" -output "configs.txt" -concurrency 50
       - name: Upload results as an artifact
         uses: actions/upload-artifact@v4
         with:
           name: proxy-profiles
           path: configs.txt # The name of the output file from your script
-
       - name: Commit and push updated configs
         run: |
           git config user.name "GitHub Actions Bot"
