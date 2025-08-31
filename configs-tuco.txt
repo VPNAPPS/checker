@@ -1,9 +1,9 @@
-Country: TW, Speed: 96.27 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODJhNjQwYy1jYTFhLTQyNWUtODM5OC1kNWFjODZiZmIwOTY=@114.35.114.182:10129#⚡ b2n.ir/v2ray-configs | 650
-Country: JP, Speed: 82.43 Mbps, Config: ss://YWVzLTEyOC1nY206OTQwMDMxYTYtZmQzMi00ZDZiLTkwMWQtNzdiN2Y5NDM2OThl@bl.sytes.net:50414#⚡ b2n.ir/v2ray-configs | 422
-Country: TW, Speed: 80.93 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODJhNjQwYy1jYTFhLTQyNWUtODM5OC1kNWFjODZiZmIwOTY@114.35.114.182:10129#⚡ b2n.ir/v2ray-configs | 208
-Country: JP, Speed: 79.58 Mbps, Config: vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjguMjA5LjIxMS4yMzYiLCJwb3J0IjoiMzQ5MzMiLCJ0eXBlIjoiZHRscyIsImlkIjoiOGE5MTUwYmMtYjljOC00MGFjLWJlODMtYWFlYzQ1MTc2YTgxIiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-Country: TW, Speed: 78.79 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTcxNDljZC1lYTc3LTRlNDYtYWY3ZC1kNGY2OTMwZWE1NDE@125.228.31.10:10113#⚡ b2n.ir/v2ray-configs | 476
-Country: JP, Speed: 53.57 Mbps, Config: ss://YWVzLTEyOC1nY206OTQwMDMxYTYtZmQzMi00ZDZiLTkwMWQtNzdiN2Y5NDM2OThl@bl.sytes.net:50414#⚡ b2n.ir/v2ray-configs | 830
-Country: TW, Speed: 52.58 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTcxNDljZC1lYTc3LTRlNDYtYWY3ZC1kNGY2OTMwZWE1NDE=@125.228.31.10:10113#⚡ b2n.ir/v2ray-configs | 673
-Country: TW, Speed: 42.14 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTcxNDljZC1lYTc3LTRlNDYtYWY3ZC1kNGY2OTMwZWE1NDE=@125.228.31.10:10113#⚡ b2n.ir/v2ray-configs | 800
-Country: HK, Speed: 11.09 Mbps, Config: vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjQ3LjIzOS4xODMuODciLCJwb3J0IjoiMjg1OTAiLCJ0eXBlIjoidXRwIiwiaWQiOiJkNzU0ODFjNy1iNWM4LTQwYTktODExYS0wMmI3MDllNzQ4MTYiLCJhaWQiOiIwIiwibmV0Ijoia2NwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+Country: HK, Speed: 228.95 Mbps, Config: vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjQ3LjIzOS4xODMuODciLCJwb3J0IjoiMjg1OTAiLCJ0eXBlIjoidXRwIiwiaWQiOiJkNzU0ODFjNy1iNWM4LTQwYTktODExYS0wMmI3MDllNzQ4MTYiLCJhaWQiOiIwIiwibmV0Ijoia2NwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+Country: TW, Speed: 92.74 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODJhNjQwYy1jYTFhLTQyNWUtODM5OC1kNWFjODZiZmIwOTY@114.35.114.182:10129#⚡ b2n.ir/v2ray-configs | 208
+Country: TW, Speed: 89.76 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTcxNDljZC1lYTc3LTRlNDYtYWY3ZC1kNGY2OTMwZWE1NDE=@125.228.31.10:10113#⚡ b2n.ir/v2ray-configs | 673
+Country: TW, Speed: 85.68 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTcxNDljZC1lYTc3LTRlNDYtYWY3ZC1kNGY2OTMwZWE1NDE@125.228.31.10:10113#⚡ b2n.ir/v2ray-configs | 476
+Country: TW, Speed: 74.99 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODJhNjQwYy1jYTFhLTQyNWUtODM5OC1kNWFjODZiZmIwOTY@114.35.114.182:10129#⚡ b2n.ir/v2ray-configs | 497
+Country: JP, Speed: 72.67 Mbps, Config: ss://YWVzLTEyOC1nY206OTQwMDMxYTYtZmQzMi00ZDZiLTkwMWQtNzdiN2Y5NDM2OThl@bl.sytes.net:50414#⚡ b2n.ir/v2ray-configs | 422
+Country: TW, Speed: 43.69 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODJhNjQwYy1jYTFhLTQyNWUtODM5OC1kNWFjODZiZmIwOTY=@114.35.114.182:10129#⚡ b2n.ir/v2ray-configs | 248
+Country: TW, Speed: 20.68 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODJhNjQwYy1jYTFhLTQyNWUtODM5OC1kNWFjODZiZmIwOTY=@114.35.114.182:10129#⚡ b2n.ir/v2ray-configs | 650
+Country: JP, Speed: 15.49 Mbps, Config: vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjguMjA5LjIxMS4yMzYiLCJwb3J0IjoiMzQ5MzMiLCJ0eXBlIjoiZHRscyIsImlkIjoiOGE5MTUwYmMtYjljOC00MGFjLWJlODMtYWFlYzQ1MTc2YTgxIiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
