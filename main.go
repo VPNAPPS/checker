@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"io"
 	"log"
+	"net"
 	"net/http"
 	"os"
-	"regexp"
 	"sort"
 	"strings"
 	"sync"
@@ -28,12 +28,6 @@ type Result struct {
 	Country   string
 }
 
-// ConfigLine represents a parsed configuration line with country and config
-type ConfigLine struct {
-	Country string
-	Config  string
-}
-
 const (
 	// URL for a quick reachability check.
 	sanityCheckURL = "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator="
@@ -48,9 +42,6 @@ const (
 // geoDB holds the GeoIP database reader.
 var geoDB *geoip2.Reader
 
-// Regex pattern to match the format: "Country: XX, Speed: YY Mbps, Config: ..."
-var configLinePattern = regexp.MustCompile(`^Country:\s*([A-Z]{2}),\s*Speed:\s*[\d.]+\s*Mbps,\s*Config:\s*(.+)$`)
-
 // main is the entry point of the application.
 func main() {
 	// Define command-line flags
@@ -59,7 +50,6 @@ func main() {
 	concurrency := flag.Int("concurrency", 50, "Number of concurrent workers to test configs")
 	geoDBPath := flag.String("geoip-db", "GeoLite2-Country.mmdb", "Path to the GeoIP MMDB file")
 	outputFile := flag.String("output", "results.txt", "Name of the output file for results")
-	skipGeoLookup := flag.Bool("skip-geo", false, "Skip geolocation lookup if configs already have country info")
 
 	flag.Parse()
 
@@ -72,27 +62,25 @@ func main() {
 	log.SetOutput(os.Stderr)
 	log.Println("Starting proxy tester...")
 
-	// Load the GeoIP database only if we're not skipping geo lookup
-	if !*skipGeoLookup {
-		var err error
-		geoDB, err = geoip2.Open(*geoDBPath)
-		if err != nil {
-			log.Fatalf("FATAL: Could not load GeoIP database from '%s'. Error: %v", *geoDBPath, err)
-		}
-		defer geoDB.Close()
+	// Load the GeoIP database
+	var err error
+	geoDB, err = geoip2.Open(*geoDBPath)
+	if err != nil {
+		log.Fatalf("FATAL: Could not load GeoIP database from '%s'. Error: %v", *geoDBPath, err)
 	}
+	defer geoDB.Close()
 
 	// Fetch configurations from subscription URLs
 	log.Println("Fetching configurations from subscriptions...")
 	subscriptionURLs := strings.Split(*urls, ",")
-	allConfigLines := fetchConfigsFromSubscriptions(subscriptionURLs, &http.Client{Timeout: 30 * time.Second})
-	if len(allConfigLines) == 0 {
+	allConfigs := fetchConfigsFromSubscriptions(subscriptionURLs, &http.Client{Timeout: 30 * time.Second})
+	if len(allConfigs) == 0 {
 		log.Fatalf("FATAL: No proxy configurations found from the provided URLs.")
 	}
-	log.Printf("Found %d total configs. Starting tests with %d workers...", len(allConfigLines), *concurrency)
+	log.Printf("Found %d total configs. Starting tests with %d workers...", len(allConfigs), *concurrency)
 
 	// Test all configurations
-	results := testConfigs(*concurrency, allConfigLines, *timeout, *skipGeoLookup)
+	results := testConfigs(*concurrency, allConfigs, *timeout)
 
 	if len(results) == 0 {
 		log.Println("No working proxies found.")
@@ -122,28 +110,11 @@ func main() {
 	log.Printf("Top %d fastest proxies written to %s", len(results), *outputFile)
 }
 
-// parseConfigLine attempts to parse a line in the format "Country: XX, Speed: YY Mbps, Config: ..."
-// Returns the country and config if successful, otherwise returns empty country and the original line as config
-func parseConfigLine(line string) ConfigLine {
-	matches := configLinePattern.FindStringSubmatch(line)
-	if len(matches) == 3 {
-		return ConfigLine{
-			Country: matches[1],
-			Config:  matches[2],
-		}
-	}
-	// If it doesn't match the pattern, treat the whole line as a config without country info
-	return ConfigLine{
-		Country: "",
-		Config:  line,
-	}
-}
-
 // fetchConfigsFromSubscriptions downloads and decodes proxy configurations from a list of subscription URLs.
-func fetchConfigsFromSubscriptions(urls []string, client *http.Client) []ConfigLine {
+func fetchConfigsFromSubscriptions(urls []string, client *http.Client) []string {
 	var wg sync.WaitGroup
 	var mu sync.Mutex
-	var allConfigLines []ConfigLine
+	var allConfigs []string
 
 	for _, url := range urls {
 		wg.Add(1)
@@ -185,35 +156,34 @@ func fetchConfigsFromSubscriptions(urls []string, client *http.Client) []ConfigL
 				content = string(decodedBody)
 			}
 
-			lines := strings.Split(content, "\n")
+			configs := strings.Split(content, "\n")
 			mu.Lock()
-			for _, line := range lines {
-				trimmed := strings.TrimSpace(line)
+			for _, config := range configs {
+				trimmed := strings.TrimSpace(config)
 				if trimmed != "" {
-					configLine := parseConfigLine(trimmed)
-					allConfigLines = append(allConfigLines, configLine)
+					allConfigs = append(allConfigs, trimmed)
 				}
 			}
 			mu.Unlock()
 		}(url)
 	}
 	wg.Wait()
-	return allConfigLines
+	return allConfigs
 }
 
 // testConfigs orchestrates the testing of multiple proxy configurations concurrently.
-func testConfigs(numWorkers int, configLines []ConfigLine, timeout time.Duration, skipGeoLookup bool) []Result {
-	jobs := make(chan ConfigLine, len(configLines))
-	resultsChan := make(chan Result, len(configLines))
+func testConfigs(numWorkers int, configs []string, timeout time.Duration) []Result {
+	jobs := make(chan string, len(configs))
+	resultsChan := make(chan Result, len(configs))
 	var wg sync.WaitGroup
 
 	for i := 0; i < numWorkers; i++ {
 		wg.Add(1)
-		go worker(i+1, &wg, jobs, resultsChan, timeout, skipGeoLookup)
+		go worker(i+1, &wg, jobs, resultsChan, timeout)
 	}
 
-	for _, configLine := range configLines {
-		jobs <- configLine
+	for _, config := range configs {
+		jobs <- config
 	}
 	close(jobs)
 
@@ -230,12 +200,9 @@ func testConfigs(numWorkers int, configLines []ConfigLine, timeout time.Duration
 }
 
 // worker is a goroutine that processes proxy testing jobs.
-func worker(id int, wg *sync.WaitGroup, jobs <-chan ConfigLine, results chan<- Result, timeout time.Duration, skipGeoLookup bool) {
+func worker(id int, wg *sync.WaitGroup, jobs <-chan string, results chan<- Result, timeout time.Duration) {
 	defer wg.Done()
-	for configLine := range jobs {
-		config := configLine.Config
-		presetCountry := configLine.Country
-		
+	for config := range jobs {
 		var core pkg.Core
 		if strings.HasPrefix(config, "hy") {
 			core = singbox.NewSingboxService(false, true)
@@ -263,22 +230,15 @@ func worker(id int, wg *sync.WaitGroup, jobs <-chan ConfigLine, results chan<- R
 			continue
 		}
 
-		var country string
-		if skipGeoLookup && presetCountry != "" {
-			// Use the preset country from the config line
-			country = presetCountry
-		} else {
-			// Perform geolocation lookup
-			ipCheckClient, ipCheckInstance, err := core.MakeHttpClient(proto, timeout)
-			if err != nil {
-				continue
-			}
-			_, country = getIPAndCountry(ipCheckClient, timeout)
-			ipCheckInstance.Close()
+		ipCheckClient, ipCheckInstance, err := core.MakeHttpClient(proto, timeout)
+		if err != nil {
+			continue
+		}
+		_, country := getIPAndCountry(ipCheckClient, timeout)
+		ipCheckInstance.Close()
 
-			if country == "" {
-				continue
-			}
+		if country == "" {
+			continue
 		}
 
 		log.Printf("[Worker %d] SUCCESS: %s | Country: %s | Speed: %.2f Mbps", id, proto.ConvertToGeneralConfig().Address, country, speed)
