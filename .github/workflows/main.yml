@@ -45,16 +45,33 @@ jobs:
           URLS_COMMA_SEPARATED=$(echo "$SUB_URLS" | tr '\n' ',' | sed 's/,$//')
           echo "Using URLs: $URLS_COMMA_SEPARATED"
           go run . -urls "$URLS_COMMA_SEPARATED" -output "configs.txt" -concurrency 50
+      
+      - name: Extract raw configs
+        run: |
+          # Create configs-raw.txt with only the configuration strings
+          if [ -f "configs.txt" ]; then
+            grep -o 'Config: [^,]*' configs.txt | sed 's/Config: //' > configs-raw.txt
+            echo "Extracted $(wc -l < configs-raw.txt) configurations to configs-raw.txt"
+            echo "Sample of extracted configs:"
+            head -3 configs-raw.txt
+          else
+            echo "configs.txt not found!"
+            exit 1
+          fi
+      
       - name: Upload results as an artifact
         uses: actions/upload-artifact@v4
         with:
           name: proxy-profiles
-          path: configs.txt # The name of the output file from your script
+          path: |
+            configs.txt
+            configs-raw.txt
+      
       - name: Commit and push updated configs
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "github-actions@github.com"
-          git add configs.txt
+          git add configs.txt configs-raw.txt
           # Check if there are any changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit."
