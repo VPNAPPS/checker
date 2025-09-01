@@ -249,10 +249,6 @@ func worker(id int, wg *sync.WaitGroup, jobs <-chan string, results chan<- Resul
 
 // testSingleConfig tests one proxy config. It uses recover to prevent a crash if the config is invalid.
 func testSingleConfig(id int, config string, results chan<- Result, timeout time.Duration) {
-	// This log helps identify configs that cause unrecoverable panics in child goroutines.
-	// If the program crashes, the last config logged with this message is likely the cause.
-	log.Printf("[Worker %d] Processing config: %s", id, config)
-
 	// This deferred function will run if a panic occurs in THIS goroutine.
 	// It "recovers" from the panic, logs it, and allows the worker to continue.
 	// NOTE: This will NOT catch panics from child goroutines spawned by the xray library.
@@ -398,5 +394,6 @@ func testDownloadSpeed(client *http.Client, timeout time.Duration) (float64, err
 	speedMbps := (float64(speedTestFileSize) * 8) / duration / 1_000_000
 	return speedMbps, nil
 }
+
 
 
