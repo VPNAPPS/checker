@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.comcom/naser-989/xray-knife/v3/pkg"
+	"github.com/naser-989/xray-knife/v3/pkg"
 	"github.com/naser-989/xray-knife/v3/pkg/singbox"
 	"github.com/naser-989/xray-knife/v3/pkg/xray"
 	"github.com/oschwald/geoip2-golang"
@@ -398,4 +398,5 @@ func testDownloadSpeed(client *http.Client, timeout time.Duration) (float64, err
 	speedMbps := (float64(speedTestFileSize) * 8) / duration / 1_000_000
 	return speedMbps, nil
 }
+
 
