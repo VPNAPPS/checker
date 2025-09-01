@@ -44,7 +44,7 @@ jobs:
           # Convert newline-separated URLs to comma-separated format
           URLS_COMMA_SEPARATED=$(echo "$SUB_URLS" | tr '\n' ',' | sed 's/,$//')
           echo "Using URLs: $URLS_COMMA_SEPARATED"
-          go run . -urls "$URLS_COMMA_SEPARATED" -output "configs.txt" -concurrency 100
+          go run . -urls "$URLS_COMMA_SEPARATED" -output "configs.txt" -concurrency 1000
       
       - name: Extract raw configs
         run: |
