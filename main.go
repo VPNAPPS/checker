@@ -117,36 +117,34 @@ func main() {
 	log.Printf("Top %d fastest proxies written to %s", len(results), *outputFile)
 }
 
-
-
 // cleanupConfigs removes everything after # and removes duplicate configurations
 func cleanupConfigs(configs []string) []string {
 	seen := make(map[string]bool)
 	var cleaned []string
-	
+
 	for _, config := range configs {
 		// Remove everything after # (including the # itself)
 		if idx := strings.Index(config, "#"); idx != -1 {
 			config = config[:idx]
 		}
-		
+
 		// Trim whitespace
 		config = strings.TrimSpace(config)
-		
+
 		// Skip empty configs
 		if config == "" {
 			continue
 		}
-		
+
 		// Skip duplicates
 		if seen[config] {
 			continue
 		}
-		
+
 		seen[config] = true
 		cleaned = append(cleaned, config)
 	}
-	
+
 	return cleaned
 }
 
@@ -239,65 +237,74 @@ func testConfigs(numWorkers int, configs []string, timeout time.Duration) []Resu
 	return finalResults
 }
 
-// worker is a goroutine that processes proxy testing jobs with panic recovery.
+// worker is a goroutine that processes proxy testing jobs.
 func worker(id int, wg *sync.WaitGroup, jobs <-chan string, results chan<- Result, timeout time.Duration) {
 	defer wg.Done()
-	
 	for config := range jobs {
-		// Per-config panic recovery to skip problematic configs
-		func() {
-			defer func() {
-				if r := recover(); r != nil {
-					// Simply skip the config that caused panic - no logging needed
-					return
-				}
-			}()
-			
-			var core pkg.Core
-			if strings.HasPrefix(config, "hy") {
-				core = singbox.NewSingboxService(false, true)
-			} else {
-				core = xray.NewXrayService(false, false)
-			}
+		// Each config is tested in a separate function call.
+		// This allows us to recover from a panic on a per-config basis.
+		testSingleConfig(id, config, results, timeout)
+	}
+}
 
-			proto, err := core.CreateProtocol(config)
-			if err != nil || proto.Parse() != nil {
-				return
-			}
+// testSingleConfig tests one proxy config. It uses recover to prevent a crash if the config is invalid.
+func testSingleConfig(id int, config string, results chan<- Result, timeout time.Duration) {
+	// This deferred function will run if a panic occurs anywhere in this function.
+	// It "recovers" from the panic, logs it, and allows the worker to continue with the next job.
+	defer func() {
+		if r := recover(); r != nil {
+			log.Printf("[Worker %d] PANIC: A problematic config was skipped. Error: %v", id, r)
+			log.Printf("[Worker %d] Problematic config: %s", id, config)
+		}
+	}()
 
-			httpClient, instance, err := core.MakeHttpClient(proto, timeout)
-			if err != nil {
-				return
-			}
-			defer instance.Close()
+	var core pkg.Core
+	if strings.HasPrefix(config, "hy") {
+		core = singbox.NewSingboxService(false, true)
+	} else {
+		core = xray.NewXrayService(false, false)
+	}
 
-			if !checkReachability(httpClient, timeout) {
-				return
-			}
+	proto, err := core.CreateProtocol(config)
+	if err != nil || proto.Parse() != nil {
+		return // Replaces 'continue'
+	}
 
-			speed, err := testDownloadSpeed(httpClient, timeout*3)
-			if err != nil {
-				return
-			}
+	// Create the first client for reachability and speed tests
+	httpClient, instance, err := core.MakeHttpClient(proto, timeout)
+	if err != nil {
+		return
+	}
+	// defer ensures instance.Close() is called when this function exits, preventing resource leaks.
+	defer instance.Close()
 
-			ipCheckClient, ipCheckInstance, err := core.MakeHttpClient(proto, timeout)
-			if err != nil {
-				return
-			}
-			_, country := getIPAndCountry(ipCheckClient, timeout)
-			ipCheckInstance.Close()
+	if !checkReachability(httpClient, timeout) {
+		return
+	}
 
-			if country == "" {
-				return
-			}
+	speed, err := testDownloadSpeed(httpClient, timeout*3)
+	if err != nil {
+		return
+	}
 
-			log.Printf("[Worker %d] SUCCESS: %s | Country: %s | Speed: %.2f Mbps", id, proto.ConvertToGeneralConfig().Address, country, speed)
-			results <- Result{
-				Config:    config,
-				SpeedMbps: speed,
-				Country:   country,
-			}
-		}()
+	// Create a second, separate client for the IP check
+	ipCheckClient, ipCheckInstance, err := core.MakeHttpClient(proto, timeout)
+	if err != nil {
+		return
+	}
+	// Also ensure this instance is closed when the function returns.
+	defer ipCheckInstance.Close()
+
+	_, country := getIPAndCountry(ipCheckClient, timeout)
+	if country == "" {
+		return
+	}
+
+	log.Printf("[Worker %d] SUCCESS: %s | Country: %s | Speed: %.2f Mbps", id, proto.ConvertToGeneralConfig().Address, country, speed)
+	results <- Result{
+		Config:    config,
+		SpeedMbps: speed,
+		Country:   country,
 	}
 }
 
