@@ -117,41 +117,7 @@ func main() {
 	log.Printf("Top %d fastest proxies written to %s", len(results), *outputFile)
 }
 
-// isValidConfig performs basic validation on proxy configs to filter out potentially problematic ones
-func isValidConfig(config string) bool {
-	config = strings.ToLower(config)
-	
-	// Skip empty configs
-	if strings.TrimSpace(config) == "" {
-		return false
-	}
-	
-	// Skip configs that are too short to be valid
-	if len(config) < 10 {
-		return false
-	}
-	
-	// Skip obviously malformed configs
-	if !strings.Contains(config, "://") {
-		return false
-	}
-	
-	// Additional validation for SplitHTTP configs
-	if strings.Contains(config, "splithttp") {
-		// SplitHTTP configs should have basic required parameters
-		if !strings.Contains(config, "path=") && !strings.Contains(config, "path%3d") {
-			log.Printf("Skipping potentially invalid SplitHTTP config (missing path): %.50s...", config)
-			return false
-		}
-	}
-	
-	// Skip configs with obvious encoding issues
-	if strings.Count(config, "%") > len(config)/4 {
-		return false
-	}
-	
-	return true
-}
+
 
 // cleanupConfigs removes everything after # and removes duplicate configurations
 func cleanupConfigs(configs []string) []string {
@@ -167,8 +133,8 @@ func cleanupConfigs(configs []string) []string {
 		// Trim whitespace
 		config = strings.TrimSpace(config)
 		
-		// Skip invalid configs
-		if !isValidConfig(config) {
+		// Skip empty configs
+		if config == "" {
 			continue
 		}
 		
@@ -273,133 +239,59 @@ func testConfigs(numWorkers int, configs []string, timeout time.Duration) []Resu
 	return finalResults
 }
 
-// safeCreateProtocol wraps protocol creation with error handling and validation
-func safeCreateProtocol(core pkg.Core, config string) (pkg.Protocol, error) {
-	defer func() {
-		if r := recover(); r != nil {
-			log.Printf("Panic during protocol creation for config %.50s...: %v", config, r)
-		}
-	}()
-	
-	proto, err := core.CreateProtocol(config)
-	if err != nil {
-		return nil, fmt.Errorf("failed to create protocol: %w", err)
-	}
-	
-	if proto == nil {
-		return nil, fmt.Errorf("protocol is nil")
-	}
-	
-	// Validate the protocol can be parsed
-	if err := proto.Parse(); err != nil {
-		return nil, fmt.Errorf("failed to parse protocol: %w", err)
-	}
-	
-	return proto, nil
-}
-
-// safeCreateHttpClient wraps HTTP client creation with error handling
-func safeCreateHttpClient(core pkg.Core, proto pkg.Protocol, timeout time.Duration) (*http.Client, pkg.Instance, error) {
-	defer func() {
-		if r := recover(); r != nil {
-			log.Printf("Panic during HTTP client creation: %v", r)
-		}
-	}()
-	
-	return core.MakeHttpClient(proto, timeout)
-}
-
-// worker is a goroutine that processes proxy testing jobs with improved error handling and panic recovery.
+// worker is a goroutine that processes proxy testing jobs with panic recovery.
 func worker(id int, wg *sync.WaitGroup, jobs <-chan string, results chan<- Result, timeout time.Duration) {
 	defer wg.Done()
 	
-	// Global panic recovery for the entire worker
-	defer func() {
-		if r := recover(); r != nil {
-			log.Printf("[Worker %d] PANIC recovered in worker: %v", id, r)
-		}
-	}()
-	
-	successCount := 0
-	errorCount := 0
-	panicCount := 0
-	
 	for config := range jobs {
-		// Per-config panic recovery
+		// Per-config panic recovery to skip problematic configs
 		func() {
 			defer func() {
 				if r := recover(); r != nil {
-					panicCount++
-					log.Printf("[Worker %d] PANIC recovered for config %.50s...: %v", id, config, r)
+					// Simply skip the config that caused panic - no logging needed
+					return
 				}
 			}()
 			
-			// Determine which core to use
 			var core pkg.Core
 			if strings.HasPrefix(config, "hy") {
 				core = singbox.NewSingboxService(false, true)
 			} else {
 				core = xray.NewXrayService(false, false)
 			}
-			
-			// Safely create and validate protocol
-			proto, err := safeCreateProtocol(core, config)
-			if err != nil {
-				errorCount++
+
+			proto, err := core.CreateProtocol(config)
+			if err != nil || proto.Parse() != nil {
 				return
 			}
-			
-			// Safely create HTTP client
-			httpClient, instance, err := safeCreateHttpClient(core, proto, timeout)
+
+			httpClient, instance, err := core.MakeHttpClient(proto, timeout)
 			if err != nil {
-				errorCount++
 				return
 			}
-			defer func() {
-				if instance != nil {
-					instance.Close()
-				}
-			}()
-			
-			// Check reachability
+			defer instance.Close()
+
 			if !checkReachability(httpClient, timeout) {
-				errorCount++
 				return
 			}
-			
-			// Test download speed
+
 			speed, err := testDownloadSpeed(httpClient, timeout*3)
 			if err != nil {
-				errorCount++
 				return
 			}
-			
-			// Get IP and country info
-			ipCheckClient, ipCheckInstance, err := safeCreateHttpClient(core, proto, timeout)
+
+			ipCheckClient, ipCheckInstance, err := core.MakeHttpClient(proto, timeout)
 			if err != nil {
-				errorCount++
 				return
 			}
-			defer func() {
-				if ipCheckInstance != nil {
-					ipCheckInstance.Close()
-				}
-			}()
-			
 			_, country := getIPAndCountry(ipCheckClient, timeout)
+			ipCheckInstance.Close()
+
 			if country == "" {
-				errorCount++
 				return
 			}
-			
-			successCount++
-			generalConfig := proto.ConvertToGeneralConfig()
-			address := "unknown"
-			if generalConfig != nil {
-				address = generalConfig.Address
-			}
-			
-			log.Printf("[Worker %d] SUCCESS: %s | Country: %s | Speed: %.2f Mbps", id, address, country, speed)
+
+			log.Printf("[Worker %d] SUCCESS: %s | Country: %s | Speed: %.2f Mbps", id, proto.ConvertToGeneralConfig().Address, country, speed)
 			results <- Result{
 				Config:    config,
 				SpeedMbps: speed,
@@ -407,19 +299,10 @@ func worker(id int, wg *sync.WaitGroup, jobs <-chan string, results chan<- Resul
 			}
 		}()
 	}
-	
-	log.Printf("[Worker %d] Completed: %d successful, %d errors, %d panics", id, successCount, errorCount, panicCount)
 }
 
 // getIPAndCountry uses the provided HTTP client to determine the public IP and its country.
 func getIPAndCountry(client *http.Client, timeout time.Duration) (string, string) {
-	// Add panic recovery
-	defer func() {
-		if r := recover(); r != nil {
-			log.Printf("Panic in getIPAndCountry: %v", r)
-		}
-	}()
-	
 	ctx, cancel := context.WithTimeout(context.Background(), timeout)
 	defer cancel()
 
@@ -454,13 +337,6 @@ func getIPAndCountry(client *http.Client, timeout time.Duration) (string, string
 
 // checkReachability performs a quick HEAD request to confirm the proxy can connect to the internet.
 func checkReachability(client *http.Client, timeout time.Duration) bool {
-	// Add panic recovery
-	defer func() {
-		if r := recover(); r != nil {
-			log.Printf("Panic in checkReachability: %v", r)
-		}
-	}()
-	
 	ctx, cancel := context.WithTimeout(context.Background(), timeout)
 	defer cancel()
 
@@ -480,13 +356,6 @@ func checkReachability(client *http.Client, timeout time.Duration) bool {
 
 // testDownloadSpeed measures the download speed by fetching a test file.
 func testDownloadSpeed(client *http.Client, timeout time.Duration) (float64, error) {
-	// Add panic recovery
-	defer func() {
-		if r := recover(); r != nil {
-			log.Printf("Panic in testDownloadSpeed: %v", r)
-		}
-	}()
-	
 	ctx, cancel := context.WithTimeout(context.Background(), timeout)
 	defer cancel()
 
