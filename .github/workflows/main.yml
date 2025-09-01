@@ -74,8 +74,10 @@ jobs:
           git add configs.txt configs-raw.txt
           # Check if there are any changes to commit
           if ! git diff --staged --quiet; then
+            # Pull latest changes first
+            git pull --rebase origin main
             git commit -m "Automated update of config files - $(date '+%Y-%m-%d %H:%M:%S UTC')"
-            git push --force-with-lease origin HEAD:main
+            git push origin HEAD:main
           else
             echo "No changes to commit."
           fi
