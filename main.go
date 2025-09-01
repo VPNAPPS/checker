@@ -77,10 +77,17 @@ func main() {
 	if len(allConfigs) == 0 {
 		log.Fatalf("FATAL: No proxy configurations found from the provided URLs.")
 	}
-	log.Printf("Found %d total configs. Starting tests with %d workers...", len(allConfigs), *concurrency)
+	log.Printf("Found %d total configs before cleanup.", len(allConfigs))
+
+	// Clean up configs: remove everything after # and remove duplicates
+	cleanConfigs := cleanupConfigs(allConfigs)
+	if len(cleanConfigs) == 0 {
+		log.Fatalf("FATAL: No valid proxy configurations after cleanup.")
+	}
+	log.Printf("After cleanup: %d unique configs. Starting tests with %d workers...", len(cleanConfigs), *concurrency)
 
 	// Test all configurations
-	results := testConfigs(*concurrency, allConfigs, *timeout)
+	results := testConfigs(*concurrency, cleanConfigs, *timeout)
 
 	if len(results) == 0 {
 		log.Println("No working proxies found.")
@@ -108,6 +115,37 @@ func main() {
 	}
 
 	log.Printf("Top %d fastest proxies written to %s", len(results), *outputFile)
+}
+
+// cleanupConfigs removes everything after # and removes duplicate configurations
+func cleanupConfigs(configs []string) []string {
+	seen := make(map[string]bool)
+	var cleaned []string
+	
+	for _, config := range configs {
+		// Remove everything after # (including the # itself)
+		if idx := strings.Index(config, "#"); idx != -1 {
+			config = config[:idx]
+		}
+		
+		// Trim whitespace
+		config = strings.TrimSpace(config)
+		
+		// Skip empty configs
+		if config == "" {
+			continue
+		}
+		
+		// Skip duplicates
+		if seen[config] {
+			continue
+		}
+		
+		seen[config] = true
+		cleaned = append(cleaned, config)
+	}
+	
+	return cleaned
 }
 
 // fetchConfigsFromSubscriptions downloads and decodes proxy configurations from a list of subscription URLs.
