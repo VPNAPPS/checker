@@ -73,9 +73,9 @@ jobs:
           git config user.email "github-actions@github.com"
           git add configs.txt configs-raw.txt
           # Check if there are any changes to commit
-          if git diff --staged --quiet; then
-            echo "No changes to commit."
-          else
+          if ! git diff --staged --quiet; then
             git commit -m "Automated update of config files - $(date '+%Y-%m-%d %H:%M:%S UTC')"
-            git push origin HEAD:main
+            git push --force-with-lease origin HEAD:main
+          else
+            echo "No changes to commit."
           fi
