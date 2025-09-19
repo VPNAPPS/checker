@@ -1,12 +1,4 @@
-Country: DE, Speed: 335.64 Mbps, Config: vless://642e6bda-e2d2-4a2d-8a06-b74e4393fa76@91.107.179.250:40079?encryption=none&type=raw&headerType=none&security=none
-Country: JP, Speed: 78.05 Mbps, Config: ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443
-Country: TW, Speed: 61.02 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjdmYzRlYS1iZWY0LTRlZWMtYWU1NC1kNzE4Nzc3ZWJjOTQ=@36.232.76.84:10139
-Country: IN, Speed: 59.00 Mbps, Config: vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321/?type=tcp&encryption=none
-Country: KR, Speed: 48.34 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI@141.164.63.32:30936
-Country: KR, Speed: 48.30 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI=@141.164.63.32:30936
-Country: IN, Speed: 43.64 Mbps, Config: vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?security=&encryption=none&headerType=none&type=tcp
-Country: SG, Speed: 41.58 Mbps, Config: vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?security=&encryption=none&headerType=none&type=tcp
-Country: HK, Speed: 28.98 Mbps, Config: vmess://eyJhZGQiOiAiMTQ5LjEwNC4xNS4xNzgiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTQzYjZjMjAtMmY2MS00ZThjLWE2OTItYzczN2ZhNWNmYTBkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjEyMDEiLCAicHMiOiAiNE1vaHNlbi0xMDYxMCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
-Country: KR, Speed: 12.43 Mbps, Config: vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-Country: TW, Speed: 10.87 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjdmYzRlYS1iZWY0LTRlZWMtYWU1NC1kNzE4Nzc3ZWJjOTQ=@36.232.68.123:10138
-Country: TW, Speed: 9.51 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjdmYzRlYS1iZWY0LTRlZWMtYWU1NC1kNzE4Nzc3ZWJjOTQ=@36.235.22.170:10088
+Country: KR, Speed: 71.04 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI=@141.164.63.32:30936?prefix=%16%03%01%00%C2%A8%01%01
+Country: IN, Speed: 55.19 Mbps, Config: vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?security=&encryption=none&headerType=none&type=tcp
+Country: SG, Speed: 54.56 Mbps, Config: vless://267afba8-cca4-4b03-8c2a-45020cc087c5@node1.nanonet.host:443?encryption=none&security=tls&sni=node1.nanonet.host&fp=chrome&type=tcp&headerType=none
+Country: SG, Speed: 46.32 Mbps, Config: vless://4834cf4c-b9f4-4b51-86bb-bea10e9e11c0@152.42.218.106:443?encryption=none&security=tls&sni=node1.nanonet.host&fp=chrome&type=tcp&headerType=none
