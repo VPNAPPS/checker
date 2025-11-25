@@ -1,1 +1,10 @@
-Country: HK, Speed: 51.28 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990
+Country: JP, Speed: 59.31 Mbps, Config: ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443
+Country: JP, Speed: 58.09 Mbps, Config: ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443
+Country: MY, Speed: 49.18 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990
+Country: CA, Speed: 44.09 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg@167.150.100.115:443
+Country: KR, Speed: 42.67 Mbps, Config: vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxNDYuNTYuMTEyLjExMCIsInBvcnQiOiI4ODg4IiwidHlwZSI6Im5vbmUiLCJpZCI6ImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+Country: KR, Speed: 33.69 Mbps, Config: vmess://eyJhZGQiOiAiMTQ2LjU2LjExMi4xMTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODg4OCIsICJwcyI6ICI0S2lhbi0xMzY2MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+Country: JP, Speed: 32.96 Mbps, Config: ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443
+Country: AE, Speed: 24.25 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443
+Country: CA, Speed: 13.27 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443
+Country: VN, Speed: 8.71 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.31.230:990
