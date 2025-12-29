@@ -48,9 +48,9 @@ jobs:
       
       - name: Extract raw configs
         run: |
-          # Create configs-raw.txt with only the configuration strings
+          # Create configs-raw.txt with config string and country code (Format: Config#Country)
           if [ -f "configs.txt" ]; then
-            grep -o 'Config: [^,]*' configs.txt | sed 's/Config: //' > configs-raw.txt
+            sed -n 's/^Country: \([^,]*\),.*Config: \(.*\)$/\2#\1/p' configs.txt > configs-raw.txt
             echo "Extracted $(wc -l < configs-raw.txt) configurations to configs-raw.txt"
             echo "Sample of extracted configs:"
             head -3 configs-raw.txt
