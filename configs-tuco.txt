@@ -1,3 +1,6 @@
-Country: HK, Speed: 44.19 Mbps, Config: vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&type=tcp&headerType=none#HK
-Country: SG, Speed: 10.75 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544?allowInsecure=1&sni=www.nintendogames.net#SG
-Country: HK, Speed: 10.51 Mbps, Config: vless://5daf1be0-eee4-4e94-8c5b-8d72ea26eb4a@23.148.20.100:30003?security=reality&type=tcp&sni=mensura.cdn-apple.com&fp=safari&flow=xtls-rprx-vision&sid=5c705576253d25&pbk=hDXY23v5S_49APGptqI_AKB64vUDshlUY1N47AZAogs#HK
+Country: HK, Speed: 54.88 Mbps, Config: vless://5daf1be0-eee4-4e94-8c5b-8d72ea26eb4a@23.148.20.100:30003?security=reality&type=tcp&sni=mensura.cdn-apple.com&fp=safari&flow=xtls-rprx-vision&sid=5c705576253d25&pbk=hDXY23v5S_49APGptqI_AKB64vUDshlUY1N47AZAogs#HK
+Country: HK, Speed: 43.06 Mbps, Config: vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&type=tcp&headerType=none#HK
+Country: HK, Speed: 41.53 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.18.124:443?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#HK
+Country: HK, Speed: 20.60 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.18.124:443?security=tls&sni=www.nintendogames.net#HK
+Country: SG, Speed: 15.60 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:3076?security=tls&sni=www.nintendogames.net#SG
+Country: HK, Speed: 9.11 Mbps, Config: trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20trojan-HK%20#HK
