@@ -1,3 +1,2 @@
-Country: NO, Speed: 112.11 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO
-Country: FI, Speed: 15.54 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
-Country: DE, Speed: 13.60 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=cf.elipii-bot.shop&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cf.elipii-bot.shop#DE
+Country: NO, Speed: 96.41 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO
+Country: NO, Speed: 92.75 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&amp;security=tls&amp;sni=t.me&allowInsecure=1#NO
