@@ -1,1 +1,1 @@
-Country: FI, Speed: 25.20 Mbps, Config: vless://7449519c-e462-46e4-a143-519996d16d9b@python.org:80?mode=auto&path=/?ed=2052&security=&encryption=none&host=waslima.openwrld.tk&type=xhttp#FI
+Country: FR, Speed: 9.19 Mbps, Config: vless://53e5c21b-9b0e-49d7-8917-e8fd5decb752@amfone.shoppencile.ir:80?mode=auto&path=/&security=none&encryption=none&host=clinet-exoo.ir&type=xhttp#FR
