@@ -1,6 +1,4 @@
-Country: DE, Speed: 561.81 Mbps, Config: vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@172.64.155.209:443?mode=auto&path=/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#DE
-Country: NO, Speed: 100.69 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&amp;security=tls&amp;sni=t.me&allowInsecure=1#NO
-Country: NO, Speed: 94.46 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=1#NO
-Country: NO, Speed: 90.84 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO
-Country: DE, Speed: 30.24 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=cf.elipii-bot.shop&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cf.elipii-bot.shop#DE
-Country: FI, Speed: 19.75 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
+Country: NO, Speed: 95.39 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&amp;security=tls&amp;sni=t.me&allowInsecure=1#NO
+Country: NO, Speed: 91.75 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=1#NO
+Country: FI, Speed: 23.90 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
+Country: DE, Speed: 17.94 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=cf.elipii-bot.shop&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cf.elipii-bot.shop#DE
