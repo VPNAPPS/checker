@@ -1,1 +1,1 @@
-Country: FI, Speed: 24.79 Mbps, Config: vless://7449519c-e462-46e4-a143-519996d16d9b@python.org:80?mode=auto&path=/?ed=2052&security=none&encryption=none&host=waslima.openwrld.tk&type=xhttp#FI
+Country: FI, Speed: 32.22 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
