@@ -1,5 +1,6 @@
-Country: NO, Speed: 119.86 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO
-Country: FI, Speed: 31.94 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
-Country: HK, Speed: 25.01 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZW9hUjFOcGUyZG9PaDR2cGpkbkFR@xcel999z.pet0er23mh21qq.com:1080#DE
-Country: DE, Speed: 22.94 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=cf.elipii-bot.shop&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cf.elipii-bot.shop#DE
-Country: AM, Speed: 18.86 Mbps, Config: vless://c6e97c59-2736-496d-b9b2-23bccbcb1ead@ar.reata.ir:2040?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&sni=chess.com&sid=9634e9421a05e65f#AM
+Country: SG, Speed: 160.74 Mbps, Config: vless://c2225fd5-9819-453a-c7d0-76962aacf664@47.82.5.230:18388?security=none&encryption=none&headerType=none&type=tcp#SG
+Country: NO, Speed: 119.51 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO
+Country: NO, Speed: 117.83 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&amp;security=tls&amp;sni=t.me&allowInsecure=1#NO
+Country: FI, Speed: 30.25 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
+Country: DE, Speed: 26.54 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=cf.elipii-bot.shop&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cf.elipii-bot.shop#DE
+Country: AM, Speed: 13.32 Mbps, Config: vless://c6e97c59-2736-496d-b9b2-23bccbcb1ead@ar.reata.ir:2040?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&sni=chess.com&sid=9634e9421a05e65f#AM
