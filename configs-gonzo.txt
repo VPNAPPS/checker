@@ -1,3 +1,2 @@
-Country: NL, Speed: 29.81 Mbps, Config: vless://wzpower@speed.techbysaeed.ir:80?mode=auto&path=%2Ffdp%3Fed%3D2560&security=none&encryption=none&host=www.fdp.de&type=xhttp#NL
-Country: DE, Speed: 20.28 Mbps, Config: vless://79df85dd-cb40-4b32-828e-f38d918d85e3@fast4.zone-server-irani.ir:80?mode=auto&path=%2Fmagicmizban%3Fed%3D2048&security=&encryption=none&host=amirtoska110.global.ssl.fastly.net&type=xhttp#DE
-Country: DE, Speed: 8.41 Mbps, Config: vless://79df85dd-cb40-4b32-828e-f38d918d85e3@fast4.zone-server-irani.ir:80?mode=auto&path=/magicmizban?ed=2048&security=&encryption=none&host=amirtoska110.global.ssl.fastly.net&type=xhttp#DE
+Country: DE, Speed: 20.69 Mbps, Config: vless://ad0531c0-3619-473c-80cd-4561f90a1b25@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=90.ir&type=xhttp#DE
+Country: DE, Speed: 15.93 Mbps, Config: vless://93283d2d-599e-4aba-b475-1219367a87f1@151.101.195.8:80?type=xhttp&encryption=none&path=%2Fdownloader&host=dexiliservice.global.ssl.fastly.net&mode=auto&security=none#DE
