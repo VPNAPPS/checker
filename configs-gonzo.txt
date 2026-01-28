@@ -1,5 +1,6 @@
-Country: DE, Speed: 31.62 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=cf.elipii-bot.shop&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cf.elipii-bot.shop#DE
-Country: FI, Speed: 30.38 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
-Country: NO, Speed: 27.24 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO
-Country: HK, Speed: 21.77 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZW9hUjFOcGUyZG9PaDR2cGpkbkFR@xcel999z.pet0er23mh21qq.com:1080#DE
-Country: GB, Speed: 15.74 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@145.133.64.171:443#GB
+Country: DE, Speed: 497.08 Mbps, Config: vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@104.18.32.47:443?mode=auto&path=%2Fsreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#DE
+Country: DE, Speed: 473.50 Mbps, Config: vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@172.64.155.209:443?mode=auto&path=/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#DE
+Country: FI, Speed: 30.54 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
+Country: DE, Speed: 30.09 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=cf.elipii-bot.shop&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cf.elipii-bot.shop#DE
+Country: NO, Speed: 26.83 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&amp;security=tls&amp;sni=t.me&allowInsecure=1#NO
+Country: GB, Speed: 14.89 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@145.133.64.171:443#GB
