@@ -1,4 +1,1 @@
-Country: NO, Speed: 117.98 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO
-Country: NO, Speed: 117.41 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&amp;security=tls&amp;sni=t.me&allowInsecure=1#NO
-Country: NO, Speed: 114.87 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=1#NO
-Country: GB, Speed: 9.91 Mbps, Config: vless://ab7db934-e337-4c2c-a74c-e4fe629dcc49@en2.sephost.de:6019?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#GB
+Country: FI, Speed: 13.74 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
