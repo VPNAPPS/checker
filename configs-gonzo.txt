@@ -1,2 +1,1 @@
-Country: NL, Speed: 16.69 Mbps, Config: vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@ipw.ygdfw.com:443?mode=stream-one&path=/&security=tls&encryption=none&insecure=0&host=Tp010536El.DoTa2PlAy.InFo&type=xhttp&allowInsecure=0&sni=Tp010536El.DoTa2PlAy.InFo#US
-Country: DE, Speed: 11.62 Mbps, Config: vless://3769c1f9-6686-4f70-952b-ec525378982c@panke1.dadasoratmolayi.com:2087?security=&encryption=none&headerType=none&type=tcp#DE
+Country: NL, Speed: 9.99 Mbps, Config: vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@ipw.ygdfw.com:443?mode=stream-one&path=/&security=tls&encryption=none&insecure=0&host=Tp010536El.DoTa2PlAy.InFo&type=xhttp&allowInsecure=0&sni=Tp010536El.DoTa2PlAy.InFo#US
