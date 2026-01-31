@@ -1,9 +1,3 @@
-Country: HK, Speed: 181.94 Mbps, Config: ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#HK
-Country: TW, Speed: 41.81 Mbps, Config: trojan://dc8480dc-f90d-46ed-90e5-0d3e7feb6bf8@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#TW
-Country: NL, Speed: 27.66 Mbps, Config: vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#NL
-Country: RU, Speed: 19.60 Mbps, Config: vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.de.f2gate.ir:31665?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#DE
-Country: FI, Speed: 18.96 Mbps, Config: vless://4e5c6735-d657-4f9c-931d-52504f31aae8@fin1.wizard2shop.org:8085?encryption=none&type=raw&headerType=none&security=none#FI
-Country: FI, Speed: 16.67 Mbps, Config: vless://4e5c6735-d657-4f9c-931d-52504f31aae8@fin1.wizard2shop.org:8085?security=none&encryption=none&headerType=none&type=tcp#FI
-Country: DE, Speed: 11.69 Mbps, Config: vless://ed2513b5-9974-4fb0-acd6-25fd556fb255@tun.aws-sub.com:1017?security=reality&encryption=none&pbk=CAdP5-sUePkDhbiFJlK9jFK_8ay3k3BALdwbiNyXaTE&headerType=none&fp=firefox&type=tcp&sni=ub.com&sid=83f404#DE
-Country: CH, Speed: 11.17 Mbps, Config: vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.sp.f2gate.ir:33563?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#CH
-Country: TW, Speed: 9.02 Mbps, Config: trojan://67094309-a65f-4a43-8c4f-c10ef35947f7@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#TW
+Country: NL, Speed: 24.59 Mbps, Config: vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#NL
+Country: FR, Speed: 19.25 Mbps, Config: vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@vmaxa22.gatesrev.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chatgpt.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#FR
+Country: FI, Speed: 12.86 Mbps, Config: vless://4e5c6735-d657-4f9c-931d-52504f31aae8@fin1.wizard2shop.org:8085?encryption=none&type=raw&headerType=none&security=none#FI
