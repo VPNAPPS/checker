@@ -1,2 +1,2 @@
-Country: DE, Speed: 14.32 Mbps, Config: vless://ed2513b5-9974-4fb0-acd6-25fd556fb255@tun.aws-sub.com:1017?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=CAdP5-sUePkDhbiFJlK9jFK_8ay3k3BALdwbiNyXaTE&sni=ub.com&sid=83f404#DE
-Country: JP, Speed: 8.57 Mbps, Config: trojan://c1c7c28c-ce4c-468c-aade-d0ab517eedcd@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#JP
+Country: JP, Speed: 19.15 Mbps, Config: trojan://bae0db34-f430-4a1b-9b3d-634992195800@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#JP
+Country: NL, Speed: 15.17 Mbps, Config: vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#NL
