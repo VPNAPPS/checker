@@ -1,1 +1,1 @@
-Country: DE, Speed: 17.71 Mbps, Config: vless://ed2513b5-9974-4fb0-acd6-25fd556fb255@tun.aws-sub.com:1017?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=CAdP5-sUePkDhbiFJlK9jFK_8ay3k3BALdwbiNyXaTE&sni=ub.com&sid=83f404#DE
+Country: GB, Speed: 12.14 Mbps, Config: vless://488bf4fc-ae7d-48da-a1e7-31429996e0b5@ens.zdshop.ir:80?encryption=none&type=xhttp&mode=packet-up&host=iranfile.ir&path=%2Fcategory%2Fmusic%3Fed%3D8880&security=none#GB
