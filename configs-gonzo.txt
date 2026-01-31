@@ -1,1 +1,4 @@
-Country: FR, Speed: 21.13 Mbps, Config: vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@vmaxa22.gatesrev.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chatgpt.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#FR
+Country: DE, Speed: 32.63 Mbps, Config: vless://ed2513b5-9974-4fb0-acd6-25fd556fb255@tun.aws-sub.com:1017?security=reality&encryption=none&pbk=CAdP5-sUePkDhbiFJlK9jFK_8ay3k3BALdwbiNyXaTE&headerType=none&fp=firefox&type=tcp&sni=ub.com&sid=83f404#DE
+Country: DE, Speed: 27.51 Mbps, Config: vless://ed2513b5-9974-4fb0-acd6-25fd556fb255@tun.aws-sub.com:1017?encryption=none&fp=firefox&headerType=none&pbk=CAdP5-sUePkDhbiFJlK9jFK_8ay3k3BALdwbiNyXaTE&security=reality&sid=83f404&sni=ub.com&type=tcp#DE
+Country: TR, Speed: 14.72 Mbps, Config: vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436?encryption=none&type=raw&headerType=none&security=none#TR
+Country: TR, Speed: 10.77 Mbps, Config: vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436?encryption=none&security=none&type=tcp&headerType=none#TR
