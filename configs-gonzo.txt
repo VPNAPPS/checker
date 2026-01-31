@@ -1,2 +1,2 @@
-Country: JP, Speed: 19.15 Mbps, Config: trojan://bae0db34-f430-4a1b-9b3d-634992195800@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#JP
-Country: NL, Speed: 15.17 Mbps, Config: vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#NL
+Country: FR, Speed: 24.46 Mbps, Config: vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@vmaxa22.gatesrev.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chatgpt.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#FR
+Country: NL, Speed: 12.38 Mbps, Config: vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#NL
