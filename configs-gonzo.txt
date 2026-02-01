@@ -1,1 +1,2 @@
-Country: NO, Speed: 22.70 Mbps, Config: vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@api.openai.com:443?encryption=none&type=xhttp&mode=packet-up&host=fzserver.art&path=%2Fuuid%2Fget&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=fzserver.art#NO
+Country: NO, Speed: 14.86 Mbps, Config: vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@api.openai.com:443?mode=packet-up&path=/uuid/get&security=tls&alpn=h2,http/1.1&encryption=none&host=fzserver.art&fp=chrome&type=xhttp&sni=fzserver.art#NO
+Country: NO, Speed: 11.34 Mbps, Config: vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@api.openai.com:443?mode=packet-up&path=/uuid/get&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=fzserver.art&fp=chrome&type=xhttp&allowInsecure=1&sni=fzserver.art#NO
