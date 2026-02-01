@@ -1,2 +1,2 @@
-Country: FI, Speed: 267.17 Mbps, Config: vless://2d9e8387-b46d-41b6-8ae5-db16d2fa5f6e@62.60.193.11:2030?type=tcp&encryption=none&security=none#FI
-Country: CA, Speed: 13.08 Mbps, Config: vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.99.207.191:27775?security=&encryption=none&headerType=&type=tcp#CA
+Country: NO, Speed: 15.60 Mbps, Config: vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@api.openai.com:443?mode=packet-up&path=/uuid/get&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=fzserver.art&fp=chrome&type=xhttp&allowInsecure=1&sni=fzserver.art#NO
+Country: DE, Speed: 11.77 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?mode=auto&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cf.elipii-bot.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=cf.elipii-bot.shop#DE
