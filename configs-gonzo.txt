@@ -1,1 +1,1 @@
-Country: HK, Speed: 90.99 Mbps, Config: vless://5cd276be-1988-4416-b9dd-0d91cf857dee@141.11.90.156:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&fp=chrome&sni=cdn-hk01.download.pikoport.com#HK
+Country: NL, Speed: 12.29 Mbps, Config: vless://a44e0875-210f-4941-9062-89b6361a14c6@80.85.245.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#NL
