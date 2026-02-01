@@ -1,2 +1,5 @@
-Country: DE, Speed: 15.00 Mbps, Config: vless://a4ee78c0-bd01-4313-a3eb-82c97d269100@212.192.4.148:50907?type=tcp&encryption=none#DE
-Country: DE, Speed: 9.06 Mbps, Config: vless://a4ee78c0-bd01-4313-a3eb-82c97d269100@212.192.4.148:50907/?type=tcp&encryption=none&flow=#DE
+Country: NO, Speed: 112.32 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&amp;security=tls&amp;sni=t.me&allowInsecure=1#NO
+Country: NO, Speed: 107.95 Mbps, Config: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO
+Country: FI, Speed: 15.98 Mbps, Config: vless://7449519c-e462-46e4-a143-519996d16d9b@python.org:80?mode=auto&path=%2F%3Fed%3D2052&security=none&encryption=none&host=waslima.openwrld.tk&type=xhttp#FI
+Country: DE, Speed: 11.54 Mbps, Config: vless://a4ee78c0-bd01-4313-a3eb-82c97d269100@212.192.4.148:50907/?type=tcp&encryption=none&flow=#DE
+Country: US, Speed: 8.73 Mbps, Config: vless://245592c4-d391-451a-aecc-b9c6916feac3@tunnyl.ru:3443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=VuGbF41ZZJnNSTXTnQiT59bug135kyLp6MNx0_rO2Bo&sni=www.bing.com&sid=f2b23eb38f49f2#RU
