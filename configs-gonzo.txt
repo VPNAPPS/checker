@@ -1,2 +1,2 @@
-Country: FI, Speed: 21.65 Mbps, Config: vless://18c7995e-1b19-4dd9-8977-3acc7092f30f@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=site.vaslalways.fun&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2&fp=chrome&sni=site.vaslalways.fun#FI
-Country: DE, Speed: 15.66 Mbps, Config: vless://a4ee78c0-bd01-4313-a3eb-82c97d269100@212.192.4.148:50907/?type=tcp&encryption=none&flow=#DE
+Country: DE, Speed: 18.26 Mbps, Config: vless://a4ee78c0-bd01-4313-a3eb-82c97d269100@212.192.4.148:50907?type=tcp&encryption=none#DE
+Country: DE, Speed: 16.50 Mbps, Config: vless://a4ee78c0-bd01-4313-a3eb-82c97d269100@212.192.4.148:50907/?type=tcp&encryption=none&flow=#DE
