@@ -1,2 +1,1 @@
-Country: DE, Speed: 12.04 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?mode=auto&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cf.elipii-bot.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=cf.elipii-bot.shop#DE
-Country: DE, Speed: 11.92 Mbps, Config: vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=cf.elipii-bot.shop&mode=auto&path=%2Felipii-bot&security=tls&sni=cf.elipii-bot.shop&type=xhttp#DE
+Country: DE, Speed: 19.27 Mbps, Config: trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.153.36:20994/?type=tcp&amp;security=tls&amp;sni=t.me&allowInsecure=1#DE
