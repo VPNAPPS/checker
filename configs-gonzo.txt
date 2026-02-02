@@ -1,3 +1,4 @@
-Country: SG, Speed: 73.25 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.70.180:3901?security=tls&sni=www.nintendogames.net#SG
-Country: JP, Speed: 23.53 Mbps, Config: trojan://1ceed226-b17c-4ca8-a5c0-21c02b8b7347@xiaozhu1.kkieo555.cn:41273?sni=xiaozhu1.kkieo555.cn&allowInsecure=1#JP
-Country: DE, Speed: 14.06 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#DE
+Country: SG, Speed: 62.00 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.70.180:3901?security=tls&sni=www.nintendogames.net#SG
+Country: DE, Speed: 22.06 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#DE
+Country: NL, Speed: 19.44 Mbps, Config: vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=%2F&security=none&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#NL
+Country: JP, Speed: 14.96 Mbps, Config: trojan://1096cac0-3b59-472a-b1db-a9ab85f533b2@xiaozhu1.kkieo555.cn:41273?sni=xiaozhu1.kkieo555.cn&allowInsecure=1#JP
