@@ -1,1 +1,1 @@
-Country: AM, Speed: 27.15 Mbps, Config: vless://b692065e-2edf-4eba-94bd-3ebb458349a6@dns18.golden-ping.ir:48245?type=tcp&encryption=none&path=/&host=fast.com&headerType=http&security=none#GB
+Country: DE, Speed: 19.41 Mbps, Config: vless://10c07345-baa2-4631-8d4d-9d4fe866deb4@vip.nanotitab.com:57896?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#DE
