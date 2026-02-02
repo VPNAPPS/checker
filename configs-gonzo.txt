@@ -1,2 +1,1 @@
-Country: SG, Speed: 15.65 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.70.180:3901?security=tls&sni=www.nintendogames.net#SG
-Country: DE, Speed: 14.46 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#DE
+Country: SG, Speed: 27.73 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.70.180:3901?security=tls&sni=www.nintendogames.net#SG
