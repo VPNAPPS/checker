@@ -1,3 +1,2 @@
-Country: SG, Speed: 42.44 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.70.180:3901?security=tls&sni=www.nintendogames.net#SG
-Country: DE, Speed: 15.52 Mbps, Config: trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#DE
-Country: DE, Speed: 11.92 Mbps, Config: vless://10c07345-baa2-4631-8d4d-9d4fe866deb4@vip.nanotitab.com:57896?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#DE
+Country: SG, Speed: 48.22 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.70.180:3901?security=tls&sni=www.nintendogames.net#SG
+Country: DE, Speed: 17.94 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#DE
