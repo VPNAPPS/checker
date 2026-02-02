@@ -1,3 +1,5 @@
-Country: SG, Speed: 57.77 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.70.180:3901?security=tls&sni=www.nintendogames.net#SG
-Country: NL, Speed: 23.57 Mbps, Config: vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=%2F&security=&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#NL
-Country: FR, Speed: 17.40 Mbps, Config: vless://dc838bd4-105f-4c07-a59e-dfca043d45df@a1netmeli.iranman.shop:4000/?type=tcp&encryption=none&path=/&host=speedtest.net&headerType=http&security=none#FR
+Country: SG, Speed: 63.96 Mbps, Config: trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.70.180:3901?security=tls&sni=www.nintendogames.net#SG
+Country: FR, Speed: 16.04 Mbps, Config: vless://dc838bd4-105f-4c07-a59e-dfca043d45df@a1netmeli.iranman.shop:4000/?type=tcp&encryption=none&path=/&host=speedtest.net&headerType=http&security=none#FR
+Country: FR, Speed: 15.07 Mbps, Config: trojan://sk9xjTjdrN@45.156.27.123:35840/?type=tcp&path=%2F&host=Rubika.ir&headerType=http&security=none#FR
+Country: DE, Speed: 14.45 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#DE
+Country: NL, Speed: 12.75 Mbps, Config: vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=%2F&security=&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#NL
