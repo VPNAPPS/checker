@@ -1,1 +1,1 @@
-Country: AM, Speed: 25.21 Mbps, Config: vless://b692065e-2edf-4eba-94bd-3ebb458349a6@dns18.golden-ping.ir:48245?type=tcp&encryption=none&path=/&host=fast.com&headerType=http&security=none#GB
+Country: AM, Speed: 27.15 Mbps, Config: vless://b692065e-2edf-4eba-94bd-3ebb458349a6@dns18.golden-ping.ir:48245?type=tcp&encryption=none&path=/&host=fast.com&headerType=http&security=none#GB
