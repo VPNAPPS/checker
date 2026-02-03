@@ -1,3 +1,3 @@
-Country: SG, Speed: 78.87 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
-Country: DE, Speed: 19.22 Mbps, Config: vless://d9cf31cf-7672-4bb2-e7d3-48d312b856d0@iri.ramtin952.xyz:2090?encryption=none&type=tcp&security=none#DE
-Country: DE, Speed: 10.04 Mbps, Config: vless://d9cf31cf-7672-4bb2-e7d3-48d312b856d0@iri.ramtin952.xyz:2090?encryption=none&type=raw&headerType=none&security=none#DE
+Country: SG, Speed: 110.65 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
+Country: DE, Speed: 25.56 Mbps, Config: vless://d9cf31cf-7672-4bb2-e7d3-48d312b856d0@iri.ramtin952.xyz:2090?encryption=none&type=tcp&security=none#DE
+Country: DE, Speed: 23.32 Mbps, Config: vless://d9cf31cf-7672-4bb2-e7d3-48d312b856d0@iri.ramtin952.xyz:2090?encryption=none&type=raw&headerType=none&security=none#DE
