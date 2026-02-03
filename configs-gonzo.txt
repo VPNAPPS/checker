@@ -1,2 +1,2 @@
-Country: SG, Speed: 84.39 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
-Country: FI, Speed: 22.58 Mbps, Config: vless://3dc5cb20-f047-4138-84ce-d91444721c74@python.org:80?mode=auto&path=/&security=none&encryption=none&host=fincrossbalancingonrope.com&type=xhttp#FI
+Country: SG, Speed: 9.98 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
+Country: SA, Speed: 9.08 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29462#SA
