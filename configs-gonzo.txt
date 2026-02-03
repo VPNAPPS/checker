@@ -1,2 +1,2 @@
-Country: SG, Speed: 94.27 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
-Country: SG, Speed: 27.29 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
+Country: DE, Speed: 26.88 Mbps, Config: vless://d9cf31cf-7672-4bb2-e7d3-48d312b856d0@iri.ramtin952.xyz:2090?encryption=none&type=tcp&security=none#DE
+Country: NL, Speed: 19.13 Mbps, Config: vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?encryption=none&type=xhttp&mode=auto&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&path=%2F&security=none#NL
