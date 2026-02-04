@@ -1,1 +1,1 @@
-Country: NL, Speed: 18.05 Mbps, Config: vless://3209ec50-2909-4972-83cb-93349f9d94fd@tmc.langry.ru:443?security=reality&encryption=none&pbk=QNeqTtf7YHPKRQmBQuk15pdy5NqgLcmFi8nSUby64GQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0f4dacf08722a99f#GB
+Country: US, Speed: 28.49 Mbps, Config: vless://3209ec50-2909-4972-83cb-93349f9d94fd@tmc.langry.ru:443?security=reality&encryption=none&pbk=QNeqTtf7YHPKRQmBQuk15pdy5NqgLcmFi8nSUby64GQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0f4dacf08722a99f#US
