@@ -1,5 +1,5 @@
-Country: SG, Speed: 127.16 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
-Country: SG, Speed: 126.27 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: SG, Speed: 102.94 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
-Country: DE, Speed: 22.17 Mbps, Config: vless://ed6bb2ca-b9b4-43a2-94db-2d74be9a20ae@104.156.85.17:80?mode=auto&path=%2F&security=none&encryption=none&host=yarban.global.ssl.fastly.net&type=xhttp#DE
-Country: SG, Speed: 15.99 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319?#SG
+Country: SG, Speed: 121.00 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
+Country: SG, Speed: 120.91 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
+Country: SG, Speed: 46.14 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
+Country: DE, Speed: 23.73 Mbps, Config: vless://ed6bb2ca-b9b4-43a2-94db-2d74be9a20ae@104.156.85.17:80?mode=auto&path=%2F&security=none&encryption=none&host=yarban.global.ssl.fastly.net&type=xhttp#DE
+Country: GB, Speed: 22.42 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.113.196:443#GB
