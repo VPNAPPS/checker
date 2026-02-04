@@ -1,1 +1,1 @@
-Country: BG, Speed: 114.12 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvVUt0U1ExeURvV1kyU0lDMUFWU2VP@dc3bg1.vpncamp.vip:4432#BG
+Country: SG, Speed: 27.84 Mbps, Config: trojan://BxceQaOe@18.182.62.89:3579?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
