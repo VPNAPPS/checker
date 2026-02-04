@@ -1,3 +1,4 @@
-Country: SG, Speed: 65.04 Mbps, Config: trojan://BxceQaOe@18.182.62.89:3579?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: SG, Speed: 65.02 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: SG, Speed: 37.93 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
+Country: SG, Speed: 61.86 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
+Country: SG, Speed: 61.84 Mbps, Config: trojan://BxceQaOe@18.182.62.89:3579?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: SG, Speed: 53.91 Mbps, Config: trojan://BxceQaOe@18.182.62.89:3579?sni=t.me%252Fripaojiedian&allowInsecure=1&fp=chrome#SG
+Country: SG, Speed: 25.82 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
