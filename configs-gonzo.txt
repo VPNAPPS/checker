@@ -1,7 +1,3 @@
-Country: SG, Speed: 129.79 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
-Country: SG, Speed: 128.73 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
-Country: SG, Speed: 126.54 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
-Country: SG, Speed: 99.23 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: SG, Speed: 69.10 Mbps, Config: trojan://BxceQaOe@18.182.62.89:3579?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: SG, Speed: 16.51 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319?#SG
-Country: SG, Speed: 16.03 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
+Country: SG, Speed: 125.63 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
+Country: SG, Speed: 64.00 Mbps, Config: trojan://BxceQaOe@18.182.62.89:3579?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: NL, Speed: 22.36 Mbps, Config: vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=%2F&security=none&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#NL
