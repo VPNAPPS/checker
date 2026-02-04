@@ -1,2 +1,1 @@
-Country: SG, Speed: 89.01 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
-Country: NL, Speed: 21.94 Mbps, Config: vless://3209ec50-2909-4972-83cb-93349f9d94fd@tmc.langry.ru:443?security=reality&encryption=none&pbk=QNeqTtf7YHPKRQmBQuk15pdy5NqgLcmFi8nSUby64GQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0f4dacf08722a99f#US
+Country: GB, Speed: 21.98 Mbps, Config: vless://3209ec50-2909-4972-83cb-93349f9d94fd@tmc.langry.ru:443?security=reality&encryption=none&pbk=QNeqTtf7YHPKRQmBQuk15pdy5NqgLcmFi8nSUby64GQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0f4dacf08722a99f#US
