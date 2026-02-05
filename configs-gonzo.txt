@@ -1,9 +1,7 @@
-Country: SG, Speed: 124.08 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
-Country: SG, Speed: 118.13 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
-Country: SG, Speed: 102.90 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#SG
-Country: HK, Speed: 93.32 Mbps, Config: vless://cb6724d6-4900-4188-ae20-5d89b626394d@a.cdn-bilibili.cn:58472?security=reality&type=tcp&sni=www.discoverasr.com&fp=firefox&flow=xtls-rprx-vision&sid=44ef9a66271b4e&pbk=f6jIBpzHwC1lDAwvJojvEIPlwZqyEkL0gVsJxmeRLCI&encryption=none#HK
-Country: HK, Speed: 78.69 Mbps, Config: ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#HK
-Country: SG, Speed: 52.06 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
-Country: SG, Speed: 29.04 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
-Country: DE, Speed: 26.41 Mbps, Config: vless://e8da176f-e24e-4af1-a386-53a6a5396248@176.108.245.75:10443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=randomized&pbk=4jkTVxhDBqn2B-jBylY8zUEQg2VbDtmmYX2nz2kdgz8&sni=pimg.mycdn.me&sid=e6b3a1d7f02c9e54&spx=%2F#DE
-Country: GB, Speed: 25.33 Mbps, Config: vless://3209ec50-2909-4972-83cb-93349f9d94fd@tmc.langry.ru:443?security=reality&encryption=none&pbk=QNeqTtf7YHPKRQmBQuk15pdy5NqgLcmFi8nSUby64GQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0f4dacf08722a99f#US
+Country: SG, Speed: 102.81 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
+Country: SG, Speed: 97.83 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319?#SG
+Country: FI, Speed: 23.62 Mbps, Config: vless://f078d2c8-ac4c-436b-86b9-ad42706e9a22@komki.marras1300.com:80?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=dash.cloudflare.com&pbk=WRbzjN-95L5QSe2N4RPgFoXSBtlTs8G18_VSm2ict1k&sid=36306863&spx=%2FXodg2XRpMThAQvp#FI
+Country: DE, Speed: 13.37 Mbps, Config: trojan://telegram-id-directvpn@3.66.146.229:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#DE
+Country: DE, Speed: 12.41 Mbps, Config: trojan://telegram-id-privatevpns@3.66.146.229:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#DE
+Country: SG, Speed: 11.56 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
+Country: DE, Speed: 10.73 Mbps, Config: trojan://telegram-id-directvpn@3.77.16.196:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#DE
