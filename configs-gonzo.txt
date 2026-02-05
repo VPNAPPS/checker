@@ -1,1 +1,1 @@
-Country: DE, Speed: 20.48 Mbps, Config: vless://7da667bc-de20-4279-ae88-0f52fc88734d@vip1.hzcengineer.com:2053?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE
+Country: DE, Speed: 10.23 Mbps, Config: vless://7da667bc-de20-4279-ae88-0f52fc88734d@vip1.hzcengineer.com:2053?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE
