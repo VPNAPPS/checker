@@ -1,1 +1,1 @@
-Country: DE, Speed: 28.60 Mbps, Config: vless://7da667bc-de20-4279-ae88-0f52fc88734d@vip1.hzcengineer.com:2053?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE
+Country: TR, Speed: 17.40 Mbps, Config: vless://a9c62461-cbc0-4b5c-8431-ec5105a33414@ip2.gptban.com:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Turkcell.global.ssl.fastly.neT&type=xhttp#TR
