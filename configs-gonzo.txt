@@ -1,1 +1,2 @@
-Country: DE, Speed: 24.73 Mbps, Config: vless://7da667bc-de20-4279-ae88-0f52fc88734d@vip1.hzcengineer.com:2053?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE
+Country: DE, Speed: 28.32 Mbps, Config: vless://7da667bc-de20-4279-ae88-0f52fc88734d@vip1.hzcengineer.com:2053?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE
+Country: NL, Speed: 13.23 Mbps, Config: vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=/&security=&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#NL
