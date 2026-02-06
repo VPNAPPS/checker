@@ -1,1 +1,1 @@
-Country: SA, Speed: 89.74 Mbps, Config: ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#SA
+Country: SE, Speed: 16.19 Mbps, Config: vless://aaeb41cd-5136-47a1-a4c8-1403f8c489b1@fnvip2.therevenant.shop:2095?security=none&type=tcp&headerType=http&path=/&host=soft98.ir#SE
