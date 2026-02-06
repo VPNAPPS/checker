@@ -1,1 +1,1 @@
-Country: JP, Speed: 38.27 Mbps, Config: trojan://BxceQaOe@52.194.222.6:26378?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: FI, Speed: 13.01 Mbps, Config: vless://37b22f4b-7e55-416b-b69f-2e7c0f62fe41@1pw.fotball120.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=panel.jovin-store.ir#FI
