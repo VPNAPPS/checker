@@ -1,1 +1,1 @@
-Country: GB, Speed: 21.49 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#GB
+Country: DE, Speed: 27.06 Mbps, Config: vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@vipde7.persianhostnet.ir:9094?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#DE
