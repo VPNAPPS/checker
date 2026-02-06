@@ -1,7 +1,4 @@
-Country: HK, Speed: 140.06 Mbps, Config: vless://24eb1467-2ef5-4e88-fc1c-7fa6f5adb059@47.76.58.59:47464?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#HK
-Country: HK, Speed: 135.57 Mbps, Config: vless://24eb1467-2ef5-4e88-fc1c-7fa6f5adb059@47.76.58.59:47464?security=&encryption=none&headerType=none&type=tcp#HK
-Country: DE, Speed: 30.52 Mbps, Config: vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@vipde7.persianhostnet.ir:9094?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#DE
-Country: DE, Speed: 28.61 Mbps, Config: vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@vipde7.persianhostnet.ir:9094?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#DE
-Country: DE, Speed: 28.09 Mbps, Config: vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@vipde7.persianhostnet.ir:9094?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#DE
-Country: DE, Speed: 24.84 Mbps, Config: vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&encryption=none&host=iran.boltboost.gg&type=xhttp#DE
-Country: HK, Speed: 10.79 Mbps, Config: ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#HK
+Country: HK, Speed: 149.81 Mbps, Config: vless://24eb1467-2ef5-4e88-fc1c-7fa6f5adb059@47.76.58.59:47464?type=tcp&amp;path=%2F#HK
+Country: HK, Speed: 143.16 Mbps, Config: vless://24eb1467-2ef5-4e88-fc1c-7fa6f5adb059@47.76.58.59:47464?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#HK
+Country: HK, Speed: 139.84 Mbps, Config: vless://24eb1467-2ef5-4e88-fc1c-7fa6f5adb059@47.76.58.59:47464?security=&encryption=none&headerType=none&type=tcp#HK
+Country: SG, Speed: 69.32 Mbps, Config: trojan://BxceQaOe@3.112.215.135:8041?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
