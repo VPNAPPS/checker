@@ -1,5 +1,1 @@
-Country: DE, Speed: 19.63 Mbps, Config: vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@vipde7.persianhostnet.ir:9094?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#DE
-Country: SE, Speed: 15.75 Mbps, Config: vless://aaeb41cd-5136-47a1-a4c8-1403f8c489b1@fnvip4.therevenant.shop:2053?security=none&type=tcp&headerType=http&path=/&host=soft98.ir#SE
-Country: SE, Speed: 8.73 Mbps, Config: vless://aaeb41cd-5136-47a1-a4c8-1403f8c489b1@fnvip1.therevenant.shop:2095?security=none&type=tcp&headerType=http&path=/&host=soft98.ir#SE
-Country: SE, Speed: 8.72 Mbps, Config: vless://aaeb41cd-5136-47a1-a4c8-1403f8c489b1@fnvip4.therevenant.shop:2053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#SE
-Country: SE, Speed: 8.59 Mbps, Config: vless://aaeb41cd-5136-47a1-a4c8-1403f8c489b1@fnvip1.therevenant.shop:2095?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#SE
+Country: SA, Speed: 89.74 Mbps, Config: ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#SA
