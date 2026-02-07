@@ -1,1 +1,1 @@
-Country: TW, Speed: 79.41 Mbps, Config: vless://2e82cda5-e020-4c63-8271-e58a00831447@tw3.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=safari&pbk=HIlpcHfB9-JeQPIlyYAx7wbdg4Y3fKn8Qkx40Ii_KDc&sni=www.wistron.com&sid=d3eaf7ba052b#TW
+Country: TW, Speed: 81.98 Mbps, Config: vless://2e82cda5-e020-4c63-8271-e58a00831447@tw3.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=safari&pbk=HIlpcHfB9-JeQPIlyYAx7wbdg4Y3fKn8Qkx40Ii_KDc&sni=www.wistron.com&sid=d3eaf7ba052b#TW
