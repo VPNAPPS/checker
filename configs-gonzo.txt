@@ -1,2 +1,2 @@
-Country: FI, Speed: 22.73 Mbps, Config: vless://075f9190-5341-4464-a538-0041193065b1@speedtest.net:80?encryption=none&type=xhttp&mode=auto&host=v2hous.global.ssl.fastly.net&path=/&security=none#FI
-Country: DE, Speed: 20.40 Mbps, Config: vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@python.org:80?mode=auto&security=none&encryption=none&host=harro-warm-h2.global.ssl.fastly.net&type=xhttp#DE
+Country: FI, Speed: 27.56 Mbps, Config: vless://075f9190-5341-4464-a538-0041193065b1@speedtest.net:80?encryption=none&type=xhttp&mode=auto&host=v2hous.global.ssl.fastly.net&path=/&security=none#FI
+Country: DE, Speed: 16.43 Mbps, Config: vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@python.org:80?mode=auto&security=none&encryption=none&host=harro-warm-h2.global.ssl.fastly.net&type=xhttp#DE
