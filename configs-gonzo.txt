@@ -1,1 +1,1 @@
-Country: DE, Speed: 9.21 Mbps, Config: vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#DE
+Country: HK, Speed: 17.10 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#HK
