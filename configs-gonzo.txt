@@ -1,4 +1,2 @@
-Country: JP, Speed: 80.42 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?allowInsecure=0&sni=www.nintendogames.net#JP
-Country: RU, Speed: 28.45 Mbps, Config: vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#RU
-Country: IT, Speed: 25.92 Mbps, Config: vless://6a17a495-c6b6-4991-9007-2a7415b14453@it.euro2nova.com:8880?security=none&type=tcp&headerType=http&path=%2F&host=splus.ir#NL
-Country: GB, Speed: 22.04 Mbps, Config: vless://6a17a495-c6b6-4991-9007-2a7415b14453@t3.euro2nova.com:8880?security=none&type=tcp&headerType=http&path=%2F&host=filimo.com#GB
+Country: IT, Speed: 24.95 Mbps, Config: vless://6a17a495-c6b6-4991-9007-2a7415b14453@it.euro2nova.com:8880?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp#NL
+Country: IT, Speed: 16.17 Mbps, Config: vless://6a17a495-c6b6-4991-9007-2a7415b14453@it.euro2nova.com:8880?security=none&type=tcp&headerType=http&path=%2F&host=splus.ir#NL
