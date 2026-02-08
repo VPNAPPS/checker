@@ -1,1 +1,3 @@
-Country: HK, Speed: 72.14 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?allowInsecure=1&sni=www.nintendogames.net#HK
+Country: SG, Speed: 135.75 Mbps, Config: vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?encryption=none&security=none&type=tcp&headerType=none#SG
+Country: AE, Speed: 16.48 Mbps, Config: vless://10d915a7-4835-4337-979b-7bf220001b22@98.98.242.142:80?mode=auto&path=/&security=none&encryption=none&host=Mehfa.site&type=xhttp#FI
+Country: AE, Speed: 14.60 Mbps, Config: vless://10d915a7-4835-4337-979b-7bf220001b22@b.Mehfa.site:80?mode=auto&path=/&security=none&encryption=none&host=Mehfa.site&type=xhttp#FI
