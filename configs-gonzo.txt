@@ -1,2 +1,1 @@
-Country: DE, Speed: 9.20 Mbps, Config: vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#DE
-Country: NL, Speed: 8.69 Mbps, Config: vless://74bcb66b-80b8-563b-a0ef-2fd780cf1b6a@nl.zeepo.ir:443?security=reality&encryption=none&pbk=SySMR9yW2kna78L7nmfkSYeQ-DkS7nIx98AsTsHy0gM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=7fec027d1852df40#NL
+Country: DE, Speed: 21.22 Mbps, Config: vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#DE
