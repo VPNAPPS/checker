@@ -1,2 +1,3 @@
-Country: JP, Speed: 83.66 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?allowInsecure=0&sni=www.nintendogames.net#JP
-Country: SG, Speed: 67.98 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@3.112.14.249:276?allowInsecure=0&sni=www.nintendogames.net#SG
+Country: JP, Speed: 80.28 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?allowInsecure=0&sni=www.nintendogames.net#JP
+Country: SG, Speed: 67.62 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@3.112.14.249:276?allowInsecure=0&sni=www.nintendogames.net#SG
+Country: GB, Speed: 29.12 Mbps, Config: vless://6a17a495-c6b6-4991-9007-2a7415b14453@t3.euro2nova.com:8880?security=none&type=tcp&headerType=http&path=%2F&host=filimo.com#GB
