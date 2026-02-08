@@ -1,3 +1,3 @@
-Country: SG, Speed: 135.75 Mbps, Config: vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?encryption=none&security=none&type=tcp&headerType=none#SG
-Country: AE, Speed: 16.48 Mbps, Config: vless://10d915a7-4835-4337-979b-7bf220001b22@98.98.242.142:80?mode=auto&path=/&security=none&encryption=none&host=Mehfa.site&type=xhttp#FI
-Country: AE, Speed: 14.60 Mbps, Config: vless://10d915a7-4835-4337-979b-7bf220001b22@b.Mehfa.site:80?mode=auto&path=/&security=none&encryption=none&host=Mehfa.site&type=xhttp#FI
+Country: JP, Speed: 78.44 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?sni=www.nintendogames.net#JP
+Country: JP, Speed: 78.27 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?allowInsecure=0&sni=www.nintendogames.net#JP
+Country: DE, Speed: 17.98 Mbps, Config: vless://442ed0ac-c945-41ee-8bb5-8ee69ef50456@daltoon.best-cloud.ir:8443?encryption=none&type=xhttp&mode=auto&host=speed.daltoon-server.ir&path=%2F%3Fed%3D2056&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=speed.daltoon-server.ir#DE
