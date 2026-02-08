@@ -1,1 +1,2 @@
-Country: GB, Speed: 13.57 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.239.96:443#GB
+Country: JP, Speed: 83.25 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?allowInsecure=0&sni=www.nintendogames.net#JP
+Country: GB, Speed: 18.84 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.239.96:443#GB
