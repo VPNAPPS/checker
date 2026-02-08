@@ -1,3 +1,2 @@
-Country: JP, Speed: 78.44 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?sni=www.nintendogames.net#JP
-Country: JP, Speed: 78.27 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?allowInsecure=0&sni=www.nintendogames.net#JP
-Country: DE, Speed: 17.98 Mbps, Config: vless://442ed0ac-c945-41ee-8bb5-8ee69ef50456@daltoon.best-cloud.ir:8443?encryption=none&type=xhttp&mode=auto&host=speed.daltoon-server.ir&path=%2F%3Fed%3D2056&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=speed.daltoon-server.ir#DE
+Country: JP, Speed: 83.81 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?allowInsecure=0&sni=www.nintendogames.net#JP
+Country: JP, Speed: 77.47 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?sni=www.nintendogames.net#JP
