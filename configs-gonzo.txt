@@ -1,4 +1,8 @@
-Country: SG, Speed: 155.39 Mbps, Config: vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?type=tcp&amp;path=%2F#SG
-Country: GB, Speed: 26.33 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.239.96:443?#GB
-Country: GB, Speed: 26.14 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.239.96:443#GB
-Country: US, Speed: 14.42 Mbps, Config: vless://6b05ea27-051b-450b-965b-f6c5da11a1f0@43.173.125.15:44519?encryption=none&type=raw&headerType=none&security=none#US
+Country: SG, Speed: 158.02 Mbps, Config: vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?type=tcp&amp;path=%2F#SG
+Country: JP, Speed: 82.26 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?sni=www.nintendogames.net#JP
+Country: JP, Speed: 81.15 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?security=tls&sni=www.nintendogames.net#JP
+Country: JP, Speed: 79.91 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@18.181.173.100:1933?allowInsecure=0&sni=www.nintendogames.net#JP
+Country: DE, Speed: 22.54 Mbps, Config: vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#DE
+Country: GB, Speed: 21.22 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.239.96:443?#GB
+Country: TR, Speed: 15.59 Mbps, Config: vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=random&type=tcp&sni=client.imesaagetext.ir#TR
+Country: GB, Speed: 12.54 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.239.96:443#GB
