@@ -1,1 +1,1 @@
-Country: DE, Speed: 9.94 Mbps, Config: vless://c711a99b-965b-44cc-8bad-889fe6581a08@dl.purplrose.ir:2087?encryption=none&type=xhttp&mode=auto&host=Dl.purplrose.ir&path=%2F&security=tls&fp=random&sni=Dl.purplrose.ir#DE
+Country: JP, Speed: 108.77 Mbps, Config: vless://e0e04e67-e58c-4787-82e1-81e9507cb086@43.163.241.110:41344?type=tcp&amp;path=%2F#JP
