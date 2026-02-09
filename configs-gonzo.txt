@@ -1,8 +1,5 @@
-Country: GB, Speed: 23.39 Mbps, Config: vless://a4ed2e0b-85d9-4a13-884c-eae6bb4f1800@france.alpacalounge.com:2096?security=reality&encryption=none&pbk=6G6julG6n7bkD8JvdLdGSniDXf9AYV12PGYNPQgg7xQ&headerType=&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr.alpacalounge.com&sid=f77d05d1bf4d#GB
-Country: CH, Speed: 19.73 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?encryption=none&security=none&type=xhttp&host=Begaiiii.global.ssl.fastly.net&path=/?ed=2048&mode=auto#CH
-Country: GB, Speed: 19.34 Mbps, Config: vless://721084b9-ca38-4689-984e-9cb2270f0115@finland.alpacalounge.com:2087?security=reality&encryption=none&pbk=EgkiphFj0ks7_lKTbCiKZKP168yUhAHLfXi0yB2dzis&headerType=&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fn.alpacalounge.com&sid=e9be24#GB
-Country: CH, Speed: 16.07 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#CH
-Country: DE, Speed: 14.02 Mbps, Config: vless://f112ad3b-9c4c-4f76-b1a9-12ed9dd7e63c@91.107.183.8:843?type=tcp&security=none#DE
-Country: GB, Speed: 12.40 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.68.188.237:443#GB
-Country: CH, Speed: 11.89 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?encryption=none&security=none&type=xhttp&host=Begaiiii.global.ssl.fastly.net&path=%2F%3Fed%3D2048&mode=auto#CH
-Country: CH, Speed: 10.98 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#CH
+Country: CH, Speed: 13.48 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#CH
+Country: CH, Speed: 12.80 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?encryption=none&security=none&type=xhttp&host=Begaiiii.global.ssl.fastly.net&path=/?ed=2048&mode=auto#CH
+Country: CH, Speed: 12.41 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?encryption=none&security=none&type=xhttp&host=Begaiiii.global.ssl.fastly.net&path=%2F%3Fed%3D2048&mode=auto#CH
+Country: FR, Speed: 11.92 Mbps, Config: vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@51.83.43.151:8080?security=reality&type=tcp&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&sid=b7b70c104ad267b8&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&encryption=none#FR
+Country: CH, Speed: 9.11 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#CH
