@@ -1,1 +1,4 @@
-Country: CH, Speed: 9.12 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?encryption=none&security=none&type=xhttp&host=Begaiiii.global.ssl.fastly.net&path=%2F%3Fed%3D2048&mode=auto#CH
+Country: SG, Speed: 33.84 Mbps, Config: trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#SG
+Country: DE, Speed: 12.67 Mbps, Config: vless://442ed0ac-c945-41ee-8bb5-8ee69ef50456@daltoon.best-cloud.ir:8443?encryption=none&type=xhttp&mode=auto&host=speed.daltoon-server.ir&path=%2F%3Fed%3D2056&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=speed.daltoon-server.ir#DE
+Country: DE, Speed: 11.47 Mbps, Config: vless://c711a99b-965b-44cc-8bad-889fe6581a08@dl.purplrose.ir:2087?encryption=none&security=tls&sni=Dl.purplrose.ir&fp=random&insecure=0&allowInsecure=0&type=xhttp&host=Dl.purplrose.ir&path=%2F&mode=auto#DE
+Country: CH, Speed: 9.07 Mbps, Config: vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#CH
