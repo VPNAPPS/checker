@@ -48,16 +48,24 @@ jobs:
       
       - name: Extract raw configs
         run: |
-          # Create configs-raw.txt with config string and country code (Format: Config#Country)
-          if [ -f "configs.txt" ]; then
-            sed -n 's/^Country: \([^,]*\),.*Config: \(.*\)$/\2#\1/p' configs.txt > configs-raw.txt
-            echo "Extracted $(wc -l < configs-raw.txt) configurations to configs-raw.txt"
-            echo "Sample of extracted configs:"
-            head -3 configs-raw.txt
-          else
-            echo "configs.txt not found!"
-            exit 1
-          fi
+                # Create configs-raw.txt and configs-raw-us.txt
+                if [ -f "configs.txt" ]; then
+                  # 1. Extract ALL configs
+                  sed -n 's/^Country: \([^,]*\),.*Config: \(.*\)$/\2#\1/p' configs.txt > configs-raw.txt
+                  echo "Extracted $(wc -l < configs-raw.txt) total configurations to configs-raw.txt"
+                  
+                  # 2. Extract US ONLY configs
+                  # This looks for "Country: US," specifically and outputs in the same format
+                  sed -n 's/^Country: US,.*Config: \(.*\)$/\1#US/p' configs.txt > configs-raw-us.txt
+                  echo "Extracted $(wc -l < configs-raw-us.txt) US configurations to configs-raw-us.txt"
+                  
+                  # 3. Show samples
+                  echo "Sample of extracted configs:"
+                  head -3 configs-raw.txt
+                else
+                  echo "configs.txt not found!"
+                  exit 1
+                fi
       
       - name: Upload results as an artifact
         uses: actions/upload-artifact@v4
