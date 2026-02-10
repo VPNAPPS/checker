@@ -1,7 +1,1 @@
-Country: CH, Speed: 17.81 Mbps, Config: vless://a59fac66-215c-4418-8922-e0dcd31a2bd0@search.chatgpt.com:2082?mode=auto&path=%2F&security=none&encryption=none&host=iwywuwuwu-2826266262-iwvaappapapa.maxgh5766.ir&type=xhttp#CH
-Country: DE, Speed: 13.60 Mbps, Config: vless://9830577a-51d3-400e-e57f-a0d2c5999428@18.193.85.81:443?encryption=none&security=none&type=tcp&headerType=none#DE
-Country: DE, Speed: 13.32 Mbps, Config: vless://0e777780-a40b-445f-cc79-3b8733217530@3.120.180.179:30221?encryption=none&security=none&type=tcp&headerType=none#DE
-Country: DE, Speed: 11.11 Mbps, Config: vless://7d69ff0f-75a2-42e9-a868-444b7b73c78c@3.71.91.180:443?encryption=none&security=none&type=tcp&headerType=none#DE
-Country: DE, Speed: 10.63 Mbps, Config: vless://5921e091-fd96-473e-ed51-626e6b61f089@3.75.173.72:443?encryption=none&security=none&type=tcp&headerType=none#DE
-Country: DE, Speed: 10.20 Mbps, Config: vless://5eb3ab3b-b185-49fb-dd22-428bcf1f9913@3.120.30.125:29102?encryption=none&security=none&type=tcp&headerType=none#DE
-Country: DE, Speed: 8.40 Mbps, Config: vless://f8f72d24-17a1-46a2-cb10-3a433bd6e831@18.185.110.139:48764?encryption=none&security=none&type=tcp&headerType=none#DE
+Country: KZ, Speed: 12.08 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
