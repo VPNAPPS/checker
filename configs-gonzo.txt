@@ -1,2 +1,1 @@
-Country: JP, Speed: 82.24 Mbps, Config: vless://6432bbec-c4c0-4837-9aa3-82e79def5017@5.253.41.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&sid=83780413c2ad3eaa#CY
-Country: DE, Speed: 27.54 Mbps, Config: vless://126a3798-0dad-4810-b257-ae1207665d94@iro.webira.net:39204?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#DE
+Country: HK, Speed: 62.78 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
