@@ -1,2 +1,1 @@
-Country: HK, Speed: 119.67 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
-Country: FR, Speed: 10.16 Mbps, Config: vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@fr.sv9.ir:6244?security=none&encryption=none&headerType=none&type=tcp#FR
+Country: DE, Speed: 14.07 Mbps, Config: vless://c24f90b9-c8e9-404d-94bf-879c52401190@h5.fastspeeds.ir:2087?encryption=none&type=xhttp&mode=auto&path=%2F&security=tls&fp=chrome&sni=gamehub1.mobilezahra.com#DE
