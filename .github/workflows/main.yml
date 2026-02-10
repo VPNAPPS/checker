@@ -74,12 +74,13 @@ jobs:
           path: |
             configs.txt
             configs-raw.txt
+            configs-raw-us.txt
       
       - name: Commit and push updated configs
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "github-actions@github.com"
-          git add configs.txt configs-raw.txt
+          git add configs.txt configs-raw.txt configs-raw-us.txt
           # Check if there are any changes to commit
           if ! git diff --staged --quiet; then
             git commit -m "Automated update of config files - $(date '+%Y-%m-%d %H:%M:%S UTC')"
