@@ -1,2 +1,1 @@
-Country: DE, Speed: 17.58 Mbps, Config: vless://c24f90b9-c8e9-404d-94bf-879c52401190@H5.FASTSPEEDS.IR:2087?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&fp=chrome&type=xhttp&sni=gamehub1.mobilezahra.com#DE
-Country: US, Speed: 10.89 Mbps, Config: trojan://BxceQaOe@18.163.2.13:3159?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: US, Speed: 15.20 Mbps, Config: trojan://BxceQaOe@18.163.2.13:3159?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
