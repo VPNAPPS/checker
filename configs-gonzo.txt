@@ -1,3 +1,2 @@
-Country: HK, Speed: 90.71 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
-Country: HK, Speed: 20.09 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
-Country: FI, Speed: 12.57 Mbps, Config: vless://2d41e24c-5de9-4851-8c15-aef56cc8fa6d@tun.mr404io.site:7788?type=tcp&path=%2F#FI
+Country: HK, Speed: 104.26 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
+Country: HK, Speed: 42.62 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
