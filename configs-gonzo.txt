@@ -1,1 +1,2 @@
-Country: US, Speed: 8.78 Mbps, Config: vless://04dd5782-5e3b-43b4-b36c-e2331574ef0c@138.124.180.6:4443/?type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&path=/&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#GB
+Country: HK, Speed: 27.12 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
+Country: US, Speed: 23.36 Mbps, Config: vless://04dd5782-5e3b-43b4-b36c-e2331574ef0c@138.124.180.6:4443/?type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&path=/&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#GB
