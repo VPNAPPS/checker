@@ -1,1 +1,1 @@
-Country: DE, Speed: 20.62 Mbps, Config: vless://077dca1a-97ba-4ad8-a9ca-aa06a97fa0a6@46.225.66.56:2002?security=reality&encryption=none&pbk=5b1k44J87oeqOrAUrdLN9de4ZYcT9uOU4DEhFf0WHV8&headerType=none&fp=firefox&type=tcp&sni=play.google.com#DE
+Country: DE, Speed: 24.85 Mbps, Config: vless://077dca1a-97ba-4ad8-a9ca-aa06a97fa0a6@46.225.66.56:2002?security=reality&encryption=none&pbk=5b1k44J87oeqOrAUrdLN9de4ZYcT9uOU4DEhFf0WHV8&headerType=none&fp=firefox&type=tcp&sni=play.google.com#DE
