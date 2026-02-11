@@ -1,4 +1,2 @@
-Country: HK, Speed: 92.00 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
-Country: CH, Speed: 17.18 Mbps, Config: vless://4713a797-e0d8-4ee1-aa34-f01c086eb22a@search.chatgpt.com:2086?mode=auto&path=/www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.openai.com?ed=27252&security=none&encryption=none&host=iwywuwuwu-2826266262-iwvaappapapa.maxgh5766.ir.&type=xhttp#CH
-Country: FI, Speed: 16.23 Mbps, Config: vless://c92bc4cf-0db4-4662-9e4f-b9592e8e8692@mobileahmadiv1.top:35869?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#FI
-Country: DE, Speed: 9.17 Mbps, Config: vless://31cb5b05-16ac-4c56-ab38-7284296df5cc@es2.mr404io.ir:9035?type=tcp&encryption=none&path=%2F&host=P30day.ir&headerType=http&security=none#DE
+Country: HK, Speed: 134.75 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
+Country: HK, Speed: 79.14 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
