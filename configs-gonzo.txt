@@ -1,6 +1,5 @@
-Country: SG, Speed: 64.28 Mbps, Config: trojan://BxceQaOe@43.198.233.56:381?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: HK, Speed: 47.69 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
-Country: GB, Speed: 25.35 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.11.43.131:443#GB
-Country: DE, Speed: 21.72 Mbps, Config: vless://a26bbed7-a286-4840-84bc-dc102c526777@151.101.2.219:80?mode=auto&path=/category/music&encryption=none&host=iran.boltboost.gg&type=xhttp#DE
-Country: DE, Speed: 14.41 Mbps, Config: vless://a26bbed7-a286-4840-84bc-dc102c526777@python.org:80?mode=auto&path=%2Fcategory%2Fmusic&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#DE
-Country: DE, Speed: 10.96 Mbps, Config: vless://a26bbed7-a286-4840-84bc-dc102c526777@python.org:80?mode=auto&path=category/music&security=&encryption=none&host=iran.boltboost.gg&type=xhttp#DE
+Country: HK, Speed: 101.60 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?sni=t.me%252Fripaojiedian&allowInsecure=1#HK
+Country: DE, Speed: 16.75 Mbps, Config: vless://a26bbed7-a286-4840-84bc-dc102c526777@151.101.2.219:80?mode=auto&path=/category/music&encryption=none&host=iran.boltboost.gg&type=xhttp#DE
+Country: DE, Speed: 16.19 Mbps, Config: vless://8502d622-d449-42bf-9a89-c94b673c829f@77.104.94.20:1012?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#DE
+Country: GB, Speed: 10.70 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.11.43.131:443#GB
+Country: GB, Speed: 10.47 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#GB
