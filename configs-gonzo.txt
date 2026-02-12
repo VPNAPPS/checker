@@ -1,3 +1,2 @@
-Country: SG, Speed: 85.26 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: JP, Speed: 59.08 Mbps, Config: trojan://a8f3baf4-0694-4f73-bebc-9e7f3ea01b95@jp10.jsyjiedian8.com:30003?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#JP
-Country: HK, Speed: 43.74 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
+Country: HK, Speed: 86.06 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
+Country: SG, Speed: 71.23 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
