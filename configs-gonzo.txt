@@ -1,3 +1,2 @@
-Country: HK, Speed: 77.25 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
-Country: DE, Speed: 14.94 Mbps, Config: vless://69fe6508-4c05-4107-b960-e3adc29bc3b3@p1-sv1.hamrahx.ir:2313?security=reality&encryption=none&pbk=1fhKlLHUSYEYVdi4ewnm7MSJjy9jhhZmS3Jbo96yqVc&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=24c76c704601a36e#DE
-Country: KZ, Speed: 13.22 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
+Country: HK, Speed: 88.14 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
+Country: DE, Speed: 25.25 Mbps, Config: vless://69fe6508-4c05-4107-b960-e3adc29bc3b3@p1-sv1.hamrahx.ir:2313?security=reality&encryption=none&pbk=1fhKlLHUSYEYVdi4ewnm7MSJjy9jhhZmS3Jbo96yqVc&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=24c76c704601a36e#DE
