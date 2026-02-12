@@ -1,6 +1,4 @@
-Country: SG, Speed: 83.91 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: DE, Speed: 23.72 Mbps, Config: vless://3534e36d-8ccc-40b4-a609-390de9d8153c@vip-80.f-sub.cfd:1517?security=&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#DE
-Country: KZ, Speed: 20.67 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
-Country: HK, Speed: 17.55 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
-Country: KZ, Speed: 16.13 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
-Country: JP, Speed: 13.47 Mbps, Config: trojan://BxceQaOe@54.248.12.71:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: HK, Speed: 86.94 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
+Country: SG, Speed: 77.19 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: KZ, Speed: 18.85 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
+Country: KZ, Speed: 15.23 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
