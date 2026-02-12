@@ -1,9 +1,8 @@
-Country: SG, Speed: 135.34 Mbps, Config: ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:443#SG
-Country: SG, Speed: 117.15 Mbps, Config: ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:443#SG
-Country: SG, Speed: 85.33 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: HK, Speed: 60.63 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
-Country: DE, Speed: 36.74 Mbps, Config: vless://0c37f9e8-aa18-4d4d-9203-94db811b0819@H5.FASTSPEEDS.IR:2053?mode=auto&path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=gamehub1.mobilezahra.com#DE
-Country: HK, Speed: 28.20 Mbps, Config: ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#HK
-Country: GB, Speed: 20.85 Mbps, Config: vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@spb.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=spb.connectv.net#RU
-Country: KZ, Speed: 13.12 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
-Country: SG, Speed: 12.14 Mbps, Config: ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#SG
+Country: HK, Speed: 137.96 Mbps, Config: vless://f1fc0a00-c9cc-45ef-97c3-7014d9f94b8a@185.242.234.252:14201?security=none&encryption=none&headerType=none&type=tcp#HK
+Country: HK, Speed: 109.70 Mbps, Config: vless://f1fc0a00-c9cc-45ef-97c3-7014d9f94b8a@185.242.234.252:14201?type=tcp&encryption=none&security=none#HK
+Country: SG, Speed: 78.05 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: HK, Speed: 30.84 Mbps, Config: ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#HK
+Country: DE, Speed: 25.41 Mbps, Config: vless://278a8cd2-b7ac-4ff3-a820-8a9ef6e47638@Sport2.sportgohr.ir:30100?security=none&encryption=none&headerType=none&type=tcp#DE
+Country: GB, Speed: 18.81 Mbps, Config: vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@spb.connectv.net:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&sni=spb.connectv.net#RU
+Country: GB, Speed: 15.42 Mbps, Config: vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@spb.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=spb.connectv.net#RU
+Country: HK, Speed: 13.90 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
