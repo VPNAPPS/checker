@@ -1,10 +1,7 @@
-Country: SG, Speed: 78.87 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: HK, Speed: 43.02 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
-Country: DE, Speed: 26.15 Mbps, Config: vless://9e1b890f-ef66-44ed-ab8a-6e1ca7b901fa@5.75.192.248:443?security=reality&encryption=none&pbk=FQ3Q34xMCF3em06CTkHG9YWXMkbv1rJFlbUmwKJKvg8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=6a#DE
-Country: DE, Speed: 24.76 Mbps, Config: vless://9e1b890f-ef66-44ed-ab8a-6e1ca7b901fa@5.75.192.248:443?security=reality&encryption=none&pbk=FQ3Q34xMCF3em06CTkHG9YWXMkbv1rJFlbUmwKJKvg8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=6a#DE
-Country: GB, Speed: 20.54 Mbps, Config: vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@spb.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=spb.connectv.net#RU
-Country: DE, Speed: 19.52 Mbps, Config: vless://a26bbed7-a286-4840-84bc-dc102c526777@python.org:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp&note=@freeOnlineVPN#DE
-Country: RU, Speed: 19.16 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#NL
-Country: FR, Speed: 18.96 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWWttSDJEVTVMaWlJelU4Qkt5Wnhv@45.95.233.75:27389#FR
-Country: FR, Speed: 13.90 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWWttSDJEVTVMaWlJelU4Qkt5Wnhv@45.95.233.75:27389?#FR
-Country: KZ, Speed: 13.66 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
+Country: SG, Speed: 87.75 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: JP, Speed: 82.02 Mbps, Config: trojan://BxceQaOe@54.248.12.71:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: FR, Speed: 22.30 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWWttSDJEVTVMaWlJelU4Qkt5Wnhv@45.95.233.75:27389?#FR
+Country: HK, Speed: 20.87 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
+Country: FR, Speed: 18.82 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWWttSDJEVTVMaWlJelU4Qkt5Wnhv@45.95.233.75:27389#FR
+Country: GB, Speed: 13.59 Mbps, Config: vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@spb.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=spb.connectv.net#RU
+Country: KZ, Speed: 11.36 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
