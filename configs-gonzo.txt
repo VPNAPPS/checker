@@ -1,4 +1,6 @@
-Country: SG, Speed: 150.51 Mbps, Config: ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:443#SG
-Country: HK, Speed: 98.71 Mbps, Config: trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=203.198.123.162#HK
-Country: SG, Speed: 90.71 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: HK, Speed: 26.62 Mbps, Config: ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#HK
+Country: SG, Speed: 155.94 Mbps, Config: ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:443#SG
+Country: SG, Speed: 143.18 Mbps, Config: ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#SG
+Country: SG, Speed: 139.83 Mbps, Config: ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#SG
+Country: SG, Speed: 73.65 Mbps, Config: trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: HK, Speed: 23.45 Mbps, Config: ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#HK
+Country: KZ, Speed: 14.07 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
