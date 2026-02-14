@@ -1,3 +1,8 @@
-Country: IT, Speed: 17.17 Mbps, Config: vless://06b33005-13fc-4c11-bb8e-b0fccf7d84f4@as.fast11x0.ir:3092?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#IT
-Country: KZ, Speed: 11.62 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
-Country: US, Speed: 11.54 Mbps, Config: vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?type=raw#US
+Country: JP, Speed: 85.87 Mbps, Config: trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: HU, Speed: 26.61 Mbps, Config: vless://80d277e5-d30a-49c6-8987-cb4d2cc79ee5@grinoree.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#HU
+Country: US, Speed: 26.46 Mbps, Config: vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?type=raw#US
+Country: HU, Speed: 25.30 Mbps, Config: vless://80d277e5-d30a-49c6-8987-cb4d2cc79ee5@grinoree.ru:8443?security=reality&type=tcp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=2715592069f36fe7&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&encryption=none#HU
+Country: KZ, Speed: 14.70 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659/?type=tcp#KZ
+Country: KZ, Speed: 14.23 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660/?type=tcp#KZ
+Country: KZ, Speed: 13.30 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
+Country: KZ, Speed: 12.97 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
