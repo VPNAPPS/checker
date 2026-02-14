@@ -1,5 +1,4 @@
-Country: JP, Speed: 80.68 Mbps, Config: trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: KZ, Speed: 18.59 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660/?type=tcp#KZ
-Country: KZ, Speed: 14.62 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
-Country: KZ, Speed: 11.73 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
-Country: KZ, Speed: 10.76 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659/?type=tcp#KZ
+Country: DE, Speed: 23.87 Mbps, Config: vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=&encryption=none&host=fast.com&headerType=http&type=tcp#DE
+Country: US, Speed: 23.20 Mbps, Config: vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?type=raw&amp;path=%2F#US
+Country: SE, Speed: 21.02 Mbps, Config: vless://fbb2902b-a3b9-4963-bbfc-faf2d6449223@zone.se1.s2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#SE
+Country: KZ, Speed: 9.38 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659/?type=tcp#KZ
