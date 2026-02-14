@@ -1,2 +1,2 @@
-Country: DE, Speed: 21.22 Mbps, Config: vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=fast.com&headerType=http&type=tcp#DE
-Country: US, Speed: 20.00 Mbps, Config: vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?type=raw&amp;path=%2F#US
+Country: RU, Speed: 22.01 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#NL
+Country: US, Speed: 21.70 Mbps, Config: vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?type=raw#US
