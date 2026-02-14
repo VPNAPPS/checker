@@ -1,3 +1,1 @@
-Country: US, Speed: 23.81 Mbps, Config: vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?type=raw#US
-Country: SE, Speed: 12.64 Mbps, Config: vless://fbb2902b-a3b9-4963-bbfc-faf2d6449223@zone.se1.s2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#SE
-Country: RU, Speed: 11.76 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#NL
+Country: SE, Speed: 12.81 Mbps, Config: vless://fbb2902b-a3b9-4963-bbfc-faf2d6449223@zone.se1.s2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#SE
