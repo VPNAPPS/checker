@@ -1,2 +1,1 @@
-Country: HK, Speed: 143.16 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
-Country: DE, Speed: 12.14 Mbps, Config: trojan://Ir6gjy4IXn@148.251.173.125:17818?type=tcp&security=none#DE
+Country: RU, Speed: 14.01 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#NL
