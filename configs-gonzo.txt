@@ -1,2 +1,3 @@
-Country: HK, Speed: 106.19 Mbps, Config: vless://f4d11a91-c69e-3a9e-8224-3379e00ae9c4@hk01.fualta.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none#HK
-Country: HK, Speed: 41.45 Mbps, Config: vless://f4d11a91-c69e-3a9e-8224-3379e00ae9c4@pccw01.fualta.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none#HK
+Country: HK, Speed: 89.31 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
+Country: DE, Speed: 30.85 Mbps, Config: vless://2d53b1bf-0c12-4292-adda-89d159a3be17@193.151.158.51:1094?security=none&encryption=none&headerType=none&type=tcp#DE
+Country: DE, Speed: 14.21 Mbps, Config: trojan://Ir6gjy4IXn@148.251.173.125:17818?type=tcp&security=none#DE
