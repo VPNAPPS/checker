@@ -1,2 +1,1 @@
-Country: RU, Speed: 22.01 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#NL
-Country: US, Speed: 21.70 Mbps, Config: vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?type=raw#US
+Country: RU, Speed: 11.52 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#NL
