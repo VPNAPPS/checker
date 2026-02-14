@@ -1,1 +1,2 @@
-Country: DE, Speed: 22.56 Mbps, Config: vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#DE
+Country: HK, Speed: 46.73 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
+Country: NL, Speed: 25.28 Mbps, Config: vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=none&encryption=none&headerType=none&type=tcp#NL
