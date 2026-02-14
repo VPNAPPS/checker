@@ -1,2 +1,1 @@
-Country: DE, Speed: 21.78 Mbps, Config: vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#DE
-Country: KZ, Speed: 17.01 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
+Country: DE, Speed: 16.85 Mbps, Config: vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#DE
