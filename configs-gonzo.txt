@@ -1,2 +1,8 @@
-Country: HK, Speed: 46.73 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
-Country: NL, Speed: 25.28 Mbps, Config: vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=none&encryption=none&headerType=none&type=tcp#NL
+Country: JP, Speed: 112.46 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#JP
+Country: JP, Speed: 108.65 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#JP
+Country: SG, Speed: 108.47 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
+Country: SG, Speed: 107.04 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
+Country: JP, Speed: 68.38 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#JP
+Country: JP, Speed: 67.08 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#JP
+Country: JP, Speed: 31.24 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#JP
+Country: SG, Speed: 27.16 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#SG
