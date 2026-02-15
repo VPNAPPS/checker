@@ -1,5 +1,9 @@
-Country: HK, Speed: 147.19 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
-Country: IN, Speed: 93.12 Mbps, Config: vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#IN
-Country: SG, Speed: 63.75 Mbps, Config: trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: SG, Speed: 31.42 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: US, Speed: 21.36 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: JP, Speed: 116.69 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#JP
+Country: JP, Speed: 115.53 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8319#JP
+Country: SG, Speed: 59.83 Mbps, Config: trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: SG, Speed: 58.11 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313?type=tcp#SG
+Country: JP, Speed: 56.59 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#JP
+Country: JP, Speed: 45.62 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#JP
+Country: DE, Speed: 26.98 Mbps, Config: vless://8e65208f-2ee8-49b6-9c98-25c9ba152a0a@dc.foxred.site:443?security=&encryption=none&headerType=http&type=tcp#DE
+Country: US, Speed: 18.70 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: SG, Speed: 10.85 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
