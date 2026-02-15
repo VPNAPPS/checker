@@ -1,9 +1,5 @@
-Country: JP, Speed: 113.70 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#JP
-Country: HK, Speed: 51.62 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
-Country: SG, Speed: 50.87 Mbps, Config: trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: SG, Speed: 45.99 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: DE, Speed: 25.43 Mbps, Config: vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=rapidpars.com&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&sid=661ee8b0696b45#DE
-Country: US, Speed: 20.41 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
-Country: GB, Speed: 18.61 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@4.250.176.221:443#GB
-Country: US, Speed: 9.90 Mbps, Config: vless://4a7baca1-8048-4a91-8316-595b36657a54@vvbg.191262.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aljazeera.net&fp=chrome&pbk=WAmg2ZhiUT_W4Co9OEQL5u40eBFD3dhxX83mfsX4MGo&sid=b8b4fb16&type=tcp&headerType=none&host=www.aljazeera.net#US
-Country: US, Speed: 9.56 Mbps, Config: vless://4a7baca1-8048-4a91-8316-595b36657a54@vvbg.191262.xyz:443?security=reality&type=tcp&alpn=http/1.1&sni=www.aljazeera.net&fp=chrome&flow=xtls-rprx-vision&sid=b8b4fb16&pbk=WAmg2ZhiUT_W4Co9OEQL5u40eBFD3dhxX83mfsX4MGo&encryption=none#US
+Country: SG, Speed: 124.46 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
+Country: SG, Speed: 59.41 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
+Country: SG, Speed: 59.25 Mbps, Config: trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: GB, Speed: 12.49 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@4.250.176.221:443#GB
+Country: US, Speed: 11.96 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
