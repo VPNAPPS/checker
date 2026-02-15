@@ -1,9 +1,3 @@
-Country: JP, Speed: 115.87 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#JP
-Country: JP, Speed: 65.08 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316?#JP
-Country: SG, Speed: 56.42 Mbps, Config: trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: TR, Speed: 27.12 Mbps, Config: vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#TR
-Country: DE, Speed: 24.79 Mbps, Config: vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&allowInsecure=0&encryption=none&type=tcp&path=/api&headerType=http#DE
-Country: TR, Speed: 23.75 Mbps, Config: vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#TR
-Country: TR, Speed: 22.48 Mbps, Config: vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&host=telegram.com&headerType=none&type=tcp#TR
-Country: TR, Speed: 20.25 Mbps, Config: vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&type=tcp&encryption=none#TR
-Country: US, Speed: 20.22 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: SG, Speed: 67.98 Mbps, Config: trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: US, Speed: 22.73 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: DE, Speed: 18.94 Mbps, Config: vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&allowInsecure=0&encryption=none&type=tcp&path=/api&headerType=http#DE
