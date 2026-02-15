@@ -1,11 +1,4 @@
-Country: JP, Speed: 216.44 Mbps, Config: vless://73d3f67e-56c0-4205-8020-d9896920ce1e@tcp.ap-northeast-1.clawcloudrun.com:44832?mode=auto&path=/nullop1-nullop1-nullop1-nullop1&security=reality&encryption=none&pbk=BpQ6SzhZEgxnb82psovxNMu5CiTzYfB5fhw1qH3bRCs&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=f51473d0#JP
-Country: SG, Speed: 83.56 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
-Country: JP, Speed: 75.57 Mbps, Config: vless://73d3f67e-56c0-4205-8020-d9896920ce1e@tcp.ap-northeast-1.clawcloudrun.com:44832?security=reality&encryption=none&type=xhttp&mode=auto&fp=chrome&sni=www.icloud.com&pbk=BpQ6SzhZEgxnb82psovxNMu5CiTzYfB5fhw1qH3bRCs&sid=f51473d0&path=%2Fnullop1-nullop1-nullop1-nullop1&spx=%2F#JP
-Country: SG, Speed: 43.53 Mbps, Config: trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: SG, Speed: 18.08 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: SG, Speed: 16.36 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
-Country: NL, Speed: 15.98 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#NL
-Country: NL, Speed: 13.51 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#NL
-Country: NL, Speed: 12.23 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n1.digionix.ir&path=/pabloping&security=none#NL
-Country: NL, Speed: 12.14 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#NL
-Country: NL, Speed: 11.35 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n2.digionix.ir&path=/pabloping&security=none#NL
+Country: SG, Speed: 50.72 Mbps, Config: trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: US, Speed: 12.50 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: NL, Speed: 10.12 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?encryption=none&security=none&type=xhttp&host=pablo-n1.digionix.ir&path=/pabloping&mode=auto#NL
+Country: GB, Speed: 9.71 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@4.250.176.221:443#GB
