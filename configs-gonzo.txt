@@ -1,7 +1,4 @@
-Country: JP, Speed: 60.17 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#JP
-Country: SG, Speed: 30.52 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
-Country: JP, Speed: 19.71 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?note=@FreeOnlineVPN#JP
-Country: SG, Speed: 15.91 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
-Country: JP, Speed: 15.83 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316?note=@FreeOnlineVPN#JP
-Country: JP, Speed: 15.71 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8319?note=@FreeOnlineVPN#JP
-Country: NL, Speed: 15.28 Mbps, Config: vless://af294727-004a-4bf0-b120-92c8618e86dc@nl.zeepo.ir:443?security=reality&encryption=none&pbk=SySMR9yW2kna78L7nmfkSYeQ-DkS7nIx98AsTsHy0gM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=7fec027d1852df40#NL
+Country: SG, Speed: 40.18 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#SG
+Country: SG, Speed: 26.42 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
+Country: NL, Speed: 13.61 Mbps, Config: vless://af294727-004a-4bf0-b120-92c8618e86dc@nl.zeepo.ir:443?security=reality&encryption=none&pbk=SySMR9yW2kna78L7nmfkSYeQ-DkS7nIx98AsTsHy0gM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=7fec027d1852df40#NL
+Country: SG, Speed: 11.40 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
