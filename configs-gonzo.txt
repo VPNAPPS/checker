@@ -1,6 +1,11 @@
-Country: JP, Speed: 125.92 Mbps, Config: vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.f2zone.ir:45703?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&host=skyroom.online&path=/&headerType=http#JP
-Country: SG, Speed: 86.66 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
-Country: SG, Speed: 45.80 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: JP, Speed: 20.25 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#JP
-Country: DE, Speed: 19.04 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?encryption=none&security=reality&sni=ea.com&fp=chrome&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02&spx=/&type=tcp&headerType=none#DE
-Country: DE, Speed: 8.45 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855/?type=tcp&encryption=none&sni=ea.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02#DE
+Country: SG, Speed: 118.17 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313?type=tcp&note=@FreeOnlineVPN#SG
+Country: SG, Speed: 112.47 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
+Country: HK, Speed: 62.69 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20trojan-HK%20&allowInsecure=1&type=tcp&fp=chrome#HK
+Country: HK, Speed: 39.70 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#HK
+Country: HK, Speed: 33.49 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#HK
+Country: HK, Speed: 31.64 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#HK
+Country: JP, Speed: 28.12 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#JP
+Country: SG, Speed: 24.50 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313?note=@FreeOnlineVPN#SG
+Country: JP, Speed: 22.99 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316?#JP
+Country: SG, Speed: 22.62 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313?type=tcp#SG
+Country: US, Speed: 16.71 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
