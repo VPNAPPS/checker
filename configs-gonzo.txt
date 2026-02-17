@@ -1,3 +1,7 @@
-Country: HK, Speed: 34.74 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#HK
-Country: HK, Speed: 17.74 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&type=tcp&fp=chrome#HK
-Country: US, Speed: 12.16 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: JP, Speed: 127.34 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#JP
+Country: JP, Speed: 114.12 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#JP
+Country: SG, Speed: 83.40 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
+Country: SG, Speed: 54.78 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
+Country: SG, Speed: 40.21 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#SG
+Country: SG, Speed: 16.10 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313?note=@FreeOnlineVPN#SG
+Country: DE, Speed: 10.89 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sni=ea.com&sid=02&spx=%2F#DE
