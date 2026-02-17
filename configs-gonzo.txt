@@ -1,20 +1,26 @@
-Country: JP, Speed: 128.93 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#JP
-Country: JP, Speed: 93.73 Mbps, Config: vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.f2zone.ir:45703?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#JP
-Country: SG, Speed: 90.40 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313?#SG
-Country: HK, Speed: 65.30 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&type=tcp&fp=chrome#HK
-Country: HK, Speed: 37.37 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20trojan-HK%20&allowInsecure=1&type=tcp&fp=chrome#HK
-Country: HK, Speed: 37.20 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D#HK
-Country: SG, Speed: 36.26 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#SG
-Country: HK, Speed: 33.07 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#HK
-Country: HK, Speed: 29.92 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒#HK
-Country: HK, Speed: 23.81 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#HK
-Country: US, Speed: 21.25 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
-Country: DE, Speed: 16.81 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=reality&encryption=none&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&headerType=none&fp=chrome&spx=/&type=tcp&sni=ea.com&sid=02#DE
-Country: HK, Speed: 16.60 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#HK
-Country: US, Speed: 16.08 Mbps, Config: vless://4a7baca1-8048-4a91-8316-595b36657a54@vvbg.191262.xyz:443/?security=reality&type=tcp&alpn=http/1.1&sni=www.aljazeera.net&fp=chrome&flow=xtls-rprx-vision&sid=b8b4fb16&pbk=WAmg2ZhiUT_W4Co9OEQL5u40eBFD3dhxX83mfsX4MGo&encryption=none#US
-Country: DE, Speed: 14.51 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855/?type=tcp&encryption=none&sni=ea.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02#DE
-Country: HK, Speed: 12.63 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373/?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#HK
-Country: HK, Speed: 12.62 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=🔒 [By EbraSha] &allowInsecure=1&type=tcp&fp=chrome#HK
-Country: KZ, Speed: 11.01 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?&note=@FreeOnlineVPN#KZ
-Country: DE, Speed: 10.08 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=reality&encryption=none&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&headerType=&fp=chrome&spx=%2F&type=tcp&sni=ea.com&sid=02#DE
-Country: DE, Speed: 8.58 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?encryption=none&security=reality&sni=ea.com&fp=chrome&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02&spx=/&type=tcp&headerType=none#DE
+Country: DE, Speed: 215.23 Mbps, Config: vless://jina@135.220.73.1:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-135220731-direct.yektanet.co#DE
+Country: JP, Speed: 128.73 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#JP
+Country: JP, Speed: 120.54 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
+Country: HK, Speed: 69.52 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=🔒 [By EbraSha] &allowInsecure=1&type=tcp&fp=chrome#HK
+Country: HK, Speed: 65.09 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D#HK
+Country: HK, Speed: 61.69 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#HK
+Country: HK, Speed: 58.09 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#HK
+Country: HK, Speed: 55.27 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20trojan-HK%20&allowInsecure=1&type=tcp&fp=chrome#HK
+Country: HK, Speed: 52.04 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒#HK
+Country: HK, Speed: 48.88 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373/?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#HK
+Country: HK, Speed: 48.23 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#HK
+Country: SG, Speed: 44.06 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
+Country: HK, Speed: 36.25 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&type=tcp&fp=chrome#HK
+Country: HK, Speed: 32.78 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#HK
+Country: SG, Speed: 24.81 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#SG
+Country: JP, Speed: 19.45 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316?#JP
+Country: JP, Speed: 19.14 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#JP
+Country: DE, Speed: 18.96 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?encryption=none&security=reality&sni=ea.com&fp=chrome&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02&spx=/&type=tcp&headerType=none#DE
+Country: US, Speed: 18.24 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: DE, Speed: 16.11 Mbps, Config: trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=848ecf47e1b2#DE
+Country: DE, Speed: 11.83 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=reality&encryption=none&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&headerType=none&fp=chrome&spx=/&type=tcp&sni=ea.com&sid=02&note=@FreeOnlineVPN#DE
+Country: US, Speed: 11.72 Mbps, Config: vless://4a7baca1-8048-4a91-8316-595b36657a54@vvbg.191262.xyz:443/?security=reality&type=tcp&alpn=http/1.1&sni=www.aljazeera.net&fp=chrome&flow=xtls-rprx-vision&sid=b8b4fb16&pbk=WAmg2ZhiUT_W4Co9OEQL5u40eBFD3dhxX83mfsX4MGo&encryption=none#US
+Country: KZ, Speed: 11.52 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ
+Country: KZ, Speed: 9.95 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#KZ
+Country: DE, Speed: 9.42 Mbps, Config: vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=reality&encryption=none&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&headerType=&fp=chrome&spx=/&type=tcp&sni=ea.com&sid=02#DE
+Country: KZ, Speed: 9.09 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?&note=@FreeOnlineVPN#KZ
