@@ -1,2 +1,1 @@
-Country: US, Speed: 325.75 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#US
-Country: US, Speed: 282.60 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.108.217.103:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-6.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=nj5rkjon.85858569.Xyz#GB
+Country: SG, Speed: 15.25 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
