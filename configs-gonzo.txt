@@ -1,2 +1,1 @@
-Country: US, Speed: 257.26 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.108.217.103:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=APP-FI-6.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=nj5rkjon.85858569.Xyz#US
-Country: JP, Speed: 13.15 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#JP
+Country: LU, Speed: 10.33 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
