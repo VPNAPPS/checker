@@ -1,1 +1,3 @@
-Country: SG, Speed: 25.44 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319?#SG
+Country: GB, Speed: 399.38 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=APP-DE-8.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=xo01qvwx.85858569.xyz#GB
+Country: JP, Speed: 12.18 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#JP
+Country: JP, Speed: 10.97 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#JP
