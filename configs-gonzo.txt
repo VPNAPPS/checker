@@ -1,1 +1,4 @@
-Country: LU, Speed: 10.33 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
+Country: US, Speed: 165.48 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@37.153.171.135:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=APP-DE-7.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=te46gte2.85858569.xyz#US
+Country: SG, Speed: 40.72 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316?note=@FreeOnlineVPN#SG
+Country: US, Speed: 14.28 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: LU, Speed: 8.51 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@lu-lux.pvdata.host:1080#LU
