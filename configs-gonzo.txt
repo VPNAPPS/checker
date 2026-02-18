@@ -1,3 +1,2 @@
-Country: JP, Speed: 43.38 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
-Country: SG, Speed: 19.04 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
-Country: HK, Speed: 11.16 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#HK
+Country: JP, Speed: 108.69 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
+Country: DE, Speed: 11.39 Mbps, Config: vless://2ce8b02d-b54a-4e46-ae35-93429510c2f1@754542653f91a192.reni-z1.maf-tahas.ir:8585?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d&type=tcp&headerType=none#DE
