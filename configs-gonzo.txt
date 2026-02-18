@@ -1,3 +1,3 @@
-Country: SG, Speed: 43.15 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
-Country: HK, Speed: 19.79 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#HK
-Country: HK, Speed: 10.08 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#HK
+Country: JP, Speed: 70.02 Mbps, Config: vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.fx2hub.ir:45703?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#JP
+Country: HK, Speed: 12.34 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20trojan-HK%20&allowInsecure=1&type=tcp&fp=chrome#HK
+Country: HK, Speed: 10.09 Mbps, Config: trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&type=tcp&fp=chrome#HK
