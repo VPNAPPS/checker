@@ -1,4 +1,1 @@
-Country: US, Speed: 502.19 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@37.153.171.135:443?encryption=none&security=tls&sni=te46gte2.85858569.xyz&alpn=h3,h2&fp=chrome&type=xhttp&host=APP-DE-7.85858569.XYZ&path=/&mode=stream-up#US
-Country: JP, Speed: 38.01 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?note=@FreeOnlineVPN#JP
-Country: JP, Speed: 19.61 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#JP
-Country: LV, Speed: 11.12 Mbps, Config: vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750/?type=tcp&encryption=none&path=/&host=play.google.com&headerType=http&security=none#LV
+Country: LV, Speed: 11.22 Mbps, Config: vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750/?type=tcp&encryption=none&path=/&host=play.google.com&headerType=http&security=none#LV
