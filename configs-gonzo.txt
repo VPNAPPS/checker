@@ -1,11 +1,4 @@
-Country: US, Speed: 559.14 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?security=tls&encryption=none&type=xhttp&mode=stream-up&path=%2F&alpn=h3%2Ch2&fp=chrome&host=APP-DE-8.85858569.XYZ&sni=xo01qvwx.85858569.xyz#GB
-Country: US, Speed: 434.98 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@37.153.171.135:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=APP-DE-7.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=te46gte2.85858569.xyz#US
-Country: US, Speed: 171.31 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.249.192.196:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=APP-DE-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=ikea5atp.85858569.xyz#US
-Country: JP, Speed: 127.83 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#JP
-Country: JP, Speed: 119.63 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
-Country: SG, Speed: 75.49 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: SG, Speed: 50.66 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#SG
-Country: FI, Speed: 29.46 Mbps, Config: vless://9b4b232a-578a-4e27-b219-57acec5e0a0d@IP.xQNetWork.iR:2053?mode=auto&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=WALLET1.MObileZahra.CoM&fp=chrome&type=xhttp&allowInsecure=0&sni=WALLET1.MObileZahra.CoM#FI
-Country: SG, Speed: 29.38 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#SG
-Country: SG, Speed: 20.62 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
-Country: LU, Speed: 14.63 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@lu-lux.pvdata.host:1080#LU
+Country: JP, Speed: 119.34 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
+Country: JP, Speed: 108.77 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#JP
+Country: SG, Speed: 21.74 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
+Country: FI, Speed: 16.40 Mbps, Config: vless://9b4b232a-578a-4e27-b219-57acec5e0a0d@IP.xQNetWork.iR:2053?mode=auto&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=WALLET1.MObileZahra.CoM&fp=chrome&type=xhttp&allowInsecure=0&sni=WALLET1.MObileZahra.CoM#FI
