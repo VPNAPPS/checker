@@ -1,8 +1,6 @@
-Country: DE, Speed: 239.20 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#DE
-Country: DE, Speed: 235.06 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&type=xhttp&mode=auto&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none#DE
-Country: DE, Speed: 173.79 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#DE
-Country: JP, Speed: 56.36 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#JP
-Country: SG, Speed: 39.59 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319?note=@FreeOnlineVPN#SG
-Country: LV, Speed: 13.70 Mbps, Config: vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750/?type=tcp&encryption=none&path=/&host=play.google.com&headerType=http&security=none#LV
-Country: LU, Speed: 10.02 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@lu-lux.pvdata.host:1080#LU
-Country: LU, Speed: 9.25 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
+Country: DE, Speed: 279.60 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#DE
+Country: DE, Speed: 254.79 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&type=xhttp&mode=auto&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none#DE
+Country: JP, Speed: 112.89 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
+Country: JP, Speed: 111.82 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?note=@FreeOnlineVPN#JP
+Country: DE, Speed: 12.51 Mbps, Config: vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=&encryption=none&headerType=&type=tcp#DE
+Country: DE, Speed: 10.96 Mbps, Config: vless://65ea1867-ee13-41ad-819e-098553a3db2e@sr2.qirvo.fun:2082?security=none&encryption=none&headerType=none&type=tcp#DE
