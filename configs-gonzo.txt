@@ -1,4 +1,6 @@
-Country: JP, Speed: 119.34 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
-Country: JP, Speed: 108.77 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#JP
-Country: SG, Speed: 21.74 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#SG
-Country: FI, Speed: 16.40 Mbps, Config: vless://9b4b232a-578a-4e27-b219-57acec5e0a0d@IP.xQNetWork.iR:2053?mode=auto&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=WALLET1.MObileZahra.CoM&fp=chrome&type=xhttp&allowInsecure=0&sni=WALLET1.MObileZahra.CoM#FI
+Country: JP, Speed: 113.15 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#JP
+Country: SG, Speed: 76.52 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#SG
+Country: JP, Speed: 37.52 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8319#JP
+Country: JP, Speed: 34.59 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?note=@FreeOnlineVPN#JP
+Country: SG, Speed: 32.61 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
+Country: FI, Speed: 14.83 Mbps, Config: vless://9b4b232a-578a-4e27-b219-57acec5e0a0d@IP.xQNetWork.iR:2053?mode=auto&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=WALLET1.MObileZahra.CoM&fp=chrome&type=xhttp&allowInsecure=0&sni=WALLET1.MObileZahra.CoM#FI
