@@ -1,4 +1,7 @@
-Country: US, Speed: 542.99 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&host=APP-DE-8.85858569.XYZ&fp=chrome&type=xhttp&sni=xo01qvwx.85858569.xyz#US
-Country: US, Speed: 65.12 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-1.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=prqyxtlb.85858569.Xyz#US
-Country: LV, Speed: 19.62 Mbps, Config: vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750/?type=tcp&encryption=none&path=/&host=play.google.com&headerType=http&security=none#LV
-Country: SG, Speed: 17.91 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316?#SG
+Country: US, Speed: 459.14 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.249.192.196:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-DE-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=ikea5atp.85858569.xyz#US
+Country: US, Speed: 307.20 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.249.192.196:443?encryption=none&type=xhttp&mode=stream-up&host=APP-FI-2.85858569.XYZ&path=%2F&security=tls&alpn=h3%2Ch2&fp=chrome&sni=9w7drfms.85858569.Xyz#US
+Country: JP, Speed: 122.30 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#JP
+Country: US, Speed: 118.00 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.108.217.103:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-6.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=nj5rkjon.85858569.Xyz#US
+Country: JP, Speed: 73.02 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#JP
+Country: JP, Speed: 69.10 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
+Country: LV, Speed: 11.72 Mbps, Config: vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750/?type=tcp&encryption=none&path=/&host=play.google.com&headerType=http&security=none#LV
