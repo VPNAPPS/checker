@@ -1,7 +1,5 @@
-Country: US, Speed: 459.14 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.249.192.196:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-DE-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=ikea5atp.85858569.xyz#US
-Country: US, Speed: 307.20 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.249.192.196:443?encryption=none&type=xhttp&mode=stream-up&host=APP-FI-2.85858569.XYZ&path=%2F&security=tls&alpn=h3%2Ch2&fp=chrome&sni=9w7drfms.85858569.Xyz#US
-Country: JP, Speed: 122.30 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#JP
-Country: US, Speed: 118.00 Mbps, Config: vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@23.108.217.103:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-6.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=nj5rkjon.85858569.Xyz#US
-Country: JP, Speed: 73.02 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#JP
-Country: JP, Speed: 69.10 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
-Country: LV, Speed: 11.72 Mbps, Config: vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750/?type=tcp&encryption=none&path=/&host=play.google.com&headerType=http&security=none#LV
+Country: JP, Speed: 120.66 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#JP
+Country: DE, Speed: 18.82 Mbps, Config: vless://14818654-7689-453a-9a1f-4c72f89782d5@144.31.104.1:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#GB
+Country: LV, Speed: 12.89 Mbps, Config: vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750/?type=tcp&encryption=none&path=/&host=play.google.com&headerType=http&security=none#LV
+Country: JP, Speed: 10.82 Mbps, Config: vless://c41313a3-68f9-4569-982e-4a2306665f71@pq.vmjp2.yydjc.top:443?security=reality&encryption=none&pbk=asLJREsp9L0JbURQPIhFxc6bZIgpunEOjOJeHv3YcEs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=b0fbe0f0#JP
+Country: LU, Speed: 8.43 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
