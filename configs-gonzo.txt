@@ -1,4 +1,8 @@
-Country: JP, Speed: 59.06 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316?#JP
-Country: DE, Speed: 48.88 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#DE
-Country: JP, Speed: 24.80 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316?note=@FreeOnlineVPN#JP
-Country: US, Speed: 12.46 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: DE, Speed: 232.88 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#DE
+Country: JP, Speed: 125.37 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?note=@FreeOnlineVPN#JP
+Country: SG, Speed: 53.70 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#SG
+Country: JP, Speed: 33.36 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#JP
+Country: JP, Speed: 31.41 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#JP
+Country: US, Speed: 11.78 Mbps, Config: vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US
+Country: JP, Speed: 11.26 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#JP
+Country: DE, Speed: 11.16 Mbps, Config: vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#DE
