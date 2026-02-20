@@ -1,2 +1,1 @@
-Country: FI, Speed: 25.03 Mbps, Config: vless://913b07fe-eae9-4985-9a39-33acaba25a2c@fin-0001-xr.packet-drop-society.net:11443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=f79448a30d#CY
-Country: FI, Speed: 8.89 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#FI
+Country: DE, Speed: 62.50 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#DE
