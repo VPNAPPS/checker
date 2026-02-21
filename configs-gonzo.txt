@@ -1,3 +1,2 @@
-Country: JP, Speed: 86.89 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#JP
-Country: DE, Speed: 36.08 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#DE
-Country: SG, Speed: 29.48 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#SG
+Country: DE, Speed: 83.13 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&type=xhttp&mode=auto&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none#DE
+Country: JP, Speed: 48.63 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#JP
