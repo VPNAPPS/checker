@@ -1,7 +1,6 @@
-Country: JP, Speed: 97.58 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#JP
-Country: DE, Speed: 52.24 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#DE
-Country: DE, Speed: 31.10 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#DE
-Country: FI, Speed: 22.59 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=upnl.pabloping.pro&path=/pabloping&mode=auto#FI
-Country: NL, Speed: 22.12 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=nlbv1.pabloping.pro&path=/pabloping&security=none#NL
-Country: FI, Speed: 17.78 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=upnl.pabloping.pro&type=xhttp#FI
-Country: FI, Speed: 10.68 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&host=upnl.pabloping.pro&mode=auto&path=/pabloping&security=none&type=xhttp#FI
+Country: DE, Speed: 182.91 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#GB
+Country: JP, Speed: 90.20 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#JP
+Country: JP, Speed: 40.79 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#JP
+Country: NL, Speed: 25.47 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#NL
+Country: JP, Speed: 22.62 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#JP
+Country: DE, Speed: 11.87 Mbps, Config: vless://3ac4fdb8-4467-458f-9d7e-1fb6d0da16da@193.228.168.13:11015?security=none&allowInsecure=0&encryption=none&type=tcp&host=varzesh3.com&path=/&headerType=http#DE
