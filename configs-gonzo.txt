@@ -1,2 +1,2 @@
-Country: SG, Speed: 131.28 Mbps, Config: vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.143.189.226:27775?security=&encryption=none&headerType=&type=tcp#SG
-Country: TW, Speed: 74.91 Mbps, Config: trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@211.20.245.140:3462?security=tls&sni=45.32.28.232#TW
+Country: DE, Speed: 243.11 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto#DE
+Country: HK, Speed: 53.09 Mbps, Config: vless://fcfc091d-81a4-40b7-cbdc-8eb7683617a4@2.hk.1.cdn-bilibili.cn:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=safari&security=reality&pbk=4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU&sid=#HK
