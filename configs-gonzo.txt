@@ -1,1 +1,2 @@
-Country: DE, Speed: 154.45 Mbps, Config: vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&type=xhttp&mode=auto&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none#GB
+Country: TR, Speed: 19.64 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633?#TR
+Country: TR, Speed: 10.04 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633#TR
