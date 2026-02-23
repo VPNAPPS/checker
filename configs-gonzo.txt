@@ -1,2 +1,2 @@
-Country: TW, Speed: 12.98 Mbps, Config: trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@211.20.245.140:3462?security=tls&sni=45.32.28.232#TW
-Country: NL, Speed: 10.30 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#NL
+Country: SG, Speed: 131.28 Mbps, Config: vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.143.189.226:27775?security=&encryption=none&headerType=&type=tcp#SG
+Country: TW, Speed: 74.91 Mbps, Config: trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@211.20.245.140:3462?security=tls&sni=45.32.28.232#TW
