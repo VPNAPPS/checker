@@ -1,3 +1,1 @@
-Country: SG, Speed: 93.66 Mbps, Config: trojan://BxceQaOe@43.198.227.190:15363?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: JP, Speed: 86.16 Mbps, Config: trojan://BxceQaOe@54.250.16.92:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: NL, Speed: 17.70 Mbps, Config: vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@z1.oneset.ir:1051?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#DE
+Country: SG, Speed: 82.41 Mbps, Config: trojan://BxceQaOe@43.198.227.190:15363?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
