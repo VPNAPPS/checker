@@ -1,2 +1,2 @@
-Country: JP, Speed: 85.34 Mbps, Config: trojan://BxceQaOe@54.250.16.92:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: DE, Speed: 20.94 Mbps, Config: vless://5921e091-fd96-473e-ed51-626e6b61f089@3.127.218.176:443?type=tcp&encryption=none&security=none#DE
+Country: DE, Speed: 18.70 Mbps, Config: vless://3b0811b0-bc0e-42ea-8792-a0e043b7efb8@test.bay-otter.test-cdn-kkk.com:9443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sni=ads.x5.ru&sid=50#SE
+Country: LU, Speed: 8.76 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080?note=@FreeOnlineVPN#LU
