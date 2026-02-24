@@ -1,1 +1,2 @@
-Country: SG, Speed: 82.41 Mbps, Config: trojan://BxceQaOe@43.198.227.190:15363?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: JP, Speed: 85.34 Mbps, Config: trojan://BxceQaOe@54.250.16.92:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: DE, Speed: 20.94 Mbps, Config: vless://5921e091-fd96-473e-ed51-626e6b61f089@3.127.218.176:443?type=tcp&encryption=none&security=none#DE
