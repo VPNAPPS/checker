@@ -1,5 +1,2 @@
-Country: DE, Speed: 33.32 Mbps, Config: vless://dabf1935-1ccd-41ca-b411-341ea674d8ef@jolbon4.mojtabajeab.ir:443?encryption=none&type=xhttp&mode=auto&path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=oin.jahan-store.ir#DE
-Country: DE, Speed: 17.92 Mbps, Config: vless://a9d5dd8b-9eb3-4b4f-f69b-90abc8af99c9@3.76.248.84:58445?type=tcp&encryption=none&security=none#DE
-Country: PL, Speed: 15.17 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#PL
-Country: DE, Speed: 9.18 Mbps, Config: vless://76519b4d-f880-4fa5-e02f-77df232fa79e@3.67.176.243:36062?type=tcp&encryption=none&security=none#DE
-Country: DE, Speed: 8.49 Mbps, Config: vless://3655caf2-a709-4e44-f353-773ddda24d7b@3.64.178.198:36512?type=tcp&encryption=none&security=none#DE
+Country: RU, Speed: 20.22 Mbps, Config: vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#RU
+Country: LU, Speed: 15.72 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
