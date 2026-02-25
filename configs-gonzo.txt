@@ -1,3 +1,1 @@
-Country: LU, Speed: 16.88 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
-Country: RU, Speed: 15.96 Mbps, Config: vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#RU
-Country: US, Speed: 8.70 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@us-los.pvdata.host:1080#US
+Country: LU, Speed: 8.77 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@lu-lux.pvdata.host:1080#LU
