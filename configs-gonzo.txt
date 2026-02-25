@@ -1,10 +1,5 @@
-Country: HK, Speed: 69.54 Mbps, Config: trojan://262f1d150049457ac1d6e66b020fa980@13.114.51.135:4856?allowInsecure=0&sni=www.nintendogames.net#HK
-Country: GB, Speed: 28.79 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443?type=tcp#GB
-Country: TR, Speed: 28.07 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633?note=@FreeOnlineVPN#TR
-Country: GB, Speed: 23.04 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443?#GB
-Country: TR, Speed: 20.38 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633?#TR
-Country: ES, Speed: 15.55 Mbps, Config: vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&encryption=none&headerType=http&type=tcp#ES
-Country: SE, Speed: 14.89 Mbps, Config: vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.112:9000?encryption=none&security=none&type=tcp&headerType=http#SE
-Country: TR, Speed: 14.80 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?type=tcp#TR
-Country: GB, Speed: 14.19 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#GB
-Country: KZ, Speed: 8.67 Mbps, Config: vless://4ccb001b-32ad-0006-9455-b7bd5094995b@yax5.shukafish.ru:8443/?type=tcp&security=reality&flow=xtls-rprx-vision&sni=pimg.mycdn.me&path=/&fp=chrome&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&sid=aea104e730#KZ
+Country: KZ, Speed: 24.26 Mbps, Config: vless://4ccb001b-32ad-0006-9455-b7bd5094995b@yax5.shukafish.ru:8443/?type=tcp&security=reality&flow=xtls-rprx-vision&sni=pimg.mycdn.me&path=/&fp=chrome&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&sid=aea104e730#KZ
+Country: TR, Speed: 21.54 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#TR
+Country: TR, Speed: 21.14 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?type=tcp#TR
+Country: TR, Speed: 13.54 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633?#TR
+Country: PL, Speed: 10.79 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@pl-tor.pvdata.host:1080#PL
