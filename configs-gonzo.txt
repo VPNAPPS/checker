@@ -1,4 +1,2 @@
-Country: JP, Speed: 99.86 Mbps, Config: trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#JP
-Country: CH, Speed: 24.39 Mbps, Config: vless://monacoVPN@172.65.111.43:22/?security=none&allowInsecure=0&encryption=none&type=tcp&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http#CH
-Country: TR, Speed: 20.73 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633?note=@FreeOnlineVPN#TR
-Country: CH, Speed: 19.02 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: CH, Speed: 17.66 Mbps, Config: vless://monacoVPN@172.65.111.43:22/?security=none&allowInsecure=0&encryption=none&type=tcp&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http#CH
+Country: CH, Speed: 12.98 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
