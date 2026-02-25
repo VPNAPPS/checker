@@ -1,5 +1,6 @@
-Country: CH, Speed: 23.32 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: DE, Speed: 21.31 Mbps, Config: vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@18.159.35.41:443?security=none&encryption=none&headerType=none&type=tcp#DE
-Country: DE, Speed: 19.73 Mbps, Config: vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@18.159.35.41:443?security=&encryption=none&headerType=none&type=tcp#DE
-Country: DE, Speed: 15.48 Mbps, Config: vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com¬e#DE
-Country: FI, Speed: 11.38 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#FI
+Country: GB, Speed: 140.16 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633?#GB
+Country: CH, Speed: 27.55 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: NL, Speed: 25.06 Mbps, Config: vless://80054452-e793-4472-88fc-7d4218f43a5c@paris1.botchillus.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FM9-fv0BDcs4Ias0FsLK-THWrpZJXEerygRSUtmY21A&sid=e708fb5283ef&sni=google.com&spx=/QdC45IH1kPb25EI#NL
+Country: NL, Speed: 20.05 Mbps, Config: vless://80054452-e793-4472-88fc-7d4218f43a5c@paris1.botchillus.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=FM9-fv0BDcs4Ias0FsLK-THWrpZJXEerygRSUtmY21A&sni=google.com&sid=e708fb5283ef&spx=%2FQdC45IH1kPb25EI#NL
+Country: EE, Speed: 13.39 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@ee-tal.pvdata.host:1080?note=@FreeOnlineVPN#EE
+Country: FI, Speed: 9.82 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@fi-esp.pvdata.host:1080#FI
