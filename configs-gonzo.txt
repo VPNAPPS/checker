@@ -1,4 +1,4 @@
-Country: SG, Speed: 27.07 Mbps, Config: vless://7473f95b-5a12-4972-b882-9fcd41ceff72@zf.sg1000.eu.cc:50000?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sni=yahoo.com&sid=1f7bfe&spx=/#SG
-Country: DE, Speed: 24.18 Mbps, Config: vless://5b933269-a58c-4f64-aeda-0be5068a9c08@gerasru01.divinevpnconnect.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=kgRnqe6YKbiIbGbgDiGl2cZkH47C2Ma4IehGaS5H6FA&sni=google.com&allowinsecure=0#GB
-Country: DE, Speed: 13.44 Mbps, Config: vless://0e777780-a40b-445f-cc79-3b8733217530@3.125.17.126:30221?type=tcp&encryption=none&security=none#DE
-Country: DE, Speed: 11.33 Mbps, Config: vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@18.192.210.130:44708?type=tcp&encryption=none&security=none#DE
+Country: GB, Speed: 71.43 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633/?#GB
+Country: SG, Speed: 45.03 Mbps, Config: vless://7473f95b-5a12-4972-b882-9fcd41ceff72@zf.sg1000.eu.cc:50000?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sni=yahoo.com&sid=1f7bfe&spx=/#SG
+Country: DE, Speed: 12.47 Mbps, Config: vless://5b933269-a58c-4f64-aeda-0be5068a9c08@gerasru01.divinevpnconnect.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=kgRnqe6YKbiIbGbgDiGl2cZkH47C2Ma4IehGaS5H6FA&sni=google.com&allowinsecure=0#GB
+Country: DE, Speed: 10.60 Mbps, Config: vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@18.159.35.41:443?security=none&encryption=none&headerType=none&type=tcp#DE
