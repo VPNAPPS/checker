@@ -1,5 +1,4 @@
-Country: SG, Speed: 84.57 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: AL, Speed: 15.84 Mbps, Config: vless://af5100bf-ffe6-43de-bee5-b16cf5a3528e@my.kiomars.shop:6620?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#AL
-Country: CH, Speed: 15.70 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: NL, Speed: 12.20 Mbps, Config: vless://uwC4Ahs0j7GiKM4O40TYy4@45.150.109.231:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒#NL
-Country: US, Speed: 10.36 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@us-los.pvdata.host:1080#US
+Country: SG, Speed: 72.93 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: CH, Speed: 15.32 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: DE, Speed: 13.28 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOFJqcEpvTldxaUtCN0t6bEJUTWVn@Net0.iraliza.net.tr:1080#DE
+Country: NL, Speed: 9.08 Mbps, Config: vless://uwC4Ahs0j7GiKM4O40TYy4@45.150.109.231:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=nl91.alice#NL
