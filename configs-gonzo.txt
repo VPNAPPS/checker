@@ -1,6 +1,6 @@
-Country: SG, Speed: 66.62 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: NL, Speed: 23.61 Mbps, Config: vless://uwC4Ahs0j7GiKM4O40TYy4@45.150.109.231:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒#NL
-Country: CH, Speed: 22.74 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: LU, Speed: 10.85 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
-Country: NL, Speed: 10.59 Mbps, Config: vless://uwC4Ahs0j7GiKM4O40TYy4@45.150.109.231:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=nl91.alice#NL
-Country: FI, Speed: 8.59 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#FI
+Country: SG, Speed: 48.23 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: NL, Speed: 20.28 Mbps, Config: vless://uwC4Ahs0j7GiKM4O40TYy4@45.150.109.231:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒#NL
+Country: CH, Speed: 20.21 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: FI, Speed: 10.89 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#FI
+Country: DE, Speed: 9.58 Mbps, Config: vless://af5100bf-ffe6-43de-bee5-b16cf5a3528e@my.kiomars.shop:6610?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#DE
+Country: NL, Speed: 9.11 Mbps, Config: vless://uwC4Ahs0j7GiKM4O40TYy4@45.150.109.231:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=nl91.alice#NL
