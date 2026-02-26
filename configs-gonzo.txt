@@ -1,1 +1,2 @@
-Country: SG, Speed: 52.22 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: SG, Speed: 33.24 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: DE, Speed: 11.52 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOFJqcEpvTldxaUtCN0t6bEJUTWVn@Net0.iraliza.net.tr:1080#DE
