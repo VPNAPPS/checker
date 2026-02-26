@@ -1,5 +1,2 @@
-Country: SG, Speed: 49.19 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: FR, Speed: 20.11 Mbps, Config: vless://eda30ec9-8200-449e-8cde-ccd8a558c2e3@etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080?encryption=none&security=tls&sni=etherfox.mzerati.vip.gift.cdn-pardaz.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=1&allowInsecure=1&type=tcp&headerType=http&host=tgju.org#FR
-Country: FI, Speed: 10.30 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#FI
-Country: PL, Speed: 8.78 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#PL
-Country: EE, Speed: 8.40 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@ee-tal.pvdata.host:1080#EE
+Country: SG, Speed: 80.58 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: SG, Speed: 12.16 Mbps, Config: vless://7473f95b-5a12-4972-b882-9fcd41ceff72@zf.sg1000.eu.cc:50000?&security=reality&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=zf.sg1000.eu.cc&path=%2F#SG
