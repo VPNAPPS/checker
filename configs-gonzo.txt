@@ -1,5 +1,7 @@
-Country: SG, Speed: 89.24 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: DE, Speed: 23.55 Mbps, Config: vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-78.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#DE
-Country: DE, Speed: 21.81 Mbps, Config: vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-79.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#DE
-Country: CH, Speed: 18.85 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: DE, Speed: 15.66 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOFJqcEpvTldxaUtCN0t6bEJUTWVn@Net0.iraliza.net.tr:1080#DE
+Country: GB, Speed: 63.77 Mbps, Config: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#GB
+Country: DE, Speed: 29.02 Mbps, Config: vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-82.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.ir#DE
+Country: CH, Speed: 25.99 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: LU, Speed: 14.55 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@lu-lux.pvdata.host:1080#LU
+Country: DE, Speed: 11.52 Mbps, Config: trojan://telegram-id-privatevpns@52.57.206.229:22222?security=tls&alpn=http%2F1.1&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#DE
+Country: EE, Speed: 8.62 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@ee-tal.pvdata.host:1080#EE
+Country: EE, Speed: 8.53 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@ee-tal.pvdata.host:1080?note=@FreeOnlineVPN#EE
