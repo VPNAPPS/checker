@@ -1,2 +1,2 @@
-Country: SG, Speed: 80.58 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: SG, Speed: 12.16 Mbps, Config: vless://7473f95b-5a12-4972-b882-9fcd41ceff72@zf.sg1000.eu.cc:50000?&security=reality&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=zf.sg1000.eu.cc&path=%2F#SG
+Country: SG, Speed: 97.79 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: CH, Speed: 9.70 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
