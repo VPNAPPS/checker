@@ -1,4 +1,5 @@
-Country: SG, Speed: 72.93 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: CH, Speed: 15.32 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: DE, Speed: 13.28 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOFJqcEpvTldxaUtCN0t6bEJUTWVn@Net0.iraliza.net.tr:1080#DE
-Country: NL, Speed: 9.08 Mbps, Config: vless://uwC4Ahs0j7GiKM4O40TYy4@45.150.109.231:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=nl91.alice#NL
+Country: HK, Speed: 65.12 Mbps, Config: vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@ind.connect-opengate.cv:8443?security=reality&encryption=none&pbk=Yxj9S7VH0OV7B6gT68Hsglo5_ctsn5Z89bhqjBps-0Y&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9593b1c3cf54836c#HK
+Country: JP, Speed: 52.30 Mbps, Config: vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@jp.connect-opengate.cv:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#JP
+Country: HK, Speed: 48.37 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#HK
+Country: CH, Speed: 12.94 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: US, Speed: 11.00 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@us-los.pvdata.host:1080#US
