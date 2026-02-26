@@ -1,2 +1,5 @@
-Country: SG, Speed: 97.79 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: CH, Speed: 9.70 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: SG, Speed: 83.96 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: CH, Speed: 24.61 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: FR, Speed: 18.14 Mbps, Config: vless://eda30ec9-8200-449e-8cde-ccd8a558c2e3@etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080?encryption=none&security=tls&sni=etherfox.mzerati.vip.gift.cdn-pardaz.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=1&allowInsecure=1&type=tcp&headerType=http&host=tgju.org&note=@FreeOnlineVPN#FR
+Country: SE, Speed: 18.11 Mbps, Config: vless://73ff2883-5aa2-0896-90a1-c6efa8808c86@172.65.146.216:3389?encryption=none&security=none&type=tcp&headerType=none#SE
+Country: FR, Speed: 16.10 Mbps, Config: vless://eda30ec9-8200-449e-8cde-ccd8a558c2e3@etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080?encryption=none&security=tls&sni=etherfox.mzerati.vip.gift.cdn-pardaz.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=1&allowInsecure=1&type=tcp&headerType=http&host=tgju.org#FR
