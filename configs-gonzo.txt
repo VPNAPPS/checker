@@ -1,7 +1,6 @@
-Country: JP, Speed: 47.78 Mbps, Config: vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@jp.connect-opengate.cv:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#JP
-Country: SG, Speed: 39.95 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: CH, Speed: 22.40 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: EE, Speed: 15.80 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@ee-tal.pvdata.host:1080#EE
-Country: NL, Speed: 10.40 Mbps, Config: vless://uwC4Ahs0j7GiKM4O40TYy4@45.150.109.231:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒#NL
-Country: SG, Speed: 9.93 Mbps, Config: vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@sg.connect-opengate.cv:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#SG
-Country: DE, Speed: 9.10 Mbps, Config: vless://050ada4d-d28e-4473-8f94-b79201bd38ed@ip.speedcheck.mobileemdad.top:4450?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#DE
+Country: JP, Speed: 99.52 Mbps, Config: trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com#JP
+Country: SG, Speed: 71.33 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: HK, Speed: 44.70 Mbps, Config: vless://fcfc091d-81a4-40b7-cbdc-8eb7683617a4@2.hk.2.cdn-bilibili.cn:443?security=reality&type=tcp&sni=www.icloud.com&fp=safari&flow=xtls-rprx-vision&pbk=4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU&encryption=none#HK
+Country: US, Speed: 16.22 Mbps, Config: vless://e384913f-8863-47b4-8858-a84b68abb4a6@7.cdnconn.com:23335?security=reality&type=tcp&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik#US
+Country: CH, Speed: 12.98 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: LU, Speed: 9.33 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@lu-lux.pvdata.host:1080#LU
