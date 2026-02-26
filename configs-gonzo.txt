@@ -1,6 +1,7 @@
-Country: JP, Speed: 99.52 Mbps, Config: trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com#JP
-Country: SG, Speed: 71.33 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: HK, Speed: 44.70 Mbps, Config: vless://fcfc091d-81a4-40b7-cbdc-8eb7683617a4@2.hk.2.cdn-bilibili.cn:443?security=reality&type=tcp&sni=www.icloud.com&fp=safari&flow=xtls-rprx-vision&pbk=4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU&encryption=none#HK
-Country: US, Speed: 16.22 Mbps, Config: vless://e384913f-8863-47b4-8858-a84b68abb4a6@7.cdnconn.com:23335?security=reality&type=tcp&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik#US
-Country: CH, Speed: 12.98 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: LU, Speed: 9.33 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@lu-lux.pvdata.host:1080#LU
+Country: SG, Speed: 87.30 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: GB, Speed: 71.66 Mbps, Config: vless://cf9c7aa7-9a78-4225-9440-94aeb955fce4@ao.shuke01.xyz:2053?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=x0LGFEFxHTs1MUmxUNGWmhOFx-W_h17oWvWJs2eFGHk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d548d887#JP
+Country: HK, Speed: 26.82 Mbps, Config: vless://fcfc091d-81a4-40b7-cbdc-8eb7683617a4@2.hk.2.cdn-bilibili.cn:443?security=reality&type=tcp&sni=www.icloud.com&fp=safari&flow=xtls-rprx-vision&pbk=4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU&encryption=none#HK
+Country: DE, Speed: 26.60 Mbps, Config: vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#DE
+Country: CH, Speed: 26.51 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: DE, Speed: 26.08 Mbps, Config: vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-78.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#DE
+Country: US, Speed: 11.85 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@us-los.pvdata.host:1080#US
