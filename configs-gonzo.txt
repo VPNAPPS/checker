@@ -1,8 +1,5 @@
-Country: SG, Speed: 202.00 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=s3.nakosgol.com&type=xhttp#SG
-Country: SG, Speed: 124.32 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s3.nakosgol.com&path=/pabloping&security=none#SG
-Country: SG, Speed: 115.41 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=s3.nakosgol.com&type=xhttp#SG
-Country: SG, Speed: 87.81 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: SG, Speed: 75.03 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#SG
-Country: SG, Speed: 58.45 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s3.nakosgol.com&path=/pabloping&security=none#SG
-Country: CH, Speed: 17.92 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: LU, Speed: 10.03 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@lu-lux.pvdata.host:1080#LU
+Country: SG, Speed: 111.87 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s3.nakosgol.com&path=/pabloping&security=none#SG
+Country: SG, Speed: 88.87 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: SG, Speed: 75.44 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#SG
+Country: CH, Speed: 24.71 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
+Country: US, Speed: 8.98 Mbps, Config: vless://ffb6d3c1-103d-4168-9b75-e1cb5b7212b9@36sw.smarteracloud.com:443?mode=stream-one&path=/&security=tls&encryption=none&host=Tp013HrJ3f.TrUsTfOrTeAm.CoM&allowinsecure=0&type=xhttp&sni=Tp013HrJ3f.TrUsTfOrTeAm.CoM#ES
