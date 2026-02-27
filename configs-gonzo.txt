@@ -1,7 +1,5 @@
-Country: SG, Speed: 144.99 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s3.nakosgol.com&path=/pabloping&security=none#SG
-Country: SG, Speed: 121.12 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s3.nakosgol.com&path=/pabloping&security=none#SG
-Country: SG, Speed: 92.60 Mbps, Config: trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: JP, Speed: 86.67 Mbps, Config: trojan://BxceQaOe@52.194.205.115:2762?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: SG, Speed: 72.22 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: FR, Speed: 21.05 Mbps, Config: vless://eda30ec9-8200-449e-8cde-ccd8a558c2e3@etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080?encryption=none&security=tls&sni=etherfox.mzerati.vip.gift.cdn-pardaz.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=1&allowInsecure=1&type=tcp&headerType=http&host=tgju.org&note=@FreeOnlineVPN#FR
-Country: LU, Speed: 11.85 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
+Country: SG, Speed: 233.12 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s3.nakosgol.com&path=/pabloping&security=none#SG
+Country: SG, Speed: 126.48 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s3.nakosgol.com&path=/pabloping&security=none#SG
+Country: SG, Speed: 45.35 Mbps, Config: trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: FR, Speed: 22.45 Mbps, Config: vless://eda30ec9-8200-449e-8cde-ccd8a558c2e3@etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080?encryption=none&security=tls&sni=etherfox.mzerati.vip.gift.cdn-pardaz.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=1&allowInsecure=1&type=tcp&headerType=http&host=tgju.org&note=@FreeOnlineVPN#FR
+Country: LU, Speed: 11.98 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#LU
