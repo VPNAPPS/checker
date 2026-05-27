@@ -1,2 +1,1 @@
-Country: TH, Speed: 48.18 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com#TH
-Country: TH, Speed: 47.87 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?security=reality&encryption=none&echfq=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=api.digital-help-prd.autodesk.com#TH
+Country: TW, Speed: 109.80 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.15.57:50099#TW
