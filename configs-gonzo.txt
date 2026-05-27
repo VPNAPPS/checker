@@ -1,10 +1,7 @@
-Country: SG, Speed: 163.95 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s3.nakosgol.com&type=xhttp#SG
-Country: SG, Speed: 140.21 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s3.nakosgol.com&path=/pabloping&security=none#SG
-Country: SG, Speed: 105.45 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=s3.nakosgol.com&type=xhttp#SG
-Country: SG, Speed: 102.66 Mbps, Config: vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s3.nakosgol.com&type=xhttp#SG
-Country: SG, Speed: 90.43 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#SG
-Country: SG, Speed: 41.62 Mbps, Config: trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#SG
-Country: DE, Speed: 21.93 Mbps, Config: vless://6e38d13e-96f8-4a16-9553-477da8e9c9f1@185.83.182.100:8007?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#DE
-Country: CH, Speed: 16.19 Mbps, Config: vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#CH
-Country: FI, Speed: 9.69 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#FI
-Country: EE, Speed: 9.09 Mbps, Config: socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@ee-tal.pvdata.host:1080#EE
+Country: TW, Speed: 99.36 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#TW
+Country: SG, Speed: 92.40 Mbps, Config: vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?security=reality&type=tcp&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&sid=9b1cdc34dd5664&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&encryption=none#SG
+Country: SG, Speed: 88.87 Mbps, Config: vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?type=tcp&encryption=none&security=reality&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&fp=firefox&sni=www.icloud.com&sid=9b1cdc34dd5664&spx=/&flow=xtls-rprx-vision#SG
+Country: KR, Speed: 80.36 Mbps, Config: vless://06a1719f-417e-46f0-8a7d-e2b13ecf893a@43.203.249.214:39295?type=tcp&encryption=none&security=reality&pbk=CKyy_gy40xRlKa3sBbCg759CMC7vDMjZKqsiuC5BtWU&fp=firefox&sni=www.icloud.com&sid=88a32a0e9853b9&spx=/&flow=xtls-rprx-vision#KR
+Country: KR, Speed: 76.97 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.14.130:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=api.company-target.com#KR
+Country: US, Speed: 13.91 Mbps, Config: vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=8c4907b7884b31&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0#AU
+Country: AU, Speed: 12.15 Mbps, Config: vless://b64ced11-143e-4ded-a985-a8de25461061@3.27.234.120:51808?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=XHnwfyEySdx57QT_8P_7vDVFzdLHO4tO9BQOsHxxlEk&sni=yahoo.com&sid=8810c789eea55c28#AU
