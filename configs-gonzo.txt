@@ -1,1 +1,3 @@
-Country: SG, Speed: 128.28 Mbps, Config: vless://4cf81982-c8eb-4e7b-bd37-99cc5d49bc3c@47.82.239.48:43505?encryption=none&security=none&type=tcp&headerType=none#SG
+Country: TH, Speed: 76.89 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com&echfq=none#TH
+Country: TH, Speed: 52.86 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?security=reality&sni=www.primevideo.com&type=tcp&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#TH
+Country: HK, Speed: 21.38 Mbps, Config: vless://6b39c5a5-9272-41f4-87a9-0776c453380c@8.217.34.150:56592?security=none&encryption=none&headerType=none&type=tcp#HK
