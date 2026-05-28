@@ -1,1 +1,1 @@
-Country: TW, Speed: 66.08 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.85.245:50099#TW
+Country: DE, Speed: 16.49 Mbps, Config: vless://ea270277-c86e-4b79-b5ab-a998c7008031@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#DE
