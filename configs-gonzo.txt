@@ -1,1 +1,4 @@
-Country: TH, Speed: 32.94 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?security=reality&sni=www.primevideo.com&type=tcp&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#TH
+Country: TH, Speed: 64.88 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?security=reality&encryption=none&echfq=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=api.digital-help-prd.autodesk.com#TH
+Country: TH, Speed: 62.33 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.36.248:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=api.digital-help-prd.autodesk.com#TH
+Country: TH, Speed: 44.38 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com#TH
+Country: DE, Speed: 18.53 Mbps, Config: vless://d8b190ee-ba35-468a-b883-b7c806a1e546@3.125.6.82:45966?security=&encryption=none&headerType=none&type=tcp#DE
