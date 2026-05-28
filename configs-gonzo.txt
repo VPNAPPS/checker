@@ -1,1 +1,1 @@
-Country: TW, Speed: 48.83 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@111.248.88.150:50099#TW
+Country: KR, Speed: 38.84 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.100.194:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR
