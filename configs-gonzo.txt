@@ -1,1 +1,2 @@
-Country: KR, Speed: 76.27 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.100.194:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR
+Country: SG, Speed: 163.25 Mbps, Config: vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?encryption=none&security=none&type=tcp&headerType=none#SG
+Country: KR, Speed: 76.48 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.100.194:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR
