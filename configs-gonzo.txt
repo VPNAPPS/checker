@@ -1,1 +1,1 @@
-Country: JP, Speed: 67.59 Mbps, Config: vless://4b9939e9-9d48-4fa5-8d43-c671e5efa664@185.141.219.110:28507?security=none&encryption=none&headerType=none&type=tcp#JP
+Country: JP, Speed: 24.23 Mbps, Config: vless://4b9939e9-9d48-4fa5-8d43-c671e5efa664@185.141.219.110:28507?security=none&encryption=none&headerType=none&type=tcp#JP
