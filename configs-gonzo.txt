@@ -1,2 +1,2 @@
-Country: KR, Speed: 41.32 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.209.49.22:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR
-Country: KR, Speed: 26.82 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.14.130:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=api.company-target.com#KR
+Country: HK, Speed: 39.81 Mbps, Config: vless://6b39c5a5-9272-41f4-87a9-0776c453380c@8.217.34.150:56592?security=&encryption=none&headerType=none&type=tcp#HK
+Country: KR, Speed: 38.59 Mbps, Config: vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.14.130:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=api.company-target.com#KR
