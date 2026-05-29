@@ -1,5 +1,4 @@
-Country: HK, Speed: 144.33 Mbps, Config: vless://6b39c5a5-9272-41f4-87a9-0776c453380c@8.217.34.150:56592?security=none&type=tcp&fp=chrome&encryption=none#HK
-Country: HK, Speed: 138.40 Mbps, Config: vless://rootface@8.218.24.35:443?type=tcp&amp;path=%2F#HK
-Country: TW, Speed: 98.80 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.228.154.213:50099#TW
-Country: JP, Speed: 96.89 Mbps, Config: vless://4b9939e9-9d48-4fa5-8d43-c671e5efa664@185.141.219.110:28507?security=none&encryption=none&headerType=none&type=tcp#JP
-Country: HK, Speed: 68.82 Mbps, Config: vless://6b39c5a5-9272-41f4-87a9-0776c453380c@8.217.34.150:56592?type=tcp&security=none&fp=chrome#HK
+Country: FI, Speed: 170.46 Mbps, Config: vless://9beef3b2-5749-4529-a91a-29af1c043d6b@ru.washing.help:8443?encryption=none&security=tls&sni=ru.washing.help&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#FI
+Country: HK, Speed: 145.71 Mbps, Config: vless://rootface@8.218.24.35:443?type=tcp&amp;path=%2F#HK
+Country: JP, Speed: 63.93 Mbps, Config: vless://4b9939e9-9d48-4fa5-8d43-c671e5efa664@185.141.219.110:28507?security=none&encryption=none&headerType=none&type=tcp#JP
+Country: HK, Speed: 25.28 Mbps, Config: vless://6b39c5a5-9272-41f4-87a9-0776c453380c@8.217.34.150:56592?security=none&type=tcp&fp=chrome&encryption=none#HK
