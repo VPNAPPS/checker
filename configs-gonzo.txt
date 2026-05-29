@@ -1,1 +1,1 @@
-Country: HK, Speed: 21.69 Mbps, Config: vless://rootface@8.218.24.35:443?type=tcp&amp;path=%2F#HK
+Country: HK, Speed: 142.93 Mbps, Config: vless://rootface@8.218.24.35:443?type=tcp&amp;path=%2F#HK
