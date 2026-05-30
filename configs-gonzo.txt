@@ -1,1 +1,1 @@
-Country: SG, Speed: 20.07 Mbps, Config: trojan://BxceQaOe@18.166.59.84:7484?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: SG, Speed: 53.34 Mbps, Config: trojan://BxceQaOe@18.166.59.84:7484?type=tcp&security=tls&headerType=none&sni=t.me%252Fripaojiedian&allowInsecure=1#SG
