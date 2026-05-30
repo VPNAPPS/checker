@@ -1,1 +1,3 @@
-Country: JP, Speed: 24.23 Mbps, Config: vless://4b9939e9-9d48-4fa5-8d43-c671e5efa664@185.141.219.110:28507?security=none&encryption=none&headerType=none&type=tcp#JP
+Country: TR, Speed: 48.18 Mbps, Config: vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?security=none&encryption=none&headerType=none&type=tcp#TR
+Country: TR, Speed: 42.54 Mbps, Config: vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?security=&encryption=none&headerType=none&type=tcp#TR
+Country: DE, Speed: 21.28 Mbps, Config: vless://d3063a4b-88d3-488a-96de-7e53a077e040@172.65.110.0:25565?encryption=none&fp=chrome&headerType=http&host=divarcdn.com&path=/&pbk=1SNt2CdNDKixKhEsU_0M2F0qEKqKksNm41-q5Q72JUk&security=reality&sid=bbe7b2&sni=www.amazon.com&spx=/kb7xak7lSd5TkUV&type=tcp#DE
