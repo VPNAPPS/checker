@@ -1,6 +1,5 @@
-Country: US, Speed: 81.45 Mbps, Config: trojan://BxceQaOe@13.231.192.34:53307?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: SG, Speed: 72.02 Mbps, Config: trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:4840?allowInsecure=1&sni=www.nintendogames.net#SG
-Country: US, Speed: 70.85 Mbps, Config: trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:3135?allowInsecure=1&sni=www.nintendogames.net#JP
-Country: HK, Speed: 68.45 Mbps, Config: trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.166.208.219:53018?allowInsecure=1&sni=www.nintendogames.net#HK
-Country: SG, Speed: 32.67 Mbps, Config: trojan://BxceQaOe@18.166.59.84:7484?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: US, Speed: 8.75 Mbps, Config: trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?allowInsecure=1&sni=www.nintendogames.net#US
+Country: HK, Speed: 71.84 Mbps, Config: trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.166.208.219:53018?allowInsecure=1&sni=www.nintendogames.net#HK
+Country: SG, Speed: 58.13 Mbps, Config: trojan://BxceQaOe@18.166.59.84:7484?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: SG, Speed: 36.15 Mbps, Config: trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:4840?allowInsecure=1&sni=www.nintendogames.net#SG
+Country: US, Speed: 29.53 Mbps, Config: trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:3135?allowInsecure=1&sni=www.nintendogames.net#JP
+Country: DE, Speed: 15.69 Mbps, Config: vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#DE
