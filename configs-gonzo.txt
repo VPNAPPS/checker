@@ -1,2 +1,9 @@
-Country: HK, Speed: 40.92 Mbps, Config: vless://382a6aa9-ff5d-4860-a800-3d5fb6326604@salam.testspeedpro.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#HK
-Country: HK, Speed: 40.89 Mbps, Config: vless://382a6aa9-ff5d-4860-a800-3d5fb6326604@salam.testspeedpro.ir:443?encryption=none&security=none&type=tcp#HK
+Country: IN, Speed: 143.94 Mbps, Config: vless://TIGNAL-CRYPTO@fastly.com:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
+Country: HK, Speed: 139.87 Mbps, Config: vless://InternetAzadRobot-AliKiller@151.101.129.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
+Country: HK, Speed: 137.55 Mbps, Config: vless://TIGNAL-CRYPTO@151.101.193.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
+Country: HK, Speed: 114.73 Mbps, Config: vless://TIGNAL-CRYPTO@151.101.129.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
+Country: HK, Speed: 109.08 Mbps, Config: vless://TOFAN-TRADE@fastly.com:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
+Country: IN, Speed: 104.84 Mbps, Config: vless://InternetAzadRobot-AliKiller@151.101.193.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
+Country: IN, Speed: 97.30 Mbps, Config: vless://TOFAN-TRADE@151.101.67.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
+Country: IN, Speed: 87.48 Mbps, Config: vless://InternetAzadRobot-AliKiller@151.101.67.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
+Country: IN, Speed: 72.32 Mbps, Config: vless://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#IN
