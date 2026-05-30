@@ -1,2 +1,1 @@
-Country: US, Speed: 65.30 Mbps, Config: trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:3135?allowInsecure=1&sni=www.nintendogames.net#JP
-Country: SG, Speed: 43.72 Mbps, Config: trojan://BxceQaOe@18.166.59.84:7484?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: SG, Speed: 20.07 Mbps, Config: trojan://BxceQaOe@18.166.59.84:7484?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
