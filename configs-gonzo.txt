@@ -1,2 +1,3 @@
-Country: TR, Speed: 32.79 Mbps, Config: vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?security=none&encryption=none&headerType=none&type=tcp#TR
-Country: TR, Speed: 32.79 Mbps, Config: vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?security=&encryption=none&headerType=none&type=tcp#TR
+Country: TR, Speed: 176.57 Mbps, Config: vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?security=&encryption=none&headerType=none&type=tcp#TR
+Country: TR, Speed: 153.37 Mbps, Config: vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?security=none&encryption=none&headerType=none&type=tcp#TR
+Country: IN, Speed: 86.75 Mbps, Config: vless://8667cb55-c70a-5461-a213-5c038241abc2@45.89.106.4:443?security=reality&encryption=none&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=972e3378#IN
