@@ -1,1 +1,1 @@
-Country: JP, Speed: 113.17 Mbps, Config: vless://390b0f89-5b07-4424-bc9d-5994c1631d87@223.135.156.168:50024?encryption=none&security=none&type=tcp&headerType=none#JP
+Country: FI, Speed: 10.06 Mbps, Config: vless://6bbccb5c-97bb-4856-a0a2-032f632bc66e@org17.okala.click:55017?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#FI
