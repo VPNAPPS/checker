@@ -1,2 +1,2 @@
-Country: SG, Speed: 150.33 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TURWbU1EWm1NamN4TUdWaFpUaGxZbVZrWkdFd09UaGlObUpqWVRZek16Yz06WVRsa056STNZMlF0TXpNd1lpMDBaV1JrTFRnNU1URXROMk15TWpSa1pqWT0@sg-03.jjsdns.com:17891#SG
-Country: DE, Speed: 13.48 Mbps, Config: vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?encryption=none&type=xhttp&mode=packet-up&host=lizzard.global.ssl.fastly.net&path=%2Flizzard&security=tls&fp=chrome&sni=ssl.fastly.com#DE
+Country: KR, Speed: 79.96 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.165.161.107:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR
+Country: SG, Speed: 72.01 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.162.99:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#SG
