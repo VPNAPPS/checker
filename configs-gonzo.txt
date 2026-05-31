@@ -1,1 +1,1 @@
-Country: CH, Speed: 9.84 Mbps, Config: vless://dcf1917a-7cd5-49fd-b229-265ba074dd58@s2.eldoradu.ir:8443?encryption=none&type=xhttp&mode=auto&path=%2F%3Fed%3D8443&security=tls&sni=trx.sellink.ir#CH
+Country: CH, Speed: 10.37 Mbps, Config: vless://dcf1917a-7cd5-49fd-b229-265ba074dd58@s2.eldoradu.ir:8443?encryption=none&type=xhttp&mode=auto&path=%2F%3Fed%3D8443&security=tls&sni=trx.sellink.ir#CH
