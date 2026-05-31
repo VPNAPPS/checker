@@ -1,1 +1,1 @@
-Country: SG, Speed: 144.41 Mbps, Config: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TURWbU1EWm1NamN4TUdWaFpUaGxZbVZrWkdFd09UaGlObUpqWVRZek16Yz06WVRsa056STNZMlF0TXpNd1lpMDBaV1JrTFRnNU1URXROMk15TWpSa1pqWT0=@sg-01.jjsdns.com:19822#SG
+Country: JP, Speed: 113.17 Mbps, Config: vless://390b0f89-5b07-4424-bc9d-5994c1631d87@223.135.156.168:50024?encryption=none&security=none&type=tcp&headerType=none#JP
