@@ -1,5 +1,5 @@
-Country: SG, Speed: 84.57 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@16.163.157.108:1180?allowInsecure=1&sni=www.nintendogames.net#SG
-Country: SG, Speed: 82.28 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@16.163.157.108:3842?allowInsecure=1&sni=www.nintendogames.net#SG
-Country: US, Speed: 79.67 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: SG, Speed: 69.67 Mbps, Config: trojan://BxceQaOe@52.69.79.73:29440?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: US, Speed: 9.99 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@16.163.157.108:6604?allowInsecure=1&sni=www.nintendogames.net#US
+Country: US, Speed: 79.36 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: SG, Speed: 67.66 Mbps, Config: trojan://BxceQaOe@52.69.79.73:29440?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
+Country: DE, Speed: 21.32 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&type=tcp#DE
+Country: DE, Speed: 15.59 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&headerType=none&type=tcp#DE
+Country: DE, Speed: 8.65 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#DE
