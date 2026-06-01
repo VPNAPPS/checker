@@ -1,2 +1,2 @@
-Country: SG, Speed: 66.86 Mbps, Config: trojan://BxceQaOe@52.69.79.73:29440?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: NO, Speed: 11.47 Mbps, Config: vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@susp.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=vQq6jRH1DI-wgPIx9zdQ6mtgYu9RK9MYAAX89qRu0hY&sid=9bd2e733#NO
+Country: US, Speed: 79.15 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: SG, Speed: 67.38 Mbps, Config: trojan://BxceQaOe@52.69.79.73:29440?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
