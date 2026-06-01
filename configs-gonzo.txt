@@ -1,2 +1,1 @@
-Country: US, Speed: 72.65 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: DE, Speed: 8.74 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#DE
+Country: US, Speed: 76.46 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
