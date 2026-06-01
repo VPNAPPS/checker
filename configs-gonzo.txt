@@ -1,5 +1,1 @@
-Country: US, Speed: 36.29 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: DE, Speed: 20.50 Mbps, Config: vless://1944d068-8610-4e3f-a900-a7e5ee79037b@45.130.125.76:443?mode=auto&path=/v2raylink&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=vvv.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=vvv.alibaba1405.org#DE
-Country: DE, Speed: 14.95 Mbps, Config: vless://1944d068-8610-4e3f-a900-a7e5ee79037b@45.130.125.76:443?mode=auto&path=%2Fv2raylink&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=vvv.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=vvv.alibaba1405.org#DE
-Country: GB, Speed: 10.57 Mbps, Config: vless://9181404f-cd0b-4969-a107-0171ddfd1061@ukreal.greewebservices.ir:4404?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#GB
-Country: DE, Speed: 10.15 Mbps, Config: vless://9181404f-cd0b-4969-a107-0171ddfd1061@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#DE
+Country: US, Speed: 42.21 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
