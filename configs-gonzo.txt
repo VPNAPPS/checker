@@ -1,1 +1,3 @@
-Country: US, Speed: 42.21 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: US, Speed: 73.53 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#JP
+Country: US, Speed: 66.38 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: US, Speed: 64.70 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?sni=43.199.61.178&allowInsecure=1&type=tcp&fp=chrome#JP
