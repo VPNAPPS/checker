@@ -1,1 +1,1 @@
-Country: US, Speed: 76.46 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: US, Speed: 70.97 Mbps, Config: trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
