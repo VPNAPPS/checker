@@ -1,2 +1,1 @@
-Country: US, Speed: 40.62 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?type=tcp&security=tls&sni=18.181.199.223&fp=chrome&allowInsecure=1#JP
-Country: US, Speed: 29.92 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?allowInsecure=1&sni=www.nintendogames.net#JP
+Country: JP, Speed: 78.03 Mbps, Config: trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
