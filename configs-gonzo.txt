@@ -1,1 +1,2 @@
-Country: FR, Speed: 12.67 Mbps, Config: trojan://telegram-id-directvpn@13.36.49.197:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#FR
+Country: JP, Speed: 78.55 Mbps, Config: trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: FR, Speed: 9.88 Mbps, Config: trojan://telegram-id-directvpn@13.36.49.197:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#FR
