@@ -1,3 +1,1 @@
-Country: JP, Speed: 78.14 Mbps, Config: trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
-Country: SG, Speed: 67.05 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:1180?allowInsecure=1&sni=www.nintendogames.net#SG
-Country: SG, Speed: 65.60 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:1180?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#SG
+Country: FR, Speed: 12.67 Mbps, Config: trojan://telegram-id-directvpn@13.36.49.197:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#FR
