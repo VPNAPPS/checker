@@ -1,1 +1,1 @@
-Country: JP, Speed: 78.03 Mbps, Config: trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
+Country: JP, Speed: 81.06 Mbps, Config: trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#JP
