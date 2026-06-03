@@ -1,1 +1,2 @@
-Country: GB, Speed: 192.94 Mbps, Config: vless://a3e387a8-2284-45b8-b5ea-48837b9691ce@31.76.87.64:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=pl.gobalance.live&path=/api/v1/events&host=pl.gobalance.live&insecure=0#US
+Country: DE, Speed: 11.83 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&type=raw&headerType=none&security=none#DE
+Country: RU, Speed: 9.78 Mbps, Config: vless://7d876627-abf5-4865-8ff4-03f37d49de5d@5.188.140.160:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#RU
