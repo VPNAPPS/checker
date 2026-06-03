@@ -1,3 +1,1 @@
-Country: SG, Speed: 67.88 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:3842?allowInsecure=1&sni=www.nintendogames.net#SG
-Country: HK, Speed: 65.26 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:53018?allowInsecure=1&sni=www.nintendogames.net#HK
-Country: AU, Speed: 8.87 Mbps, Config: vless://InternetAzad-PRO@151.101.3.19:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=service28342.global.ssl.fastly.net&type=xhttp#AU
+Country: HK, Speed: 70.28 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:53018?allowInsecure=1&sni=www.nintendogames.net#HK
