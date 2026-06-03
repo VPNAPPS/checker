@@ -1,2 +1,2 @@
-Country: SG, Speed: 82.04 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.152.86:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#SG
-Country: HK, Speed: 38.66 Mbps, Config: vless://03fcc618-b93d-6796-6aed-8a38c975d581@89.223.95.63:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=89.223.95.63&fp=chrome#HK
+Country: SG, Speed: 70.44 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.152.86:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#SG
+Country: HK, Speed: 56.08 Mbps, Config: vless://03fcc618-b93d-6796-6aed-8a38c975d581@89.223.95.63:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=89.223.95.63&fp=chrome#HK
