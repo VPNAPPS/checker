@@ -1,9 +1,8 @@
-Country: TW, Speed: 94.56 Mbps, Config: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001287h3p.cybervena.com:50099#TW
-Country: KR, Speed: 73.26 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.99.41:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR
-Country: FR, Speed: 26.04 Mbps, Config: trojan://telegram-id-directvpn@13.36.49.197:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#FR
-Country: FR, Speed: 25.14 Mbps, Config: trojan://telegram-id-directvpn@13.36.49.197:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#FR
-Country: DE, Speed: 21.22 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#DE
-Country: DE, Speed: 11.79 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#DE
-Country: DE, Speed: 10.60 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&type=tcp&headerType=none#DE
-Country: DE, Speed: 8.50 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?path=%2F&type=tcp#DE
-Country: DE, Speed: 8.41 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&type=raw&headerType=none&security=none#DE
+Country: KR, Speed: 77.10 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.99.41:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#KR
+Country: DE, Speed: 22.26 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#DE
+Country: DE, Speed: 21.18 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?path=/&type=tcp#DE
+Country: DE, Speed: 14.55 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#DE
+Country: DE, Speed: 10.70 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?path=%2F&type=tcp#DE
+Country: DE, Speed: 10.51 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&type=raw&headerType=none&security=none#DE
+Country: DE, Speed: 10.36 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#DE
+Country: DE, Speed: 9.19 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#DE
