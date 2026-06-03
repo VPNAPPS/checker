@@ -1,1 +1,1 @@
-Country: HK, Speed: 115.89 Mbps, Config: vless://03fcc618-b93d-6796-6aed-8a38c975d581@89.223.95.63:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=89.223.95.63&fp=chrome#HK
+Country: HK, Speed: 111.56 Mbps, Config: vless://03fcc618-b93d-6796-6aed-8a38c975d581@89.223.95.63:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=89.223.95.63&fp=chrome#HK
