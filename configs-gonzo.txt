@@ -1,1 +1,1 @@
-Country: US, Speed: 75.01 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@43.207.82.19:31351?allowInsecure=1&sni=www.nintendogames.net#JP
+Country: DE, Speed: 25.89 Mbps, Config: vless://6726c483-a99b-459e-9ce0-e01b38bcd9b6@test6.aiproject.info:2087?mode=auto&path=%2FNEWS&security=tls&encryption=none&insecure=0&host=de-x-124-2087.cdngreatfast.us&type=xhttp&allowInsecure=0&sni=de-x-124-2087.cdngreatfast.us#DE
