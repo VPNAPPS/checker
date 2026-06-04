@@ -1,2 +1,1 @@
-Country: DE, Speed: 12.34 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#DE
-Country: DE, Speed: 8.95 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&security=none#DE
+Country: US, Speed: 63.27 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@43.207.82.19:31351?allowInsecure=1&sni=www.nintendogames.net#JP
