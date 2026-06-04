@@ -1,3 +1,1 @@
-Country: SG, Speed: 156.54 Mbps, Config: ss://YWVzLTI1Ni1nY206QU8rZ0RiVkZ5WUVBcURuY0JQd2lIcm1ZdEdkU25RekVQMll5L1pFMzNRbz0@139.59.105.105:28182?type=tcp#SG
-Country: GB, Speed: 20.25 Mbps, Config: vless://6a8233fe-6fc0-4dd8-aab2-d4063c16089c@5.144.179.56:45466?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#GB
-Country: GB, Speed: 19.59 Mbps, Config: vless://6a8233fe-6fc0-4dd8-aab2-d4063c16089c@5.144.179.56:45466?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#GB
+Country: SG, Speed: 159.49 Mbps, Config: ss://YWVzLTI1Ni1nY206QU8rZ0RiVkZ5WUVBcURuY0JQd2lIcm1ZdEdkU25RekVQMll5L1pFMzNRbz0@139.59.105.105:28182?type=tcp#SG
