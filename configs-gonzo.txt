@@ -1,2 +1,2 @@
-Country: SG, Speed: 75.11 Mbps, Config: trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%252Fripaojiedian#SG
-Country: DE, Speed: 25.80 Mbps, Config: vless://6726c483-a99b-459e-9ce0-e01b38bcd9b6@test6.aiproject.info:2087?mode=auto&path=%2FNEWS&security=tls&encryption=none&insecure=0&host=de-x-124-2087.cdngreatfast.us&type=xhttp&allowInsecure=0&sni=de-x-124-2087.cdngreatfast.us#DE
+Country: SG, Speed: 83.91 Mbps, Config: vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.144.48:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#SG
+Country: DE, Speed: 34.18 Mbps, Config: vless://6726c483-a99b-459e-9ce0-e01b38bcd9b6@test6.aiproject.info:2087?mode=auto&path=%2FNEWS&security=tls&encryption=none&insecure=0&host=de-x-124-2087.cdngreatfast.us&type=xhttp&allowInsecure=0&sni=de-x-124-2087.cdngreatfast.us#DE
