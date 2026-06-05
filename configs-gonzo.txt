@@ -1,2 +1,2 @@
-Country: NL, Speed: 17.24 Mbps, Config: vless://a2415a12-3f92-4636-9823-9828d3ceb818@72.56.18.179:443?type=tcp&security=reality&pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&fp=firefox&sni=www.ya.ru&sid=2af15d98#RU
-Country: NL, Speed: 14.28 Mbps, Config: vless://69a2af58-d74a-44ca-864a-e09b493f4274@72.56.18.179:443?type=tcp&security=reality&pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&fp=firefox&sni=www.ya.ru&sid=2af15d98#RU
+Country: NL, Speed: 12.11 Mbps, Config: vless://69a2af58-d74a-44ca-864a-e09b493f4274@72.56.18.179:443?type=tcp&security=reality&pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&fp=firefox&sni=www.ya.ru&sid=2af15d98#RU
+Country: NL, Speed: 9.93 Mbps, Config: vless://a2415a12-3f92-4636-9823-9828d3ceb818@72.56.18.179:443?type=tcp&security=reality&pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&fp=firefox&sni=www.ya.ru&sid=2af15d98#RU
