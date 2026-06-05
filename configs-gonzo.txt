@@ -1,2 +1,1 @@
-Country: DE, Speed: 17.68 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&type=raw&headerType=none&security=none#DE
-Country: DE, Speed: 13.73 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&type=tcp&headerType=none#DE
+Country: DE, Speed: 17.54 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&type=raw&headerType=none&security=none#DE
