@@ -1,2 +1,2 @@
-Country: DE, Speed: 14.22 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&headerType=none#DE
-Country: DE, Speed: 10.63 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&sni=3.71.187.131&type=tcp&headerType=none#DE
+Country: DE, Speed: 22.52 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&sni=3.71.187.131&type=tcp&headerType=none#DE
+Country: DE, Speed: 14.28 Mbps, Config: vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&headerType=none#DE
