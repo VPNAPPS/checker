@@ -1,2 +1,4 @@
-Country: TH, Speed: 79.82 Mbps, Config: vless://FREE@bm.xq-vpn.com:80?encryption=none&type=xhttp&host=cJ-sPeEdTeSt.EbB.mY&path=/&mode=auto&packetEncoding=xudp&udp=1#TH
-Country: GB, Speed: 8.72 Mbps, Config: vless://5a563b3b-7fe5-4e56-a1db-790925eec6a2@fhucccxruijvds.iramkemax.ir:17449?type=raw&security=none#FI
+Country: DE, Speed: 15.22 Mbps, Config: vless://b73087cc-d34d-4a40-90b2-152fcf2d6913@speedtest.net:80?encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=bababenazam.co&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#DE
+Country: KZ, Speed: 14.62 Mbps, Config: vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b318242471ba4f5b&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0#KZ
+Country: KZ, Speed: 13.78 Mbps, Config: vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#KZ
+Country: DE, Speed: 9.64 Mbps, Config: vless://b73087cc-d34d-4a40-90b2-152fcf2d6913@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=bababenazam.co&type=xhttp#DE
