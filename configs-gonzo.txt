@@ -1,5 +1,6 @@
-Country: HK, Speed: 86.93 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@43.198.226.205:53018?allowInsecure=1&sni=www.nintendogames.net#HK
-Country: SG, Speed: 84.31 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:12143?allowInsecure=1&sni=www.nintendogames.net#SG
-Country: SG, Speed: 81.77 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.167.42.231:6357?allowInsecure=1&sni=www.nintendogames.net#SG
-Country: US, Speed: 78.62 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.167.42.231:5701?allowInsecure=1&sni=www.nintendogames.net#JP
-Country: US, Speed: 77.12 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@43.198.226.205:37973?allowInsecure=1&sni=www.nintendogames.net#JP
+Country: HK, Speed: 87.02 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@43.198.226.205:53018?allowInsecure=1&sni=www.nintendogames.net#HK
+Country: SG, Speed: 79.14 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.167.42.231:6357?allowInsecure=1&sni=www.nintendogames.net#SG
+Country: US, Speed: 78.13 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@18.167.42.231:5701?allowInsecure=1&sni=www.nintendogames.net#JP
+Country: US, Speed: 75.63 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@43.198.226.205:37973?allowInsecure=1&sni=www.nintendogames.net#JP
+Country: SG, Speed: 74.88 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:12143?allowInsecure=1&sni=www.nintendogames.net#SG
+Country: US, Speed: 14.22 Mbps, Config: trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:6604?allowInsecure=1&sni=www.nintendogames.net#US
