@@ -1,1 +1,2 @@
-Country: US, Speed: 14.51 Mbps, Config: trojan://Tn9ytcFXsOnbUsJYKJ@us-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#US
+Country: TH, Speed: 79.82 Mbps, Config: vless://FREE@bm.xq-vpn.com:80?encryption=none&type=xhttp&host=cJ-sPeEdTeSt.EbB.mY&path=/&mode=auto&packetEncoding=xudp&udp=1#TH
+Country: GB, Speed: 8.72 Mbps, Config: vless://5a563b3b-7fe5-4e56-a1db-790925eec6a2@fhucccxruijvds.iramkemax.ir:17449?type=raw&security=none#FI
