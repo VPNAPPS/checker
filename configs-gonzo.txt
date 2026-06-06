@@ -1,2 +1,1 @@
-Country: US, Speed: 10.22 Mbps, Config: trojan://Tn9ytcFXsOnbUsJYKJ@us-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#US
-Country: US, Speed: 8.84 Mbps, Config: vless://fbac725a-f425-4608-8de6-ac100363d612@45.148.118.68:37126?security=none&encryption=none&headerType=none&type=tcp#US
+Country: US, Speed: 14.51 Mbps, Config: trojan://Tn9ytcFXsOnbUsJYKJ@us-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#US
