@@ -1,1 +1,1 @@
-Country: US, Speed: 12.06 Mbps, Config: vless://9497983d-6d5c-4ddc-bcd4-073f95dbb37f@gr1.freeiebio.com:8443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=chrome&pbk=JsmjcI9SjVt5OVZE8bTgUJdx2oIko--P2CXK9wEQWBQ&sid=f621e07903f709d7#DE
+Country: US, Speed: 13.87 Mbps, Config: vless://9497983d-6d5c-4ddc-bcd4-073f95dbb37f@gr1.freeiebio.com:8443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=chrome&pbk=JsmjcI9SjVt5OVZE8bTgUJdx2oIko--P2CXK9wEQWBQ&sid=f621e07903f709d7#DE
