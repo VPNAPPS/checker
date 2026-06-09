@@ -1,1 +1,1 @@
-Country: JP, Speed: 60.90 Mbps, Config: vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&sni=www.icloud.com&sid=450d60a09ffb65&spx=%2F#JP
+Country: NL, Speed: 17.23 Mbps, Config: vless://0698d601-aa2f-40a8-8060-e19723564e2f@uk.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#GB
